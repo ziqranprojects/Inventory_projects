@@ -1,0 +1,1991 @@
+Member Type,Member Name (Singkatan),Item Code,Title,Loan Date,Due Date,Loan Status,Note,Loan Duration
+MAHASISWA,Dind,A2308,Belajar bisnis di internet,02/01/2024,11/01/2024,1,returned,9
+MAHASISWA,Dind,A8840,Kalung setengah hati,02/01/2024,11/01/2024,1,returned,9
+MAHASISWA,Soni,A6725,Treasure island,02/01/2024,11/01/2024,1,returned,9
+MAHASISWA,Soni,A1047,Tentang kamu,02/01/2024,11/01/2024,1,returned,9
+MAHASISWA,Malo,A7616,Daun yang jatuh tak pernah membenci angin,02/01/2024,11/01/2024,1,returned,9
+MAHASISWA,Nayl,A012510,Funiculi Funicula,02/01/2024,11/01/2024,1,returned,9
+MAHASISWA,AHMA,A012561,Buku Referensi : Kuesioner dalam Pengukuran Usability,02/01/2024,11/01/2024,1,returned,9
+MAHASISWA,DAFF,A7903,Belajar Machine Learning Teori dan Praktik,02/01/2024,11/01/2024,1,returned,9
+MAHASISWA,ROSY,A6733,Introduction to satellite communication,02/01/2024,11/01/2024,1,returned,9
+KARYAWAN,Pres,A4795,Rangkaian listrik,03/01/2024,26/01/2024,1,returned,23
+MAHASISWA,Lutv,A1795,Anatomi & fisiologi manusia,03/01/2024,12/01/2024,1,returned,9
+MAHASISWA,Atha,A8379,Anatomi fisiologi,03/01/2024,12/01/2024,1,returned,9
+MAHASISWA,AVIE,A7785,Marxisme,03/01/2024,12/01/2024,1,returned,9
+MAHASISWA,AVIE,A7103,Mengenal Marxisme: untuk Pemula,03/01/2024,12/01/2024,1,returned,9
+MAHASISWA,DEA,A6861,Perancangan jaringan gelombang mikro menggunakan pathloss 5 teori dan simulasi,03/01/2024,12/01/2024,1,returned,9
+MAHASISWA,DEA,A12334,Sistem Komunikasi Kendaraan Bergerak,03/01/2024,12/01/2024,1,returned,9
+MAHASISWA,DEA,A4386,Teach yourself electricity and electronics: fourth edition,03/01/2024,12/01/2024,1,returned,9
+MAHASISWA,NADY,A012623,"Antena & Propagasi, Teori dan Praktik",03/01/2024,12/01/2024,1,returned,9
+MAHASISWA,DINA,A3597,16 Strategi lulus ujian TOEFL,03/01/2024,12/01/2024,1,returned,9
+MAHASISWA,DINA,A3584,Sukses menyelesaikan TOEFL structure,03/01/2024,12/01/2024,1,returned,9
+KARYAWAN,Pres,A4482,Rangkaian elektronik: prinsip dan aplikasi,04/01/2024,29/01/2024,1,returned,25
+KARYAWAN,Pres,A2131,Prinsip-prinsip elektronika edisi ketiga,04/01/2024,29/01/2024,1,returned,25
+KARYAWAN,Pres,A012503,"Prinsip Elektronika Dasar (Teori, Contoh Soal dan Evaluasi)",04/01/2024,29/01/2024,1,returned,25
+MAHASISWA,MUHA,A8512,Sebuah seni untuk bersikap bodo amat : pendekatan yang waras demi menjalani hidup yang baik,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Dinn,A012120,"Enzimologi; Sifat, Mekanisme, Katalisis dan Kinetika Enzim",04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Azmi,A012119,"Enzimologi; Sifat, Mekanisme, Katalisis dan Kinetika Enzim",04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,MUHA,A012125,Fisiologi Manusia & Metabolisme Zat Gizi,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,MUHA,A012051,Dasar-dasar Biokimia Jilid 1,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Kari,A012845,Dasar-dasar Biokimia Jilid 1,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Dewi,A012050,Dasar-dasar Biokimia Jilid 1,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Eka,A012125,Fisiologi Manusia & Metabolisme Zat Gizi,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Safa,A0411,Dasar pemrograman Java 2,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Safa,A012411,Pemrograman Java Servlet dan JSp dengan NetBeans,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,MUHA,A6615,Panduan hacking website dengan kali Linux,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,MUHA,A2723,Jurus ampuh basmi virus komputer,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,MUHA,A2227,Panduan praktis web hacking dari subkultural programmer,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,wima,A012126,Fisiologi Manusia & Metabolisme Zat Gizi,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,RIFK,a010988,Confessions,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Vane,A010604,DRACULA,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Elsa,A7912,Roadmap Broadbrand Indonesia Menuju Era Teknologi 5G,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,ELSA,A8911,"Metode penelitian kuantitatif, kualitatif, dan R&D",04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,WIDY,A012052,Dasar-dasar Biokimia Jilid 3,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,WIDY,A012955,Dasar-Dasar Mikrobiologi 2,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,SALF,A012053,Dasar-dasar Biokimia Jilid 3,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Nadi,A012338,Brock Biology of Microorganisms (Fifteenth edition),04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Ally,A012086,"Asam Amino, Peptida dan Protein",04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Faiq,A012483,Instrumentasi Biomedis berbasis PC,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Faiq,A011412,Pengantar Anatomi Fisiologi Manusia,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Nusa,A012956,Dasar-Dasar Mikrobiologi 2,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Nusa,A010879,Instrumentasi Biomedis,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Nusa,A011374,Anatomi fisiologi,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Putr,A8378,Anatomi fisiologi,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Putr,A012954,Dasar-Dasar Mikrobiologi 1,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,Putr,A012509,Instrumentasi Biomedis,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,ELSA,A011585,Metode Penelitian Kuantitatif dan Kualitatif,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,ELSA,A9047,"Metode penelitian kualitatif: Untuk penelitian yang bersifat eksploratif, enterpretif, interaktif dan konstruktif",04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,ELSA,A1969,Penelitian kualitatif: dasar-dasar,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,ELSA,A9922,Metodologi penelitian kualitatif,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,TRI,A5946,Surga yang tak dirindukan,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,TRI,A9939,Pro-kontra aneka minuman bagi kesehatan,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,TRI,A0668,"Kalkulus, ed. 9",04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,AVIE,A9735,"The Design Thinking Life Playbook: Empower Yourself, Embrace Change, and Visualize a Joyful Life",04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,RAIH,A011810,Scale Up Your Potential In Digital Age; Melejitkan Potensi Diri Milenial Di Era Digital,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,MUHA,A7221,Software testing and quality assurance: theory and practice,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,INTA,A012562,Buku Referensi : Kuesioner dalam Pengukuran Usability,04/01/2024,15/01/2024,1,returned,11
+MAHASISWA,ASYA,A7794,Saudade,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Maul,A011115,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Maul,A9470,Logika pemrograman python,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Muha,A010121,The life-changing magic of tidying up,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Muha,A010325,Artificial intelligence in practice,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Tabi,A012782,"Permukaan biomaterial : strategi modifikasi, karakterisasi, dan respon tubuh",05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Nisr,A012783,"Permukaan biomaterial : strategi modifikasi, karakterisasi, dan respon tubuh",05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Diah,A7332,"Bahaya gula, garam, & lemak",05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Rose,A7343,"Bahaya gula, garam, & lemak",05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Andi,A3965,7 Intisari kesehatan the miracle of enzyme,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Dien,A012005,Teori dan Praktik Perhitungan Mikroorganisme,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Sara,A9738,Digital Vortex: How Today's Market Leaders Can Beat Disruptive Competitors at Their Own Game,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Sara,A8964,"Building the internet of things : pelaksanaan model baru, kompetitor yang mengganggu, dan transformasi industri anda",05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Sara,A9729,Leading Digital: Turning Technology into Business Transformation,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Sara,A8351,"Ide bisnis modal tipis 500 ribuan : langkah sukses membangun, menerapkan strategi, hingga mengatasi hambatan bisnis",05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Sara,A9176,Digital business concepts and strategy second edition,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Irfa,A010659,Beta Testing Job Series #1,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Ahma,A011705,Sapiens : riwayat singkat umat manusia,05/01/2024,15/01/2024,0,on_loan,10
+MAHASISWA,Nasy,A8867,Sapiens : riwayat singkat umat manusia,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Nasy,A012615,Bibi Gill,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Nasy,A0019,Aljabar linear,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Anis,A0457,Matematika teknik,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Anis,A0037,Aljabar linear,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Anis,A8413,Anatomi dan fisiologi untuk paramedis,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Vitr,A012571,Kami (Bukan) Fakir Asmara,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,Balt,A011387,Berdamai dengan Takdir,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,SETY,A012518,Essential Grammar and Reading Strategy For TOEFL Test,05/01/2024,15/01/2024,1,returned,10
+MAHASISWA,RENA,A3788,Longman Complete Course For the Toefl Test,05/01/2024,15/01/2024,1,returned,10
+KARYAWAN,Inda,A011863,"Tuhan, Izinkan Aku Menjadi Pelacur",08/01/2024,31/01/2024,1,returned,23
+MAHASISWA,Masy,A011772,Pendidikan Agama Islam di Perguruan Tinggi,08/01/2024,17/01/2024,1,returned,9
+MAHASISWA,Ther,A011448,Daun Yang Jatuh Tak Pernah Membenci Angin,08/01/2024,17/01/2024,1,returned,9
+MAHASISWA,Ther,A7614,Berdamai dengan Kegagalan,08/01/2024,17/01/2024,1,returned,9
+MAHASISWA,Ther,A010512,Tentang kamu,08/01/2024,17/01/2024,1,returned,9
+MAHASISWA,Fais,A7065,"Kalkulus dan geometri analitis, jilid 1",08/01/2024,17/01/2024,1,returned,9
+MAHASISWA,Evan,A1001,Dasar-dasar rangkaian listrik: disertai contoh soal-soal dan pembahasannya,08/01/2024,17/01/2024,1,returned,9
+MAHASISWA,Qudu,A012982,Logo 2021 (Buku 1),08/01/2024,17/01/2024,1,returned,9
+MAHASISWA,Qudu,A012983,Logo 2021 (Buku 2),08/01/2024,17/01/2024,1,returned,9
+MAHASISWA,GUST,A2136,Teknik konversi energi listrik dan sistem pengaturan,08/01/2024,17/01/2024,1,returned,9
+MAHASISWA,GUST,A4431,Modern power system control,08/01/2024,17/01/2024,1,returned,9
+MAHASISWA,Muha,a011858,Pendidikan Agama Islam di Perguruan Tinggi,08/01/2024,17/01/2024,1,returned,9
+MAHASISWA,Sara,A010878,Instrumentasi Biomedis,08/01/2024,17/01/2024,1,returned,9
+MAHASISWA,Kaut,A011680,Business Model And Business Plan Di Era 4.0,08/01/2024,17/01/2024,1,returned,9
+MAHASISWA,EBEN,A6341,4G LTE Advanced for beginner & consultant,08/01/2024,17/01/2024,1,returned,9
+MAHASISWA,Kaly,A010870,Digital business concepts and strategy second edition,09/01/2024,18/01/2024,1,returned,9
+MAHASISWA,LOGI,A011146,Control Your Emotion : Bagaimana Mengontrol Emosi Sebelum Emosi Mengontrol Anda,09/01/2024,18/01/2024,1,returned,9
+MAHASISWA,Yumn,A9798,Cara mudah mengatasi problem anemia,09/01/2024,18/01/2024,1,returned,9
+MAHASISWA,Sara,A012050,Dasar-dasar Biokimia Jilid 1,09/01/2024,18/01/2024,1,returned,9
+MAHASISWA,Sukm,A9587,Teori - teori psikologi,09/01/2024,08/07/2024,1,returned,181
+MAHASISWA,KHUS,A012617,Laut bercerita,09/01/2024,18/01/2024,1,returned,9
+MAHASISWA,Elsa,A1553,Digital communications fundamentals and applications,10/01/2024,19/01/2024,1,returned,9
+MAHASISWA,Shev,A012092,Komponen Minor & Bahan Tambahan Pangan,10/01/2024,19/01/2024,1,returned,9
+MAHASISWA,Shev,A012001,Mikrobiologi Pangan,10/01/2024,19/01/2024,1,returned,9
+MAHASISWA,Shev,A011943,Mikrobiologi industri : mikroorganisme dan aplikasinya dalam industri,10/01/2024,19/01/2024,1,returned,9
+MAHASISWA,Shev,A012802,Mikrobiologi Keamanan Pangan,10/01/2024,19/01/2024,1,returned,9
+MAHASISWA,Elsa,A1047,Tentang kamu,10/01/2024,19/01/2024,1,returned,9
+MAHASISWA,I Gu,A1377,Sebuah usaha melupakan,10/01/2024,19/01/2024,1,returned,9
+MAHASISWA,Niki,A012110,"Bioteknologi Penuaan, Peran Pangan dalam Peremajaan Kulit",10/01/2024,19/01/2024,1,returned,9
+MAHASISWA,Niki,A011413,Jurus Jitu Mengelola Emosi,10/01/2024,19/01/2024,1,returned,9
+MAHASISWA,Sri,A7063,Observasi psikologi,10/01/2024,19/01/2024,1,returned,9
+MAHASISWA,NIA,A5938,The book of codes,10/01/2024,19/01/2024,1,returned,9
+MAHASISWA,Mail,A011296,Belajar Pemrograman dan Hacking Menggunakan Python,10/01/2024,19/01/2024,1,returned,9
+MAHASISWA,Berl,A012618,Laut bercerita,10/01/2024,19/01/2024,1,returned,9
+MAHASISWA,Berl,A010194,Belajar pemrograman dan hacking menggunakan python,10/01/2024,19/01/2024,1,returned,9
+MAHASISWA,Syar,A6709,"Kalkulus dan geometri analitis, jilid 1",10/01/2024,19/01/2024,1,returned,9
+MAHASISWA,KRIS,A012597,Sistem Komunikasi Kendaraan Bergerak,10/01/2024,19/01/2024,1,returned,9
+MAHASISWA,AJIB,A012564,Buku Referensi : Kuesioner dalam Pengukuran Usability,10/01/2024,19/01/2024,1,returned,9
+MAHASISWA,AJIB,A010692,"Research Desain: Pendekatan Metode Kualitatif, Kuantitatif, dan Campuran",10/01/2024,19/01/2024,1,returned,9
+DOSEN,Yesy,A0906,Robot cerdas berbasis speech recognition menggunakan Matlab dan Arduino,11/01/2024,09/07/2024,1,returned,180
+DOSEN,Yesy,A1766,Pengolahan sinyal digital dengan pemrograman matlab,11/01/2024,09/07/2024,1,returned,180
+DOSEN,Yesy,A011150,Signals and systems,11/01/2024,09/07/2024,1,returned,180
+DOSEN,Yesy,A9773,Digital signal processing,11/01/2024,09/07/2024,1,returned,180
+DOSEN,Cepi,A8911,"Metode penelitian kuantitatif, kualitatif, dan R&D",11/01/2024,09/07/2024,1,returned,180
+MAHASISWA,Masa,A012616,Bibi Gill,11/01/2024,22/01/2024,1,returned,11
+MAHASISWA,Masa,A010845,"Kalkulus, ed. 9",11/01/2024,22/01/2024,1,returned,11
+MAHASISWA,Muha,A8347,Negeri Para Bedebah,11/01/2024,22/01/2024,1,returned,11
+MAHASISWA,Muha,A010843,"Kalkulus, ed. 9",11/01/2024,22/01/2024,1,returned,11
+MAHASISWA,Dind,A6036,Ya Allah aku jatuh cinta,11/01/2024,22/01/2024,1,returned,11
+MAHASISWA,Dind,A9371,Hijab for sisters,11/01/2024,22/01/2024,1,returned,11
+MAHASISWA,Adhi,A010012,JavaScript The Definitive Guide: Master the Worldâ€™s Most-Used Programming Language,11/01/2024,18/01/2024,1,returned,7
+MAHASISWA,RAYV,A011856,Pendidikan Agama Islam di Perguruan Tinggi,11/01/2024,22/01/2024,1,returned,11
+MAHASISWA,Muha,A011583,Pendidikan Agama Islam di Perguruan Tinggi,11/01/2024,22/01/2024,1,returned,11
+MAHASISWA,PRIS,A011661,I'm Yours,11/01/2024,22/01/2024,1,returned,11
+MAHASISWA,TIMA,A8956,Metode regresi linier,11/01/2024,22/01/2024,1,returned,11
+MAHASISWA,ANNI,A012567,Buku Referensi : Kuesioner dalam Pengukuran Usability,11/01/2024,22/01/2024,1,returned,11
+MAHASISWA,FADH,A012561,Buku Referensi : Kuesioner dalam Pengukuran Usability,11/01/2024,22/01/2024,1,returned,11
+MAHASISWA,Putr,A8734,Sejarah peradaban Islam,12/01/2024,22/01/2024,1,returned,10
+MAHASISWA,I Gu,A8902,Vocabulary skills booster,12/01/2024,22/01/2024,1,returned,10
+MAHASISWA,I Gu,A010113,English for business,12/01/2024,22/01/2024,1,returned,10
+MAHASISWA,NAND,A1892,Pengukuran teknik,12/01/2024,22/01/2024,1,returned,10
+MAHASISWA,Tega,A012474,Analisis Kimia Kuantitatif (Edisi 6),15/01/2024,24/01/2024,1,returned,9
+MAHASISWA,Desw,A7351,Mudah belajar python untuk aplikasi desktop dan web,15/01/2024,24/01/2024,1,returned,9
+MAHASISWA,RIFK,A9414,To Tokyo to love,15/01/2024,24/01/2024,1,returned,9
+MAHASISWA,Braw,A011769,Pendidikan Agama Islam di Perguruan Tinggi,15/01/2024,24/01/2024,1,returned,9
+MAHASISWA,I Gu,A9552,Kata : tentang senja yang kehilangan langitnya,15/01/2024,24/01/2024,1,returned,9
+MAHASISWA,Afna,A011768,Pendidikan Agama Islam di Perguruan Tinggi,15/01/2024,24/01/2024,1,returned,9
+MAHASISWA,Dwi,A010281,Origami hati,15/01/2024,24/01/2024,1,returned,9
+MAHASISWA,Dwi,A011027,Pulang,15/01/2024,24/01/2024,1,returned,9
+MAHASISWA,PANG,A7923,Belajar otodidak framework codeigniter edisi revisi : teknik pemrograman web dengan PHP 7 dan framework codeIgniter 3,15/01/2024,24/01/2024,1,returned,9
+DOSEN,Trih,A7041,Negeri di ujung tanduk,16/01/2024,15/07/2024,1,returned,181
+KARYAWAN,Hanu,A9235,Dasar-dasar perekonomian Indonesia,16/01/2024,08/02/2024,1,returned,23
+MAHASISWA,Dea,A8981,Apakah seperti ini 'cinta' itu sendiri? : sebuah cerita pada sepotong kayu,16/01/2024,25/01/2024,1,returned,9
+MAHASISWA,Elsa,A9646,Selamat tinggal,16/01/2024,25/01/2024,1,returned,9
+MAHASISWA,Elsa,A012618,Laut bercerita,16/01/2024,25/01/2024,1,returned,9
+MAHASISWA,Fitr,A011773,Pendidikan Agama Islam di Perguruan Tinggi,16/01/2024,25/01/2024,1,returned,9
+MAHASISWA,Ghul,A011862,Pendidikan Agama Islam di Perguruan Tinggi,16/01/2024,25/01/2024,1,returned,9
+MAHASISWA,JUND,A7778,Instrumen perangkat pembelajaran,16/01/2024,25/01/2024,1,returned,9
+MAHASISWA,JUND,A9562,Desain pembelajaran pendidikan,16/01/2024,25/01/2024,1,returned,9
+MAHASISWA,JUND,A010768,Metodologi Penelitian Desain Komunikasi Visual Edisi Revisi,16/01/2024,25/01/2024,1,returned,9
+MAHASISWA,JUND,A9935,Inovasi pendidikan : pendekatan praktik teknologi multimedia dan pembelajaran online,16/01/2024,25/01/2024,1,returned,9
+MAHASISWA,ELSA,A8775,"Metode penelitian kualitatif: Untuk penelitian yang bersifat eksploratif, enterpretif, interaktif dan konstruktif",16/01/2024,25/01/2024,1,returned,9
+MAHASISWA,ELSA,A9921,Metodologi penelitian kualitatif,16/01/2024,25/01/2024,1,returned,9
+MAHASISWA,KRIS,A012641,Sistem Komunikasi Digital,16/01/2024,25/01/2024,1,returned,9
+MAHASISWA,KRIS,A4601,Dasar-dasar telekomunikasi,16/01/2024,25/01/2024,1,returned,9
+MAHASISWA,KRIS,A6869,Perancangan jaringan gelombang mikro menggunakan pathloss 5 teori dan simulasi,16/01/2024,25/01/2024,1,returned,9
+MAHASISWA,KHUS,a7008,Piece of my life,16/01/2024,25/01/2024,1,returned,9
+MAHASISWA,REND,A6189,5 cm,16/01/2024,25/01/2024,1,returned,9
+KARYAWAN,Hanu,A012906,"Rich dad, poor dad",17/01/2024,09/02/2024,1,returned,23
+MAHASISWA,Afna,A6692,"Cloud computing teori dan praktik ( opennebula,vmware, dan amazon AWS )",17/01/2024,26/01/2024,1,returned,9
+MAHASISWA,ENDI,A7998,Bisnis online revisi kedua,17/01/2024,26/01/2024,0,on_loan,9
+MAHASISWA,I Gu,A1349,Hujan,17/01/2024,26/01/2024,1,returned,9
+MAHASISWA,KHUS,A6041,Lemannequin : hatiku tidak ada di Paris,17/01/2024,26/01/2024,1,returned,9
+MAHASISWA,PRIS,A1152,I wuf u,17/01/2024,26/01/2024,1,returned,9
+MAHASISWA,Soni,A010513,Selamat tinggal,18/01/2024,29/01/2024,1,returned,11
+MAHASISWA,Nabi,A7616,Daun yang jatuh tak pernah membenci angin,18/01/2024,29/01/2024,1,returned,11
+MAHASISWA,Mari,A1024,Milea: suara dari Dilan,18/01/2024,29/01/2024,1,returned,11
+MAHASISWA,Mari,A011861,Aku Ingin Pulang meski Sudah di rumah,18/01/2024,29/01/2024,1,returned,11
+MAHASISWA,AGUS,a7911,"Serat optik sebuah pengantar, ed. 3",18/01/2024,29/01/2024,0,on_loan,11
+MAHASISWA,AGUS,a011456,Noir Platinum Edition,18/01/2024,29/01/2024,1,returned,11
+MAHASISWA,Chri,A9162,"Network Security dan Cyber Security : Teori dan Praktik Cisco CCNA, Linux, Windowa, Amazon Aws, Android.",18/01/2024,29/01/2024,1,returned,11
+MAHASISWA,AFIF,A012563,Buku Referensi : Kuesioner dalam Pengukuran Usability,18/01/2024,29/01/2024,1,returned,11
+MAHASISWA,IKE,A012564,Buku Referensi : Kuesioner dalam Pengukuran Usability,18/01/2024,29/01/2024,1,returned,11
+DOSEN,Ajen,A012126,Fisiologi Manusia & Metabolisme Zat Gizi,19/01/2024,17/07/2024,1,returned,180
+MAHASISWA,Siti,A011808,How To Respect MySelf; Seni Menghargai Diri Sendiri,19/01/2024,29/01/2024,1,returned,10
+MAHASISWA,Anis,a011718,"Kalkulus dan geometri analitis, jilid 1",19/01/2024,29/01/2024,1,returned,10
+MAHASISWA,Anis,a7791,Kami (bukan) sarjana kertas,19/01/2024,29/01/2024,1,returned,10
+MAHASISWA,ANIS,A010844,"Kalkulus, ed. 9",19/01/2024,29/01/2024,1,returned,10
+MAHASISWA,TRI,A3816,The pelancong nekat: panduan asik ngobrol di 4 negara,19/01/2024,29/01/2024,1,returned,10
+MAHASISWA,TRI,A011799,Kambing Jantan : Sebuah Catatan Harian Pelajaran Bodoh,19/01/2024,29/01/2024,1,returned,10
+MAHASISWA,DIPT,A9703,Manajemen modern dengan scrum,19/01/2024,29/01/2024,1,returned,10
+MAHASISWA,KHUS,A6643,Cara mudah belajar metode optimisasi metaheuristik menggunakan Matlab,19/01/2024,29/01/2024,1,returned,10
+MAHASISWA,KHUS,A010803,Program Linier dan Aplikasinya,19/01/2024,29/01/2024,1,returned,10
+MAHASISWA,ADIV,A011497,Manusia dan Badainya,22/01/2024,31/01/2024,1,returned,9
+MAHASISWA,Maul,A6723,The magic,22/01/2024,31/01/2024,1,returned,9
+MAHASISWA,Nayl,a011285,Sherlock Holmes Anjing Iblis dari Baskerville,22/01/2024,31/01/2024,1,returned,9
+MAHASISWA,FADH,A012561,Buku Referensi : Kuesioner dalam Pengukuran Usability,22/01/2024,31/01/2024,1,returned,9
+DOSEN,Lina,A011725,"SELF LOVE : Cintailah dirimu, maka kehidupan akan mencintaimu",23/01/2024,22/07/2024,1,returned,181
+MAHASISWA,PUTR,A012398,Pulang - Pergi,23/01/2024,01/02/2024,1,returned,9
+MAHASISWA,SEVI,A9770,The strategic management of information systems : building a digital strategy fourth edition,23/01/2024,01/02/2024,1,returned,9
+MAHASISWA,Dind,A9085,Different,24/01/2024,02/02/2024,1,returned,9
+MAHASISWA,Dind,A011062,"Indigo Stories : Pengalaman Nyata Aku berbeda, aku bisa melihat apa yang tidak kalian lihat.",24/01/2024,02/02/2024,1,returned,9
+MAHASISWA,Dind,A8333,Inestable,24/01/2024,02/02/2024,1,returned,9
+MAHASISWA,M.AL,A6662,Blockchain: dari Bitcoin untuk dunia,24/01/2024,02/02/2024,1,returned,9
+MAHASISWA,M.AL,A011786,Kriptografi untuk keamanan jaringan,24/01/2024,02/02/2024,1,returned,9
+MAHASISWA,Vitr,A010998,The Psychology of Selling,24/01/2024,02/02/2024,1,returned,9
+MAHASISWA,Lulu,A013042,The Magic of Blender 3D Modelling,24/01/2024,02/02/2024,1,returned,9
+MAHASISWA,Puji,A0305,The magic of Blender 3d Modelling,24/01/2024,02/02/2024,1,returned,9
+MAHASISWA,Irfa,A011881,Atomic Habits: Perubahan kecil yang memberikan hasil luar biasa,24/01/2024,02/02/2024,1,returned,9
+MAHASISWA,AVIE,A9735,"The Design Thinking Life Playbook: Empower Yourself, Embrace Change, and Visualize a Joyful Life",24/01/2024,02/02/2024,1,returned,9
+MAHASISWA,SITI,A012563,Buku Referensi : Kuesioner dalam Pengukuran Usability,24/01/2024,02/02/2024,1,returned,9
+MAHASISWA,SITI,A7831,Jago kuasai bahasa Jepang,24/01/2024,02/02/2024,1,returned,9
+MAHASISWA,Muha,A7298,Perancangan tata letak pabrik,24/01/2024,02/02/2024,1,returned,9
+MAHASISWA,Nayl,A7395,The Fundamentals of Illustration,25/01/2024,05/02/2024,1,returned,11
+MAHASISWA,Nayl,A1554,"Designing brand identity, ed. 3",25/01/2024,05/02/2024,1,returned,11
+MAHASISWA,Akba,A012547,Pemrograman Web Berbasis Framework CodeIgniter 4 dan MySQL,25/01/2024,05/02/2024,1,returned,11
+MAHASISWA,ELSA,a9172,Metodologi penelitian kualitatif,25/01/2024,05/02/2024,1,returned,11
+MAHASISWA,ELSA,a9047,"Metode penelitian kualitatif: Untuk penelitian yang bersifat eksploratif, enterpretif, interaktif dan konstruktif",25/01/2024,05/02/2024,1,returned,11
+MAHASISWA,ELSA,a1590,Kiat menyusun proposal penelitian,25/01/2024,05/02/2024,1,returned,11
+MAHASISWA,Puji,A6060,The other 8 hours,26/01/2024,05/02/2024,1,returned,10
+MAHASISWA,Putr,A7019,Sejarah raja-raja jawa: dari Kalingga hingga Mataram Islam,26/01/2024,05/02/2024,1,returned,10
+MAHASISWA,Chin,A7209,Designing the user interface: sixth edition,26/01/2024,05/02/2024,0,on_loan,10
+MAHASISWA,FX T,A010422,Medan elektro magnetika teori & contoh soal,26/01/2024,05/02/2024,1,returned,10
+MAHASISWA,FX T,A0226,Medan elektromagnetika,26/01/2024,05/02/2024,1,returned,10
+MAHASISWA,MUHA,A012530,Head First Android Development : A Brain-Friendly Guide (2nd Edition Volume 1),26/01/2024,05/02/2024,1,returned,10
+MAHASISWA,MUHA,A012531,Head First Android Development : A Brain-Friendly Guide (2nd Edition Volume 2),26/01/2024,05/02/2024,1,returned,10
+MAHASISWA,TECT,A012617,Laut bercerita,29/01/2024,07/02/2024,1,returned,9
+MAHASISWA,JUND,A3485,Multimedia digital dasar teori + pengembangannya,29/01/2024,07/02/2024,1,returned,9
+MAHASISWA,RIA,A7551,Hal - hal yang harus dilakukan wanita sebelum umur 30 tahun,29/01/2024,07/02/2024,1,returned,9
+MAHASISWA,RIA,A011407,The Book Of Melepaskan Emosi & Depresi,29/01/2024,07/02/2024,1,returned,9
+MAHASISWA,ADNI,A011448,Daun Yang Jatuh Tak Pernah Membenci Angin,29/01/2024,07/02/2024,1,returned,9
+MAHASISWA,Rasy,A7589,"Coding mudah dengan CodeIgniter, JQuery, Bootstrap, dan Datatable",29/01/2024,07/02/2024,1,returned,9
+MAHASISWA,Rasy,A7959,Semua bisa menjadi programmer codeigniter basic,29/01/2024,07/02/2024,1,returned,9
+MAHASISWA,Rasy,A012233,Dasar perancangan & implementasi database relasional (Edisi Revisi),29/01/2024,07/02/2024,1,returned,9
+MAHASISWA,DIEN,A011308,"Maaf Tuhan, aku hampir menyerah",30/01/2024,08/02/2024,0,on_loan,9
+MAHASISWA,MARC,A8255,Jangan membuat masalah kecil jadi masalah Besar,30/01/2024,08/02/2024,1,returned,9
+DOSEN,Eko,A011316,Matematika diskrit dan aplikasinya pada ilmu komputer,01/02/2024,30/07/2024,1,returned,180
+DOSEN,Eko,A0832,Matematika diskrit: dan penerapannya dalam dunia informatika,01/02/2024,30/07/2024,1,returned,180
+DOSEN,Eko,A2001,"Matematika diskrit, rev. 6",01/02/2024,30/07/2024,0,on_loan,180
+MAHASISWA,AMEL,A012510,Funiculi Funicula,01/02/2024,12/02/2024,1,returned,11
+MAHASISWA,NADY,A6577,"Elektromagnetika, ed. 7",01/02/2024,12/02/2024,1,returned,11
+DOSEN,Eko,A8667,Swarm intelligence : komputasi modern untuk optimasi dan big data mining,02/02/2024,31/07/2024,1,returned,180
+DOSEN,Lina,A9735,"The Design Thinking Life Playbook: Empower Yourself, Embrace Change, and Visualize a Joyful Life",02/02/2024,31/07/2024,1,returned,180
+KARYAWAN,Eriz,A7985,0.465972222222222,02/02/2024,26/02/2024,1,returned,24
+MAHASISWA,RAHM,a011613,Memori Janji Es Krim,02/02/2024,12/02/2024,1,returned,10
+DOSEN,Guna,A011888,"Organisasi dan arsitektur komputer, ed. revisi 4",05/02/2024,28/02/2024,1,returned,23
+MAHASISWA,Rafi,A1106,4G Handbook : edisi bahasa Indonesia,05/02/2024,14/02/2024,1,returned,9
+MAHASISWA,Rafi,a7876,4G handbook edisi bahasa Indonesia jilid 2 (black&white),05/02/2024,14/02/2024,1,returned,9
+MAHASISWA,Dio,A012444,"Mastering Toefl Essay, Penuntun Praktis Menghadapi Writing Section",05/02/2024,14/02/2024,1,returned,9
+MAHASISWA,KRIS,A1104,4G Handbook : edisi bahasa Indonesia,05/02/2024,14/02/2024,1,returned,9
+DOSEN,Yesy,A012538,Logika Algoritma dan Pemrograman Dasar,07/02/2024,05/08/2024,1,returned,180
+MAHASISWA,Elsa,A0664,Dunia sophie,07/02/2024,16/02/2024,1,returned,9
+MAHASISWA,KHUS,A011641,Rasa,07/02/2024,16/02/2024,1,returned,9
+MAHASISWA,KHUS,A8255,Jangan membuat masalah kecil jadi masalah Besar,07/02/2024,16/02/2024,1,returned,9
+MAHASISWA,Rizk,A010145,Sebuah Seni Untuk Bersikap Bodo Amat,12/02/2024,21/02/2024,0,on_loan,9
+MAHASISWA,Rizk,A8226,Filosofi teras,12/02/2024,21/02/2024,0,on_loan,9
+MAHASISWA,Oliv,A012034,Soe Hok Gie : Biografi Sang Demonstran 1942-1969,12/02/2024,21/02/2024,0,on_loan,9
+MAHASISWA,Tsab,A9615,Digital Marketing di Era 4.0 : strategi dan implementasi sederhana kegiatan marketing untuk bisnis dan usaha,12/02/2024,21/02/2024,1,returned,9
+DOSEN,Petr,A8592,Electromagnetics with applications. ed.. 5,13/02/2024,12/08/2024,0,on_loan,181
+DOSEN,Petr,A010270,Deep learning : modernisasi machine learning untuk big data,13/02/2024,12/08/2024,1,returned,181
+DOSEN,Petr,A8593,Antennas and wave propagation fifth edition,13/02/2024,12/08/2024,0,on_loan,181
+DOSEN,Petr,A012007,Machine Learning : Tingkat Dasar dan Lanjut,13/02/2024,12/08/2024,1,returned,181
+DOSEN,Petr,A7127,"Fundamentals of applied electromagnetic, ed. 7",13/02/2024,12/08/2024,0,on_loan,181
+KARYAWAN,Inda,a011873,Gadis Kretek,23/02/2024,18/03/2024,1,returned,24
+DOSEN,Silv,A012908,Digital Branding : Teori dan Praktik,26/02/2024,26/08/2024,1,returned,182
+DOSEN,Silv,A010784,Pengantar Ilmu Ekonmi (Mikroekonomi & Makroekonomi),26/02/2024,26/08/2024,1,returned,182
+DOSEN,Silv,A012742,Kewirausahaan Digital,26/02/2024,26/08/2024,1,returned,182
+DOSEN,Yuli,A1583,Fungsi-fungsi statistik pengolahan data penelitian,26/02/2024,26/08/2024,1,returned,182
+DOSEN,Yuli,A1624,Penyelesaian masalah optimasi dengan teknik-teknik Heuristik,26/02/2024,26/08/2024,1,returned,182
+DOSEN,Yuli,A2112,Pemodelan sistem,26/02/2024,26/08/2024,1,returned,182
+DOSEN,Yuli,A010330,Perencanaan terminal barang dalam perspektif logistik,26/02/2024,26/08/2024,1,returned,182
+DOSEN,Yuli,A012968,The Handbook of Logistics and Distribution Management : Understanding the Supply Chain,26/02/2024,26/08/2024,0,on_loan,182
+DOSEN,Yuli,A012918,Introduction to logistics systems management : with Microsoft Excel and Python examples,26/02/2024,26/08/2024,0,on_loan,182
+DOSEN,Yuli,A010199,Swarm intelligence : komputasi modern untuk optimasi dan big data mining,26/02/2024,26/08/2024,1,returned,182
+DOSEN,Yuli,A1147,"Metode penelitian: kuantitatif, kualitatif & penelitian gabungan",26/02/2024,26/08/2024,1,returned,182
+DOSEN,Yuli,A1670,Penelitian operasional lanjut,26/02/2024,26/08/2024,1,returned,182
+DOSEN,Maha,A011329,Handbook data warehouse: teori dan praktik berbasiskan open source,26/02/2024,26/08/2024,0,on_loan,182
+DOSEN,Anas,A1674,Pemodelan sistem,26/02/2024,26/08/2024,0,on_loan,182
+MAHASISWA,THER,A4197,Sistem komunikasi satelit: teori dan praktik,26/02/2024,06/03/2024,1,returned,9
+MAHASISWA,TRES,a4147,Sistem komunikasi satelit: teori dan praktik,26/02/2024,06/03/2024,1,returned,9
+MAHASISWA,Berl,A1498,Statistika probabilitas: teori & aplikasi,26/02/2024,06/03/2024,1,returned,9
+MAHASISWA,Berl,A011124,The master book of SPSS : Pintar mengolah data statistik untuk segala keperluan secara otodidak,26/02/2024,06/03/2024,1,returned,9
+MAHASISWA,DEA,A4149,Sistem komunikasi satelit: teori dan praktik,26/02/2024,06/03/2024,1,returned,9
+MAHASISWA,Bita,A012490,eBusiness & eCommerce : Managing the Digital Value Chain,26/02/2024,26/08/2024,1,returned,182
+MAHASISWA,Bita,A010455,Manajemen e-commerce,26/02/2024,26/08/2024,1,returned,182
+MAHASISWA,Bita,A011422,Digital Marketing di Era 4.0 : strategi dan implementasi sederhana kegiatan marketing untuk bisnis dan usaha,26/02/2024,26/08/2024,1,returned,182
+MAHASISWA,YURI,a4183,Sistem komunikasi satelit: teori dan praktik,26/02/2024,06/03/2024,1,returned,9
+MAHASISWA,SHIN,a4195,Sistem komunikasi satelit: teori dan praktik,26/02/2024,06/03/2024,1,returned,9
+MAHASISWA,SHOH,a4144,Sistem komunikasi satelit: teori dan praktik,26/02/2024,06/03/2024,1,returned,9
+MAHASISWA,SHAL,a4151,Sistem komunikasi satelit: teori dan praktik,26/02/2024,06/03/2024,1,returned,9
+DOSEN,Dian,a6653,Teori dan aplikasi statistika dan probabilitas,27/02/2024,26/08/2024,1,returned,181
+DOSEN,Dian,a011734,Data mining : untuk klasifikasi dan klasterisasi data,27/02/2024,26/08/2024,1,returned,181
+DOSEN,Erli,a012120,"Enzimologi; Sifat, Mekanisme, Katalisis dan Kinetika Enzim",27/02/2024,26/08/2024,1,returned,181
+MAHASISWA,Tega,A010813,Kemahiran Berbahasa Indonesia,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,AZMI,a1242,Kemahiran berbahasa Indonesia,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,RAIH,a4150,Sistem komunikasi satelit: teori dan praktik,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,Rizq,A8826,Kemahiran berbahasa Indonesia,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,EKA,a011712,Kemahiran berbahasa Indonesia,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,LIZA,A4155,Sistem komunikasi satelit: teori dan praktik,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,Berl,a011124,The master book of SPSS : Pintar mengolah data statistik untuk segala keperluan secara otodidak,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,Berl,a1498,Statistika probabilitas: teori & aplikasi,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,Berl,a2664,Dasar-dasar Mikroprosesor,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,Rizk,a0926,Kemahiran berbahasa Indonesia,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,RAFI,a4182,Sistem komunikasi satelit: teori dan praktik,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,Alya,A011557,Kemahiran berbahasa Indonesia,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,Berl,a6444,Kemahiran berbahasa Indonesia,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,Auli,A013027,Kemahiran Berbahasa Indonesia,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,ALIY,a012248,Kemahiran Berbahasa Indonesia,27/02/2024,05/03/2024,1,returned,7
+MAHASISWA,ROSY,a4196,Sistem komunikasi satelit: teori dan praktik,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,DIMA,A4156,Sistem komunikasi satelit: teori dan praktik,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,LAXM,A4157,Sistem komunikasi satelit: teori dan praktik,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,ZULF,a3059,Sistem Komunikasi Satelit [Teori dan Praktik],27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,MARC,A4152,Sistem komunikasi satelit: teori dan praktik,27/02/2024,07/03/2024,1,returned,9
+MAHASISWA,PUTR,A4153,Sistem komunikasi satelit: teori dan praktik,27/02/2024,07/03/2024,1,returned,9
+DOSEN,Siti,A012498,"Big Data: Concepts, Technology, and Architecture",28/02/2024,26/08/2024,1,returned,180
+DOSEN,Siti,A011386,Teknologi Virtualisasi : Fondasi Utama Layanan Berbasis Cloud,28/02/2024,26/08/2024,0,on_loan,180
+DOSEN,Siti,A010276,Cloud computing : manajemen dan perencanaan kapasitas,28/02/2024,26/08/2024,0,on_loan,180
+DOSEN,Siti,A6692,"Cloud computing teori dan praktik ( opennebula,vmware, dan amazon AWS )",28/02/2024,26/08/2024,0,on_loan,180
+DOSEN,Siti,a010439,Algoritma machine learning,28/02/2024,26/08/2024,0,on_loan,180
+DOSEN,Siti,a012006,Machine Learning : Tingkat Dasar dan Lanjut,28/02/2024,26/08/2024,1,returned,180
+MAHASISWA,Naur,a8825,Kemahiran berbahasa Indonesia,28/02/2024,08/03/2024,1,returned,9
+MAHASISWA,Izza,a011274,Kemahiran berbahasa Indonesia,28/02/2024,08/03/2024,1,returned,9
+MAHASISWA,Hasn,a011041,Kemahiran berbahasa Indonesia,28/02/2024,08/03/2024,1,returned,9
+MAHASISWA,Almu,a012477,Kemahiran berbahasa Indonesia,28/02/2024,08/03/2024,1,returned,9
+MAHASISWA,Vina,A011230,Kemahiran berbahasa Indonesia,28/02/2024,08/03/2024,1,returned,9
+DOSEN,Eko,A011175,Sistem Komunikasi Digital,29/02/2024,27/08/2024,1,returned,180
+DOSEN,Eko,A4238,Komunikasi analog dan digital edisi kedua,29/02/2024,27/08/2024,0,on_loan,180
+MAHASISWA,Roza,A011592,Kemahiran berbahasa Indonesia,29/02/2024,11/03/2024,1,returned,11
+MAHASISWA,Sher,A8507,Kemahiran berbahasa Indonesia,29/02/2024,11/03/2024,1,returned,11
+MAHASISWA,Rach,A2891,System analysis and design,29/02/2024,11/03/2024,1,returned,11
+MAHASISWA,Rach,A0613,"Pemodelan dan simulasi sistem: teori, aplikasi, dan contoh program dalam bahasa C",29/02/2024,11/03/2024,1,returned,11
+MAHASISWA,Widy,A011634,Kemahiran berbahasa Indonesia,29/02/2024,11/03/2024,1,returned,11
+DOSEN,Siti,A011895,"Populasi - Sampel, Teknik Sampling & Bias dalam Penelitian",01/03/2024,28/08/2024,0,on_loan,180
+DOSEN,Siti,A9122,Metode sampling,01/03/2024,28/08/2024,0,on_loan,180
+DOSEN,Siti,A7454,"Analisis data time series : untuk penelitian ekonomi, manajemen dan akuntansi",01/03/2024,28/08/2024,0,on_loan,180
+MAHASISWA,JANU,A012967,The Handbook of Logistics and Distribution Management : Understanding the Supply Chain,01/03/2024,11/03/2024,1,returned,10
+MAHASISWA,JANU,A012917,Introduction to logistics systems management : with Microsoft Excel and Python examples,01/03/2024,11/03/2024,1,returned,10
+DOSEN,Nabi,A012461,Food Supply Chain Management and Logistics (Second Edition),04/03/2024,02/09/2024,0,on_loan,182
+DOSEN,Nabi,A012692,"Designing and Managing The Supply Chain Concepts, Strategies and Case Studies",04/03/2024,02/09/2024,0,on_loan,182
+DOSEN,Nabi,A012865,Halal Logistics and Supply Chain Management: Recent Trends and Issues,04/03/2024,02/09/2024,0,on_loan,182
+DOSEN,Mega,A7789,Pergi,04/03/2024,02/09/2024,1,returned,182
+DOSEN,Mega,A012398,Pulang - Pergi,04/03/2024,02/09/2024,1,returned,182
+DOSEN,Sukm,A7026,It's who you know,04/03/2024,02/09/2024,1,returned,182
+DOSEN,Sara,A1470,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),04/03/2024,02/09/2024,1,returned,182
+DOSEN,Nia,A011324,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,04/03/2024,02/09/2024,0,on_loan,182
+DOSEN,Nia,A011136,Pengantar Machine Learning: Konsep dan Praktikum Dengan Contoh Latihan Berbasis R dan Python,04/03/2024,02/09/2024,0,on_loan,182
+DOSEN,Nia,A7503,Pengantar statistika dasar,04/03/2024,02/09/2024,1,returned,182
+DOSEN,Nia,A1983,Aplikasi statistika & hitung peluang,04/03/2024,02/09/2024,1,returned,182
+DOSEN,Nia,A010102,Dasar-dasar Statistika,04/03/2024,02/09/2024,1,returned,182
+MAHASISWA,M.AL,A2709,Perancangan & analisis algoritma,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Novi,A6844,Madilog,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Klar,A011728,Sistem Operasional Manajemen Distribusi,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Klar,A010768,Metodologi Penelitian Desain Komunikasi Visual Edisi Revisi,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Klar,A012930,Global Logistics and Supply Chain Management,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Zulf,A9030,Deep learning : modernisasi machine learning untuk big data,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Albe,A012672,Manajemen Bisnis di Era Disrupsi,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Apri,A2252,Intrusion detection system: sistem pendeteksi penyusup pada jaringan komputer,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Sept,A011787,Kriptografi untuk keamanan jaringan,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Sept,A2575,Kriptografi keamanan data dan komunikasi,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Anis,A0501,"Soal & penyelesaian C++ : membahas berbagai soal menyangkut pemrograman, algoritma, dan struktur data",04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Anis,A6534,"Organisasi dan arsitektur komputer, ed. revisi 4",04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Anis,A2974,Multimedia digital dasar teori + pengembangannya,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Anis,A010159,Mengukur usability perangkat lunak,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Nia,A3485,Multimedia digital dasar teori + pengembangannya,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Nia,A011629,Sistem digital,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Nia,A010158,Mengukur usability perangkat lunak,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,I Gu,A8834,The magic of leadership,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,FARI,A011216,Kemahiran berbahasa Indonesia,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,BHIM,A012994,Digital Marketing : Teori dan Implementasi Strategi Digital Marketing,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,BHIM,A7182,Bahasa Jepang sistem 52m vol.3,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,BHIM,A6935,Industri kimia Indonesia,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Rena,A010875,"Fisika: Prinsip dan terapan, Edisi Ketujuh Jilid 2",04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Difa,A012618,Laut bercerita,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Puji,A8902,Vocabulary skills booster,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Puji,A012445,Test Of English As A Foreign Language Preparation,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Merl,A012476,Kemahiran berbahasa Indonesia,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Akhm,A011301,Manajemen operasional,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,YESS,A011126,Basis Data : revisi ketiga,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Risk,A011707,Belajar Otodidak Mysql Edisi Kedua:Teknik Pembuatan Dan Pengelolaan Database,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Angg,A9997,Sukses menjadi miliuner di usia 30 tahun,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Angg,A011881,Atomic Habits: Perubahan kecil yang memberikan hasil luar biasa,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Angg,A011416,THE POWER OF OBSESSION : Cara Ampuh Memanfaatkan Obsesi Sebagai Formula Mencapai Kesuksesan,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Syar,A012341,Kalkulus : Edisi kesembilan Jilid 2,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Syar,A011114,Implementasi Algoritma dalam bahasa Python,04/03/2024,13/03/2024,1,returned,9
+MAHASISWA,Syar,A011821,"Struktur Data (Algoritma dan Struktur Data) Dengan C, C++",04/03/2024,13/03/2024,1,returned,9
+DOSEN,Eko,A011549,Probabilitas & Statistik Dasar untuk Sains,05/03/2024,02/09/2024,1,returned,181
+DOSEN,Eko,A2152,Pengantar statistika,05/03/2024,02/09/2024,1,returned,181
+DOSEN,Eko,A011905,Statistika,05/03/2024,02/09/2024,1,returned,181
+DOSEN,Petr,A4792,Microwave circuit analysis and amplifier design,05/03/2024,02/09/2024,1,returned,181
+DOSEN,Petr,A4629,Microwave and RF design of wireless systems: second edition,05/03/2024,02/09/2024,1,returned,181
+DOSEN,Petr,A5055,Antena prinsip & aplikasi,05/03/2024,02/09/2024,0,on_loan,181
+DOSEN,Petr,A011286,Antenna Design For Mobile Devices,05/03/2024,02/09/2024,1,returned,181
+MAHASISWA,Chri,A6662,Blockchain: dari Bitcoin untuk dunia,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Nahw,A7903,Belajar Machine Learning Teori dan Praktik,05/03/2024,13/03/2024,1,returned,8
+MAHASISWA,SRI,A7266,Nelangsa,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Novi,A011704,Copy Writing : Melejitkan Jualan Online Dengan Kalimat Membujuk,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Ribk,A011399,Copy Writing : Melejitkan Jualan Online Dengan Kalimat Membujuk,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Dest,A7185,Complete french volume 1,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Widy,A7577,Re tied,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Irfa,A011291,Kisah Tanah Jawa,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Rach,A011598,Analisis Perancangan Sistem Berorientasi Objek dengan UML,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Rach,A6730,"Dasar-dasar pemrograman java netbeans: database, uml, dan interface",05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Real,A013058,How To Be Free : Sebuah Panduan Klasik Hidup Stoik,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Real,A012901,Your mind kills,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Putr,A011108,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Putr,A012907,Becoming a Data Head,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Putr,A011926,Statistika Terapan,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Putr,A7053,"Statistika terapan: untuk pembuat kebijakan dan pengambilan keputusan, ed. 2",05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Nabi,A012569,Bumi,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Nabi,A011607,Desain Grafis Komplet,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Nabi,A011027,Pulang,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,JUND,A9071,Metode Penelitian & Pengembangan Research and Develpoment,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,YESS,A2932,"Struktur data (algoritma & struktur data 2) dengan C, C++",05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,Afiq,A010863,Teori dan aplikasi aljabar linier & matriks,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,syak,A012617,Laut bercerita,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,NABI,A8891,Pemrograman Python untuk Penanganan Big Data,05/03/2024,14/03/2024,1,returned,9
+MAHASISWA,IKRA,A011407,The Book Of Melepaskan Emosi & Depresi,06/03/2024,15/03/2024,1,returned,9
+MAHASISWA,Dest,A6468,Kalkulus dan geometri analitis jilid 2,06/03/2024,15/03/2024,1,returned,9
+MAHASISWA,Dian,A1416,Kemahiran berbahasa Indonesia,06/03/2024,13/03/2024,1,returned,7
+MAHASISWA,Brem,a9370,Kemahiran berbahasa Indonesia,06/03/2024,15/03/2024,1,returned,9
+MAHASISWA,M Ma,A011639,The Psychology Of Money,06/03/2024,15/03/2024,1,returned,9
+MAHASISWA,M Ma,A7041,Negeri di ujung tanduk,06/03/2024,15/03/2024,1,returned,9
+MAHASISWA,M Ma,A012612,Lumpu,06/03/2024,15/03/2024,1,returned,9
+MAHASISWA,Rian,A010975,The Incredible Habits,06/03/2024,15/03/2024,1,returned,9
+MAHASISWA,Rian,A1400,Pulang,06/03/2024,15/03/2024,1,returned,9
+MAHASISWA,Diva,A011368,150 Brand Awareness Ideas: Metode Sukses dan Praktis Membangun Kesadaran Merek,06/03/2024,15/03/2024,1,returned,9
+MAHASISWA,Diva,A9831,Business model generation,06/03/2024,15/03/2024,1,returned,9
+MAHASISWA,Rend,A011210,Think: Sebuah Buku Untuk Menemani Anda Hari Ini,06/03/2024,15/03/2024,1,returned,9
+MAHASISWA,Muha,A2227,Panduan praktis web hacking dari subkultural programmer,06/03/2024,15/03/2024,1,returned,9
+MAHASISWA,Muha,A010387,Kitab Hacker,06/03/2024,15/03/2024,1,returned,9
+MAHASISWA,ELIS,A3599,Cara gampang belajar TOEFL,06/03/2024,15/03/2024,1,returned,9
+MAHASISWA,NIES,A7426,"Analisis data time series : untuk penelitian ekonomi, manajemen dan akuntansi",06/03/2024,15/03/2024,1,returned,9
+MAHASISWA,EBEN,A010616,Cisco CCNA-CCNP routing dan switching,06/03/2024,15/03/2024,1,returned,9
+KARYAWAN,Dina,A011208,Di Sini dan Saat Ini: Pendekatan Sehat Mental untuk Menikmati Setiap Momen di Masa Kini,07/03/2024,01/04/2024,1,returned,25
+MAHASISWA,Rizk,A0664,Dunia sophie,07/03/2024,18/03/2024,1,returned,11
+MAHASISWA,Febr,A011272,"Bangun Karakter Diri,Raih Impian Anda",07/03/2024,18/03/2024,1,returned,11
+MAHASISWA,Kevi,A8061,Kemahiran berbahasa Indonesia,07/03/2024,18/03/2024,1,returned,11
+MAHASISWA,TECT,A012915,Cantik itu Luka,07/03/2024,18/03/2024,1,returned,11
+MAHASISWA,Amir,A012355,Kemahiran berbahasa Indonesia,07/03/2024,18/03/2024,1,returned,11
+MAHASISWA,Raya,A011546,Kemahiran berbahasa Indonesia,07/03/2024,18/03/2024,1,returned,11
+MAHASISWA,RENO,A013046,Kemahiran berbahasa Indonesia,07/03/2024,14/03/2024,1,returned,7
+MAHASISWA,Widy,A011143,Surat untuk Raka,07/03/2024,18/03/2024,1,returned,11
+MAHASISWA,Yaya,A9366,Hendrick,07/03/2024,18/03/2024,1,returned,11
+MAHASISWA,Yaya,A010432,Hujan,07/03/2024,18/03/2024,1,returned,11
+MAHASISWA,Sara,A0854,Rindu,07/03/2024,18/03/2024,1,returned,11
+MAHASISWA,Sara,A8957,Why ? : internet of things,07/03/2024,18/03/2024,1,returned,11
+MAHASISWA,Isna,A011448,Daun Yang Jatuh Tak Pernah Membenci Angin,07/03/2024,14/03/2024,1,returned,7
+MAHASISWA,Wafi,A6709,"Kalkulus dan geometri analitis, jilid 1",07/03/2024,18/03/2024,1,returned,11
+MAHASISWA,FATW,A010157,Mengukur usability perangkat lunak,07/03/2024,18/03/2024,1,returned,11
+MAHASISWA,FATW,A012549,Buku Referensi : Kuesioner dalam Pengukuran Usability,07/03/2024,18/03/2024,1,returned,11
+MAHASISWA,YESS,A6314,Sistem manajemen database,07/03/2024,18/03/2024,1,returned,11
+MAHASISWA,FELI,A012487,Sejarah Dunia Yang Disembunyikan,07/03/2024,14/03/2024,1,returned,7
+MAHASISWA,Apri,A9309,Network : Tweaking dan Hacking,07/03/2024,18/03/2024,1,returned,11
+MAHASISWA,Klar,A8453,Metode penelitian kuantitatif,07/03/2024,18/03/2024,1,returned,11
+DOSEN,Chus,A7407,Pengantar bisnis : Teori & contoh kasus,08/03/2024,04/09/2024,1,returned,180
+DOSEN,Chus,A010477,Pengantar bisnis: Mengelola bisnis dengan perspektif Indonesia,08/03/2024,04/09/2024,1,returned,180
+DOSEN,Chus,A012751,Bisnis Internasional,08/03/2024,04/09/2024,1,returned,180
+DOSEN,Chus,A012661,Buku Ajar Bisnis Internasional,08/03/2024,04/09/2024,0,on_loan,180
+KARYAWAN,Hanu,A8074,Pengantar manajemen : Teori dan kasus,08/03/2024,01/04/2024,1,returned,24
+MAHASISWA,DEST,A010454,Cloud computing : manajemen dan perencanaan kapasitas,08/03/2024,18/03/2024,1,returned,10
+MAHASISWA,REST,A6461,Blockchain: dari Bitcoin untuk dunia,08/03/2024,18/03/2024,1,returned,10
+MAHASISWA,Mega,A6160,The tide knot,08/03/2024,18/03/2024,0,on_loan,10
+MAHASISWA,Mega,A8907,Nebula : aku akan menjadi bintangmu,08/03/2024,18/03/2024,1,returned,10
+MAHASISWA,Dzak,A8512,Sebuah seni untuk bersikap bodo amat : pendekatan yang waras demi menjalani hidup yang baik,08/03/2024,18/03/2024,1,returned,10
+MAHASISWA,Maye,A1349,Hujan,08/03/2024,18/03/2024,1,returned,10
+MAHASISWA,Tabi,A7609,The kane chronicles 2 : the throne of fire,08/03/2024,18/03/2024,1,returned,10
+MAHASISWA,Dien,A7791,Kami (bukan) sarjana kertas,08/03/2024,18/03/2024,1,returned,10
+MAHASISWA,Wafi,A8747,21 Hari mengubah kebiasan buruk,08/03/2024,18/03/2024,1,returned,10
+MAHASISWA,Clea,A8347,Negeri Para Bedebah,08/03/2024,18/03/2024,1,returned,10
+MAHASISWA,Sals,A011626,Berani Tidak Disukai,08/03/2024,18/03/2024,1,returned,10
+MAHASISWA,Soni,A1961,Roadmap Broadbrand Indonesia Menuju Era Teknologi 5G,08/03/2024,18/03/2024,1,returned,10
+DOSEN,Para,A012002,Machine Learning Konsep dan Implementasi,13/03/2024,09/09/2024,0,on_loan,180
+DOSEN,Para,A7638,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,13/03/2024,09/09/2024,0,on_loan,180
+DOSEN,Nene,A010211,"Artificial intelligence edisi 3 : searching, reasoning, planning, and learning",13/03/2024,09/09/2024,1,returned,180
+MAHASISWA,Hani,A8886,The railway children,13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,Nabi,A011456,Noir Platinum Edition,13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,I Ge,A012831,"Sapiens: A Graphic History, Volume 2: The Pillars Of Civiliz",13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,Elsa,A011873,Gadis Kretek,13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,FELI,A012487,Sejarah Dunia Yang Disembunyikan,13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,Yuli,A012900,Your mind kills,13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,Yuli,A6025,Kekuatan berpikir positif the power of positive thinking,13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,Irfa,A8243,0.465972222222222,13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,Klar,A011728,Sistem Operasional Manajemen Distribusi,13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,Imel,A9484,Jung's map of the soul : an introduction,13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,Clea,A010865,Teori dan aplikasi aljabar linier & matriks,13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,Nasw,A1467,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,Muha,A1462,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,Elpa,A5925,Negeri 5 menara,13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,MUHH,A010107,Cashflow quadrant panduan mencapai kebebasan keuangan,13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,Kinn,A013070,Mastering Packaging For E-Commerce,13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,Kinn,A012087,Kemasan Pangan,13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,Kinn,A012649,Teknologi Pengemasan dan Penyimpanan,13/03/2024,22/03/2024,1,returned,9
+MAHASISWA,NOVI,A011567,Himpunan,13/03/2024,22/03/2024,1,returned,9
+DOSEN,Fikr,A2060,Rangkaian listrik jilid pertama,14/03/2024,10/09/2024,0,on_loan,180
+DOSEN,Fikr,A6640,Rangkaian listrik,14/03/2024,10/09/2024,0,on_loan,180
+MAHASISWA,Dian,A012761,Total Quality Management,14/03/2024,25/03/2024,1,returned,11
+MAHASISWA,Nadi,A010890,Si Anak Badai,14/03/2024,25/03/2024,1,returned,11
+MAHASISWA,SRI,A7794,Saudade,14/03/2024,25/03/2024,1,returned,11
+MAHASISWA,Sri,A011740,Knowing Your Personality,14/03/2024,25/03/2024,1,returned,11
+MAHASISWA,Muha,A8867,Sapiens : riwayat singkat umat manusia,14/03/2024,25/03/2024,1,returned,11
+MAHASISWA,Adin,A1345,How to be a brilliant thinker: latih pikiran anda dan temukan solusi-solusi kreatif,14/03/2024,25/03/2024,1,returned,11
+MAHASISWA,TRI,A5929,Kick Andy : Kisah inspiratif 3,14/03/2024,25/03/2024,1,returned,11
+MAHASISWA,TRI,A010243,Si putih,14/03/2024,25/03/2024,1,returned,11
+MAHASISWA,TRI,A011476,Buku Pintar Video Editing,14/03/2024,25/03/2024,1,returned,11
+MAHASISWA,Nasy,A1463,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),14/03/2024,25/03/2024,1,returned,11
+MAHASISWA,Agne,A1465,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),14/03/2024,25/03/2024,1,returned,11
+MAHASISWA,DELI,A1464,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),14/03/2024,25/03/2024,1,returned,11
+MAHASISWA,Azza,A1471,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),14/03/2024,25/03/2024,1,returned,11
+MAHASISWA,Fara,A1469,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),14/03/2024,25/03/2024,1,returned,11
+MAHASISWA,Sisk,A1468,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),14/03/2024,25/03/2024,1,returned,11
+MAHASISWA,Rend,A8335,Dilan : dia adalah Dilanku tahun 1990,14/03/2024,25/03/2024,1,returned,11
+MAHASISWA,TEGA,A011534,Think and Grow Rich,14/03/2024,25/03/2024,1,returned,11
+MAHASISWA,Alex,A1021,Dilan Dia adalah dilanku tahun 1990,15/03/2024,25/03/2024,1,returned,10
+MAHASISWA,Alex,A7617,Dignitate,15/03/2024,25/03/2024,1,returned,10
+MAHASISWA,Hani,A011497,Manusia dan Badainya,15/03/2024,25/03/2024,1,returned,10
+MAHASISWA,Hani,A010713,Broken,15/03/2024,25/03/2024,1,returned,10
+MAHASISWA,Hani,A011861,Aku Ingin Pulang meski Sudah di rumah,15/03/2024,25/03/2024,1,returned,10
+MAHASISWA,Ni W,A8006,Yuk belajar otodidak bahasa korea,15/03/2024,25/03/2024,1,returned,10
+MAHASISWA,Ni W,A8673,Bicara itu ada seninya : rahasia komunikasi yang efektif,15/03/2024,25/03/2024,1,returned,10
+MAHASISWA,Ni W,A8959,How to win friends & influence people in the digital age,15/03/2024,25/03/2024,1,returned,10
+MAHASISWA,Difa,A012510,Funiculi Funicula,15/03/2024,25/03/2024,1,returned,10
+MAHASISWA,Ermi,A012618,Laut bercerita,15/03/2024,25/03/2024,1,returned,10
+MAHASISWA,Aman,A9644,My lecturer my husband,15/03/2024,25/03/2024,1,returned,10
+MAHASISWA,Putr,A010454,Cloud computing : manajemen dan perencanaan kapasitas,15/03/2024,25/03/2024,1,returned,10
+MAHASISWA,Sri,A010275,Cloud computing : manajemen dan perencanaan kapasitas,15/03/2024,25/03/2024,1,returned,10
+MAHASISWA,Sult,A012617,Laut bercerita,15/03/2024,25/03/2024,1,returned,10
+MAHASISWA,Real,A9887,Filsafat barat : logika baru rene descartes hingg revolusi sains ala thomas kuhn,15/03/2024,25/03/2024,1,returned,10
+MAHASISWA,Angg,A6829,Terapi positive thingking: mengontrol otak untuk sehat jiwa raga,15/03/2024,25/03/2024,1,returned,10
+MAHASISWA,Arga,A8051,Stop berpikir negatif mulailah berbikir positif!,15/03/2024,25/03/2024,1,returned,10
+MAHASISWA,FX T,A010876,"Fisika: Prinsip dan terapan, Edisi Ketujuh Jilid 2",15/03/2024,25/03/2024,1,returned,10
+DOSEN,Nene,A010776,Langkah Mudah Belajar Struktur Data Menggunakan C/C++,18/03/2024,16/09/2024,1,returned,182
+DOSEN,Nene,A0498,"Soal & penyelesaian C++ : membahas berbagai soal menyangkut pemrograman, algoritma, dan struktur data",18/03/2024,16/09/2024,1,returned,182
+DOSEN,Nene,A011414,Algoritma Pemrograman dan Struktur Data Menggunakan C++,18/03/2024,16/09/2024,1,returned,182
+MAHASISWA,IKRA,A011588,Kisah yang Pilu untuk Kita yang Ragu,18/03/2024,27/03/2024,1,returned,9
+MAHASISWA,MOCH,A010605,Nebula,18/03/2024,27/03/2024,1,returned,9
+MAHASISWA,Sri,A7873,Intelijen : teori intelijen dan pembangunan jaringan,18/03/2024,27/03/2024,1,returned,9
+MAHASISWA,Sri,A012537,"Business Intelligence, Analytics and Data Science : A Managerial Perspective (4th Edition)",18/03/2024,27/03/2024,1,returned,9
+MAHASISWA,Shof,A1466,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),18/03/2024,27/03/2024,1,returned,9
+MAHASISWA,Sals,A011626,Berani Tidak Disukai,18/03/2024,27/03/2024,1,returned,9
+MAHASISWA,Putr,A010765,Knowing Your Personality,18/03/2024,27/03/2024,1,returned,9
+MAHASISWA,Sara,A012398,Pulang - Pergi,18/03/2024,27/03/2024,1,returned,9
+MAHASISWA,REST,A9226,Marketing 4.0: bergerak dari tradisional ke digital,18/03/2024,27/03/2024,1,returned,9
+MAHASISWA,STAN,A4102,Dasar-dasar teori portofolio dan analisis sekuritas,18/03/2024,27/03/2024,1,returned,9
+MAHASISWA,ELSA,A9047,"Metode penelitian kualitatif: Untuk penelitian yang bersifat eksploratif, enterpretif, interaktif dan konstruktif",18/03/2024,27/03/2024,1,returned,9
+MAHASISWA,HAID,A011216,Kemahiran berbahasa Indonesia,18/03/2024,27/03/2024,1,returned,9
+DOSEN,Nene,A2589,Sistem Pakar & Pengembangannya,19/03/2024,16/09/2024,1,returned,181
+DOSEN,Silv,A1593,Pengantar ilmu ekonomi makro,19/03/2024,16/09/2024,1,returned,181
+DOSEN,Silv,A1577,Pengantar ilmu ekonomi mikro,19/03/2024,16/09/2024,1,returned,181
+KARYAWAN,Dina,A012842,The Things You Can See Only When You Slow Down,19/03/2024,11/04/2024,1,returned,23
+MAHASISWA,AYU,A011650,Discipline like Japanese,19/03/2024,28/03/2024,1,returned,9
+MAHASISWA,AYU,A8906,"Kerja produktif, pikiran aktif : karena asal sibuk saja tidak cukup",19/03/2024,28/03/2024,1,returned,9
+MAHASISWA,Brem,A011639,The Psychology Of Money,19/03/2024,28/03/2024,1,returned,9
+MAHASISWA,Jeen,A011715,Psikologi Kepribadian : Menyelami Misteri Kepribadian Manusia,19/03/2024,28/03/2024,1,returned,9
+MAHASISWA,Meli,A012657,Perilaku Konsumen (Teori dan Implementasi),19/03/2024,28/03/2024,1,returned,9
+MAHASISWA,DEST,A2575,Kriptografi keamanan data dan komunikasi,19/03/2024,28/03/2024,1,returned,9
+MAHASISWA,Aman,A7394,"The Little Book of Cartooning & Illustration: More than 50 tips and techniques for drawing characters, animals, and expressions",19/03/2024,28/03/2024,1,returned,9
+MAHASISWA,Tia,A1557,Perencanaan & pengendalian produksi,19/03/2024,28/03/2024,1,returned,9
+MAHASISWA,Tia,A1678,Manajemen persediaan,19/03/2024,28/03/2024,1,returned,9
+MAHASISWA,Berl,A011881,Atomic Habits: Perubahan kecil yang memberikan hasil luar biasa,19/03/2024,28/03/2024,1,returned,9
+MAHASISWA,Auli,A012674,Matahari Minor,19/03/2024,28/03/2024,1,returned,9
+MAHASISWA,Rach,A011197,Sebuah Seni untuk Bersikap Bodo Amat,19/03/2024,28/03/2024,1,returned,9
+MAHASISWA,NABI,A012003,Machine Learning Konsep dan Implementasi,19/03/2024,28/03/2024,1,returned,9
+DOSEN,Gusn,A010507,The Story Girl,20/03/2024,16/09/2024,0,on_loan,180
+DOSEN,Gusn,A9634,Dubliners,20/03/2024,16/09/2024,0,on_loan,180
+DOSEN,Gusn,A010774,Journey to the Centre of the Earth,20/03/2024,16/09/2024,0,on_loan,180
+DOSEN,Gusn,A010912,Sensei No Kaban : Hanya ruang koson nan sepi yang terbentang luas,20/03/2024,16/09/2024,0,on_loan,180
+DOSEN,Gusn,A013029,1984,20/03/2024,16/09/2024,0,on_loan,180
+DOSEN,Gusn,A7164,Collected: Contemporary Graphic Design of Indonesia,20/03/2024,16/09/2024,0,on_loan,180
+KARYAWAN,Hanu,A012517,Essential Grammar and Reading Strategy For TOEFL Test,20/03/2024,16/04/2024,1,returned,27
+MAHASISWA,FAJA,A011272,"Bangun Karakter Diri,Raih Impian Anda",20/03/2024,01/04/2024,1,returned,12
+MAHASISWA,Rach,A011144,Berdamai dengan Rasa Marah,20/03/2024,01/04/2024,1,returned,12
+MAHASISWA,Rach,A010370,Pemrograman Web Dengan Node.JS dan Java Script,20/03/2024,01/04/2024,1,returned,12
+MAHASISWA,Masa,A012342,Kalkulus : Edisi kesembilan Jilid 2,20/03/2024,01/04/2024,1,returned,12
+MAHASISWA,Masa,A7105,The magic library: perpustakaan ajaib Bibbi Bokken,20/03/2024,01/04/2024,1,returned,12
+MAHASISWA,Kuku,A6876,Ello story: berlibur ke pulau matahari,20/03/2024,01/04/2024,1,returned,12
+MAHASISWA,RIFK,A012358,Kalkulus : Edisi kesembilan Jilid 2,20/03/2024,01/04/2024,1,returned,12
+MAHASISWA,Muha,A010206,"Buku sakti HTML, CSS, dan Javascript",20/03/2024,01/04/2024,1,returned,12
+MAHASISWA,Muha,A6814,CEH certified ethical hacker: 100% ilegal,20/03/2024,01/04/2024,1,returned,12
+MAHASISWA,Yaya,A012617,Laut bercerita,20/03/2024,01/04/2024,1,returned,12
+MAHASISWA,RANI,A3455,Udah putusin aja,20/03/2024,01/04/2024,1,returned,12
+KARYAWAN,Fand,A8918,Semua bisa menjadi programmer laravel basic,21/03/2024,16/04/2024,1,returned,26
+KARYAWAN,Fand,A013093,Virtualisasi Dengan Docker,21/03/2024,16/04/2024,1,returned,26
+KARYAWAN,Fand,A011310,Mudah Menguasai Framework Laravel,21/03/2024,16/04/2024,1,returned,26
+KARYAWAN,Fand,A011644,Semua bisa menjadi programmer javascript & node.js,21/03/2024,16/04/2024,1,returned,26
+MAHASISWA,Alex,A8547,Ekonomi moneter & kebanksentralan,21/03/2024,01/04/2024,1,returned,11
+MAHASISWA,selv,A1457,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),21/03/2024,01/04/2024,1,returned,11
+MAHASISWA,Shev,A011681,The Phantom of The Opera,21/03/2024,01/04/2024,1,returned,11
+MAHASISWA,FX T,A1869,"Fisika universitas, ed. 10, jil. 2",21/03/2024,01/04/2024,1,returned,11
+MAHASISWA,PRAS,A010874,"Fisika: Prinsip dan terapan, Edisi Ketujuh Jilid 2",21/03/2024,01/04/2024,1,returned,11
+MAHASISWA,ZULF,A7990,Forever Monday,21/03/2024,01/04/2024,1,returned,11
+DOSEN,Nene,A0930,Speak with power: rahasia membuat audiens duduk lekat di kursi demi mendengarkan presentasi anda,22/03/2024,18/09/2024,1,returned,180
+DOSEN,Nene,A013085,Stop Meragukan Diri Sendiri,22/03/2024,18/09/2024,1,returned,180
+MAHASISWA,Auli,A011727,Learning Korean Grammar: for Modern People,22/03/2024,01/04/2024,1,returned,10
+MAHASISWA,Jane,A011765,Slang Words to Master English Conversation,22/03/2024,01/04/2024,1,returned,10
+MAHASISWA,RENO,A011546,Kemahiran berbahasa Indonesia,22/03/2024,01/04/2024,1,returned,10
+MAHASISWA,GABR,A7244,Treat you better,22/03/2024,01/04/2024,1,returned,10
+MAHASISWA,Adin,A012252,Beruntung Jadi Minoritas,22/03/2024,01/04/2024,1,returned,10
+MAHASISWA,Kuku,A8258,Kami (bukan) sarjana kertas,22/03/2024,01/04/2024,1,returned,10
+MAHASISWA,Tiur,A9408,Mozachiko,22/03/2024,01/04/2024,1,returned,10
+MAHASISWA,Tiur,A011661,I'm Yours,22/03/2024,01/04/2024,1,returned,10
+MAHASISWA,Arde,A0512,"Pemrograman C++: mudah dan cepat menjadi master C++, ed. revisi",22/03/2024,01/04/2024,1,returned,10
+MAHASISWA,Angg,A012477,Kemahiran berbahasa Indonesia,22/03/2024,01/04/2024,1,returned,10
+MAHASISWA,Angg,A011641,Rasa,22/03/2024,01/04/2024,1,returned,10
+MAHASISWA,JUND,A8647,"Handbook of usability testing : how to plan, design, and conduct effective tests",22/03/2024,01/04/2024,1,returned,10
+MAHASISWA,Kinn,A1698,Desain eksperimen dengan metode Taguchi,22/03/2024,01/04/2024,1,returned,10
+MAHASISWA,Yoha,A010502,"Manajemen risiko, krisis, & bencana untuk industri pariwisata yang berkelanjutan",22/03/2024,01/04/2024,1,returned,10
+MAHASISWA,Yoha,A6791,Supply chain management edisi 3,22/03/2024,01/04/2024,1,returned,10
+MAHASISWA,Yuli,A012446,Test Of English As A Foreign Language Preparation,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,Arya,A012839,Home Sweet Loan,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,Rui,A7999,Buku sakti kuasai excel,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,Rui,A011273,Koleksi Program Web PHP,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,Wafi,A1019,Sang Alkemis = The Alchemist,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,Adri,A8834,The magic of leadership,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,Dian,A6929,Rekayasa sistem manufaktur,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,Dian,A1574,Perancangan produk,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,Dian,A1524,Manajemen logistik terintegrasi,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,Widy,A9004,As always i love,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,TECT,A0984,Statistika untuk penelitian,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,TECT,A2097,Statistika untuk penelitian,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,TECT,A011586,Statistika Penelitian,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,TECT,A8552,Metode penelitian survei,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,Adi,A011291,Kisah Tanah Jawa,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,Rach,A010370,Pemrograman Web Dengan Node.JS dan Java Script,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,Novi,A010780,Berpikir dan Berjiwa Besar,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,Fadi,A012880,Creating Apps with React Native,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,NOER,A9172,Metodologi penelitian kualitatif,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,NOER,A1618,Metode penelitian kuantitatif & kualitatif,25/03/2024,03/04/2024,1,returned,9
+MAHASISWA,LIZA,A4155,Sistem komunikasi satelit: teori dan praktik,26/03/2024,04/04/2024,1,returned,9
+MAHASISWA,Afiq,A8902,Vocabulary skills booster,26/03/2024,04/04/2024,1,returned,9
+MAHASISWA,Dani,A010813,Kemahiran Berbahasa Indonesia,26/03/2024,04/04/2024,1,returned,9
+MAHASISWA,Rafl,A7246,Orang-orang Biasa : Ordinary People,26/03/2024,04/04/2024,1,returned,9
+MAHASISWA,Malo,A010798,Malaikat Berhati Gelap,26/03/2024,04/04/2024,1,returned,9
+MAHASISWA,Devr,A011613,Memori Janji Es Krim,26/03/2024,04/04/2024,1,returned,9
+MAHASISWA,Muha,A011081,7 in 1 Pemrograman Web untuk Pemula : Cara cepat dan efektif menjadi web programmer,26/03/2024,04/04/2024,1,returned,9
+MAHASISWA,M Ma,A012487,Sejarah Dunia Yang Disembunyikan,27/03/2024,05/04/2024,1,returned,9
+MAHASISWA,Bagu,A010883,"Kimia dasar: konsep-konsep inti, edisi ketiga jilid 1",27/03/2024,05/04/2024,1,returned,9
+MAHASISWA,Bagu,A010841,"Kimia dasar: konsep-konsep inti, ed. 3, jil. 2",27/03/2024,05/04/2024,1,returned,9
+MAHASISWA,SEKA,A8474,"Seni berbicara : kepada siapa saja, kapan saja, di mana saja",27/03/2024,05/04/2024,1,returned,9
+MAHASISWA,Dwi,A012574,Menyulam Mimpi dan Perjuangan,27/03/2024,05/04/2024,1,returned,9
+MAHASISWA,Dwi,A010264,Selepas musim menjauh,27/03/2024,05/04/2024,1,returned,9
+MAHASISWA,TECT,A9229,Statistika untuk penelitian,27/03/2024,05/04/2024,1,returned,9
+MAHASISWA,SAYY,A012915,Cantik itu Luka,27/03/2024,05/04/2024,1,returned,9
+MAHASISWA,KRIS,A8655,Pengolahan citra digital : teori dan aplikasi nyata,27/03/2024,05/04/2024,1,returned,9
+MAHASISWA,KRIS,A6498,Teknik digital,27/03/2024,05/04/2024,1,returned,9
+MAHASISWA,KRIS,A3157,Teori pengolahan citra digital,27/03/2024,05/04/2024,1,returned,9
+MAHASISWA,Land,A012850,Tools for social media marketing,28/03/2024,16/04/2024,1,returned,19
+MAHASISWA,Land,A011246,Mindset (Edisi Revisi) : Mengubah Pola Berpikir untuk Perubahan Besar dalam Hidup Anda,28/03/2024,16/04/2024,1,returned,19
+MAHASISWA,Sylv,A012917,Introduction to logistics systems management : with Microsoft Excel and Python examples,28/03/2024,16/04/2024,1,returned,19
+MAHASISWA,Putr,A8063,101 Keys to successful life : cara super memotivasi diri untuk mendapatkan kesuksesan hidup,28/03/2024,16/04/2024,0,on_loan,19
+MAHASISWA,Putr,A011030,The 5 Second Rule,28/03/2024,16/04/2024,0,on_loan,19
+MAHASISWA,Siti,A8970,Sebuah seni untuk bersikap bodo amat,28/03/2024,16/04/2024,1,returned,19
+MAHASISWA,Siti,A6036,Ya Allah aku jatuh cinta,28/03/2024,16/04/2024,1,returned,19
+MAHASISWA,Klar,A011728,Sistem Operasional Manajemen Distribusi,28/03/2024,16/04/2024,1,returned,19
+MAHASISWA,Mega,A8907,Nebula : aku akan menjadi bintangmu,28/03/2024,16/04/2024,0,on_loan,19
+MAHASISWA,BHIM,A6461,Blockchain: dari Bitcoin untuk dunia,28/03/2024,16/04/2024,1,returned,19
+MAHASISWA,BHIM,A0841,Buku sakti Wireless Hacking,28/03/2024,16/04/2024,1,returned,19
+MAHASISWA,BHIM,A5110,Wireless hacking: cari dan eksploitasi kelemahan jaringan wireless,28/03/2024,16/04/2024,1,returned,19
+MAHASISWA,Dwi,A7606,Saddha,28/03/2024,16/04/2024,1,returned,19
+DOSEN,Siti,A013068,Social Network Analysis for Startups : Finding connections on the social web,01/04/2024,30/09/2024,0,on_loan,182
+MAHASISWA,Agne,A1471,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),01/04/2024,16/04/2024,1,returned,15
+MAHASISWA,Sara,A7122,Negeri Para Bedebah,01/04/2024,16/04/2024,1,returned,15
+MAHASISWA,selv,A011654,Lose or Love Her Again,01/04/2024,16/04/2024,1,returned,15
+MAHASISWA,SALS,A9523,Memori 4 musim,01/04/2024,16/04/2024,1,returned,15
+MAHASISWA,SALS,A1565,Perencanaan dan pengendalian produksi,01/04/2024,16/04/2024,1,returned,15
+MAHASISWA,HERL,a010993,Six thingking hats,01/04/2024,16/04/2024,1,returned,15
+MAHASISWA,EBEN,A8019,Cisco CCNA-CCNP routing dan switching,01/04/2024,16/04/2024,1,returned,15
+MAHASISWA,FREN,A011528,Insecurity is My Middle Name,01/04/2024,16/04/2024,1,returned,15
+MAHASISWA,Afiq,A4604,Trik-trik berhitung,03/04/2024,16/04/2024,1,returned,13
+MAHASISWA,selv,A011613,Memori Janji Es Krim,03/04/2024,16/04/2024,1,returned,13
+DOSEN,Nene,A7799,Serpihan Inspirasi : Hikmah dari Negeri Seberang,04/04/2024,01/10/2024,1,returned,180
+DOSEN,Nene,A011272,"Bangun Karakter Diri,Raih Impian Anda",04/04/2024,01/10/2024,1,returned,180
+DOSEN,Nene,A011321,Berdamai dengan Takdir,04/04/2024,01/10/2024,1,returned,180
+DOSEN,Nene,A010066,"Your weakness is your power: Bagaimana membangkitkan kekuatan tak tertandingi dari kelemahan anda untuk menciptakan kehidupan yang sukses, bahagia dan sejahtera",04/04/2024,01/10/2024,1,returned,180
+DOSEN,Trih,A010513,Selamat tinggal,04/04/2024,01/10/2024,1,returned,180
+DOSEN,Trih,A5938,The book of codes,04/04/2024,01/10/2024,1,returned,180
+DOSEN,Trih,A011631,KKN di Desa Penari,04/04/2024,01/10/2024,1,returned,180
+MAHASISWA,Reza,A012952,Meta-heuristic and Evolutionary Algorithms for Engineering Optimization,04/04/2024,16/04/2024,1,returned,12
+MAHASISWA,AMAN,A9135,Sakura dalam pelukan,04/04/2024,16/04/2024,1,returned,12
+MAHASISWA,KHUS,A012915,Cantik itu Luka,04/04/2024,16/04/2024,1,returned,12
+DOSEN,Mega,A012609,Sagaras,05/04/2024,02/10/2024,1,returned,180
+DOSEN,Mega,A9646,Selamat tinggal,05/04/2024,02/10/2024,1,returned,180
+MAHASISWA,FATW,A012550,Buku Referensi : Kuesioner dalam Pengukuran Usability,05/04/2024,16/04/2024,1,returned,11
+MAHASISWA,FATW,A010161,Mengukur usability perangkat lunak,05/04/2024,16/04/2024,1,returned,11
+MAHASISWA,KRIS,A010173,Matlab untuk pemrosesan citra digital,05/04/2024,16/04/2024,1,returned,11
+MAHASISWA,KRIS,A7367,Dasar pemrosesan citra digital dengan matlab,05/04/2024,16/04/2024,1,returned,11
+MAHASISWA,KRIS,A4297,Konsep pengolahan citra digital dan ekstraksi fitur,05/04/2024,16/04/2024,1,returned,11
+MAHASISWA,KRIS,A012703,Dasar Sistem Komunikasi Menggunakan Matlab,05/04/2024,16/04/2024,1,returned,11
+DOSEN,Andi,A012949,Optimization and Machine Learning: Optimization for Machine Learning and Machine Learning for Optimization,16/04/2024,14/10/2024,1,returned,181
+DOSEN,Andi,A1214,Pengenalan pola,16/04/2024,14/10/2024,1,returned,181
+MAHASISWA,Rizq,A012528,SEO Pamungkas,16/04/2024,25/04/2024,1,returned,9
+MAHASISWA,Nunj,A012856,"Di Ujung Bahasa: Antologi Puisi, 1961 - 2022",16/04/2024,25/04/2024,1,returned,9
+MAHASISWA,Dwi,a7266,Nelangsa,16/04/2024,25/04/2024,1,returned,9
+MAHASISWA,Fand,A012666,Belajar otodidak flask: framework pyhton untuk pengembangan aplikasi web,16/04/2024,25/04/2024,1,returned,9
+MAHASISWA,Nata,A6902,Ghost dormitory,16/04/2024,25/04/2024,1,returned,9
+MAHASISWA,ULYA,a010157,Mengukur usability perangkat lunak,16/04/2024,25/04/2024,1,returned,9
+MAHASISWA,ULYA,a012549,Buku Referensi : Kuesioner dalam Pengukuran Usability,16/04/2024,25/04/2024,1,returned,9
+MAHASISWA,DEST,a6971,Supply chain management: Demystified,17/04/2024,26/04/2024,1,returned,9
+MAHASISWA,Afiq,a8902,Vocabulary skills booster,17/04/2024,26/04/2024,1,returned,9
+MAHASISWA,AMAN,A011613,Memori Janji Es Krim,17/04/2024,26/04/2024,1,returned,9
+MAHASISWA,NOER,A012445,Test Of English As A Foreign Language Preparation,17/04/2024,26/04/2024,1,returned,9
+MAHASISWA,NOER,A8268,"TOEFL, TOEIC, IELTS, GRE & daily conversation",17/04/2024,26/04/2024,1,returned,9
+MAHASISWA,KHUS,A010336,Selamat tinggal,17/04/2024,26/04/2024,1,returned,9
+MAHASISWA,KHUS,A8347,Negeri Para Bedebah,17/04/2024,26/04/2024,1,returned,9
+MAHASISWA,Yoha,A6791,Supply chain management edisi 3,18/04/2024,29/04/2024,1,returned,11
+DOSEN,Rati,A010777,Janji,19/04/2024,16/10/2024,0,on_loan,180
+DOSEN,Rati,A9266,The great shifting,19/04/2024,16/10/2024,0,on_loan,180
+MAHASISWA,Wisn,A4385,2G/3G RF planning and optimization for consultant,19/04/2024,29/04/2024,1,returned,10
+MAHASISWA,Wisn,A012955,Dasar-Dasar Mikrobiologi 2,19/04/2024,29/04/2024,1,returned,10
+MAHASISWA,Wisn,A012474,Analisis Kimia Kuantitatif (Edisi 6),19/04/2024,29/04/2024,1,returned,10
+MAHASISWA,VERR,A013058,How To Be Free : Sebuah Panduan Klasik Hidup Stoik,19/04/2024,29/04/2024,0,on_loan,10
+MAHASISWA,Wafi,A9638,Apa yang Steve Jobs lakukan ketika tidur?,19/04/2024,29/04/2024,1,returned,10
+DOSEN,Anas,A0611,"Pemodelan dan simulasi sistem: teori, aplikasi, dan contoh program dalam bahasa C",22/04/2024,21/10/2024,0,on_loan,182
+MAHASISWA,Dikr,A6638,Rangkaian listrik,22/04/2024,02/05/2024,1,returned,10
+MAHASISWA,Ivan,A011553,Titik Lemah,22/04/2024,02/05/2024,1,returned,10
+MAHASISWA,Ivan,A7823,B. J. Habibie Si Jenius,22/04/2024,02/05/2024,1,returned,10
+MAHASISWA,Okta,A012443,"Mastering Toefl Essay, Penuntun Praktis Menghadapi Writing Section",22/04/2024,02/05/2024,1,returned,10
+MAHASISWA,Alfa,A012612,Lumpu,22/04/2024,02/05/2024,1,returned,10
+MAHASISWA,Alfa,A010988,Confessions,22/04/2024,02/05/2024,1,returned,10
+MAHASISWA,Berl,A9353,Semua bisa menjadi programmer codeigniter basic,22/04/2024,02/05/2024,1,returned,10
+MAHASISWA,AHMA,A8965,Antena mikrostrip : konsep dan aplikasinya,22/04/2024,02/05/2024,1,returned,10
+MAHASISWA,AHMA,A012047,Teknologi 5G dengan Desain Antena Mikrostrip Rectangular 1x2 Array,22/04/2024,02/05/2024,1,returned,10
+MAHASISWA,FADI,A7606,Saddha,22/04/2024,02/05/2024,1,returned,10
+MAHASISWA,Muha,A010950,"Thinking, Fast and Slow",23/04/2024,02/05/2024,1,returned,9
+MAHASISWA,Muha,A8906,"Kerja produktif, pikiran aktif : karena asal sibuk saja tidak cukup",23/04/2024,02/05/2024,1,returned,9
+MAHASISWA,Muha,A8834,The magic of leadership,23/04/2024,02/05/2024,1,returned,9
+MAHASISWA,Muha,A012901,Your mind kills,23/04/2024,02/05/2024,1,returned,9
+MAHASISWA,Nadi,A012900,Your mind kills,23/04/2024,02/05/2024,1,returned,9
+MAHASISWA,Anna,A011597,Hidup Tak Selalu Baiik-Baik Saja,23/04/2024,02/05/2024,1,returned,9
+MAHASISWA,Anna,A012359,Kalkulus : Edisi kesembilan Jilid 2,23/04/2024,02/05/2024,1,returned,9
+MAHASISWA,Wafi,A012358,Kalkulus : Edisi kesembilan Jilid 2,23/04/2024,02/05/2024,1,returned,9
+MAHASISWA,Lois,A012342,Kalkulus : Edisi kesembilan Jilid 2,23/04/2024,02/05/2024,1,returned,9
+MAHASISWA,Kurn,A0168,Culture based leadership,23/04/2024,02/05/2024,1,returned,9
+MAHASISWA,Nurh,A012044,Insecurity is My Middle Name,23/04/2024,02/05/2024,1,returned,9
+MAHASISWA,KHUS,A012398,Pulang - Pergi,23/04/2024,02/05/2024,1,returned,9
+MAHASISWA,SAYY,A011881,Atomic Habits: Perubahan kecil yang memberikan hasil luar biasa,23/04/2024,02/05/2024,1,returned,9
+MAHASISWA,Real,A012818,Kitalah yang Ada di Sini Sekarang,24/04/2024,03/05/2024,1,returned,9
+MAHASISWA,RIFK,A4908,Pengantar statistika panduan praktis bagi pengajar dan mahasiswa,24/04/2024,03/05/2024,1,returned,9
+MAHASISWA,RIFK,A010844,"Kalkulus, ed. 9",24/04/2024,03/05/2024,1,returned,9
+MAHASISWA,RIFK,A012341,Kalkulus : Edisi kesembilan Jilid 2,24/04/2024,03/05/2024,1,returned,9
+MAHASISWA,Yuli,A012446,Test Of English As A Foreign Language Preparation,25/04/2024,06/05/2024,1,returned,11
+MAHASISWA,Yuli,A010419,"Supply chain : Manajemen, ilmu pengetahuan, strategi dan praktik",25/04/2024,06/05/2024,1,returned,11
+MAHASISWA,Yuli,A6471,Kalkulus dan geometri analitis jilid 2,25/04/2024,06/05/2024,1,returned,11
+MAHASISWA,Rui,A1678,Manajemen persediaan,25/04/2024,06/05/2024,1,returned,11
+MAHASISWA,Rui,A010845,"Kalkulus, ed. 9",25/04/2024,06/05/2024,1,returned,11
+MAHASISWA,Rizq,a011182,Algoritma dan Pemrograman Menggunakan Python,25/04/2024,06/05/2024,1,returned,11
+MAHASISWA,Rizq,a010183,Data mining dan machine learning menggunakan matlab dan python,25/04/2024,06/05/2024,1,returned,11
+MAHASISWA,Rizq,a0594,Data mining: konsep dan aplikasi menggunakan MATLAB,25/04/2024,06/05/2024,1,returned,11
+MAHASISWA,Ange,A6928,Rekayasa sistem manufaktur,25/04/2024,06/05/2024,1,returned,11
+MAHASISWA,Ni W,A011416,THE POWER OF OBSESSION : Cara Ampuh Memanfaatkan Obsesi Sebagai Formula Mencapai Kesuksesan,25/04/2024,06/05/2024,1,returned,11
+MAHASISWA,Ni W,A011626,Berani Tidak Disukai,25/04/2024,06/05/2024,1,returned,11
+MAHASISWA,Ni W,A011104,Discipline like Japanese,25/04/2024,06/05/2024,1,returned,11
+MAHASISWA,Ayni,a010791,The Secret of Ikigai; Rahasia menemukan kebahagiaan dan umur panjang ala orang Jepang,25/04/2024,06/05/2024,1,returned,11
+MAHASISWA,Ade,a011108,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,25/04/2024,06/05/2024,1,returned,11
+MAHASISWA,Dest,A8673,Bicara itu ada seninya : rahasia komunikasi yang efektif,26/04/2024,06/05/2024,1,returned,10
+MAHASISWA,Zahr,A1794,Nirmana: elemen-elemen seni dan desain,26/04/2024,06/05/2024,1,returned,10
+MAHASISWA,Zahr,A012619,Pengantar Desain Komunikasi Visual dalam Penerapan,26/04/2024,06/05/2024,1,returned,10
+MAHASISWA,KHUS,A011567,Himpunan,26/04/2024,06/05/2024,1,returned,10
+DOSEN,Eko,a012702,Dasar Sistem Komunikasi Menggunakan Matlab,29/04/2024,28/10/2024,0,on_loan,182
+DOSEN,Guna,A0232,Sistem Operasi,29/04/2024,22/05/2024,1,returned,23
+MAHASISWA,Refi,A010231,"Seni berbicara : kepada siapa saja, kapan saja, di mana saja",29/04/2024,08/05/2024,1,returned,9
+MAHASISWA,FATW,A012549,Buku Referensi : Kuesioner dalam Pengukuran Usability,29/04/2024,08/05/2024,1,returned,9
+MAHASISWA,FATW,A010164,Mengukur usability perangkat lunak,29/04/2024,08/05/2024,1,returned,9
+MAHASISWA,Dzak,A8959,How to win friends & influence people in the digital age,29/04/2024,08/05/2024,1,returned,9
+MAHASISWA,Muha,A011691,Seni Hidup Sederhana,29/04/2024,08/05/2024,1,returned,9
+MAHASISWA,Rodi,A012618,Laut bercerita,30/04/2024,13/05/2024,1,returned,13
+MAHASISWA,Jeen,A010605,Nebula,30/04/2024,13/05/2024,1,returned,13
+MAHASISWA,D'sh,A013085,Stop Meragukan Diri Sendiri,30/04/2024,13/05/2024,1,returned,13
+MAHASISWA,I Gu,A7500,Strategi jitu mendapatkan pekerjaan,30/04/2024,13/05/2024,1,returned,13
+MAHASISWA,I Gu,A010981,Kamu gak sendiri,30/04/2024,13/05/2024,1,returned,13
+MAHASISWA,I Gu,A9096,Baca buku ini saat engkau patah hati,30/04/2024,13/05/2024,1,returned,13
+MAHASISWA,M.FI,A012469,Kriptografi : edisi kedua,30/04/2024,13/05/2024,1,returned,13
+MAHASISWA,M.FI,A011287,Kriptografi : teknik keamanan data & informasi,30/04/2024,13/05/2024,1,returned,13
+MAHASISWA,Ayni,A8659,99 celoteh kang Erick Yusuf,30/04/2024,13/05/2024,1,returned,13
+MAHASISWA,AVIE,A7748,101 Metode desain : Pendekatan terstruktur untuk mendorong inovasi di organisasi Anda,30/04/2024,13/05/2024,1,returned,13
+MAHASISWA,YUMN,A011497,Manusia dan Badainya,30/04/2024,13/05/2024,1,returned,13
+MAHASISWA,YUMN,A7970,Sebuah seni untuk bersikap bodo amat : pendekatan yang waras demi menjalani hidup yang baik,30/04/2024,13/05/2024,1,returned,13
+MAHASISWA,YUMN,A010336,Selamat tinggal,30/04/2024,13/05/2024,1,returned,13
+MAHASISWA,YUMN,A012915,Cantik itu Luka,30/04/2024,13/05/2024,1,returned,13
+MAHASISWA,RAHM,A011338,Partial least square (PLS),30/04/2024,13/05/2024,1,returned,13
+DOSEN,Petr,A4026,Introductory quantum chemistry,02/05/2024,29/10/2024,1,returned,180
+MAHASISWA,Muha,A6844,Madilog,02/05/2024,13/05/2024,1,returned,11
+MAHASISWA,Nadi,A011487,Berdamai Dengan Kehilangan,02/05/2024,13/05/2024,1,returned,11
+MAHASISWA,Izza,A010977,The Enlightened Human: Menjadi Pribadi yang Tercerahkan,02/05/2024,13/05/2024,1,returned,11
+MAHASISWA,AUFA,A011295,Secret of Mental Magic,02/05/2024,13/05/2024,1,returned,11
+MAHASISWA,Fadi,A012880,Creating Apps with React Native,02/05/2024,13/05/2024,1,returned,11
+MAHASISWA,Dien,A0664,Dunia sophie,02/05/2024,13/05/2024,1,returned,11
+MAHASISWA,Adin,A012487,Sejarah Dunia Yang Disembunyikan,02/05/2024,13/05/2024,1,returned,11
+MAHASISWA,SYIF,A012550,Buku Referensi : Kuesioner dalam Pengukuran Usability,02/05/2024,13/05/2024,1,returned,11
+MAHASISWA,AMAN,A010141,Rekayasa Perangkat Lunak Terstruktur dan Berorientasi Objek,02/05/2024,13/05/2024,1,returned,11
+MAHASISWA,INGG,A1709,"Ergonomics: foundational, principles, applications, and technologies",02/05/2024,13/05/2024,1,returned,11
+MAHASISWA,Citr,A1457,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),03/05/2024,13/05/2024,1,returned,10
+MAHASISWA,Dind,A011051,"Forever love: Aku, kamu, & cinta kita",03/05/2024,13/05/2024,1,returned,10
+MAHASISWA,Ivan,A8251,Panggilan tanah air,03/05/2024,13/05/2024,1,returned,10
+MAHASISWA,Hani,A010927,"Seni berbicara : kepada siapa saja, kapan saja, di mana saja",03/05/2024,13/05/2024,1,returned,10
+MAHASISWA,Dian,A012041,SUPPLY CHAIN 4.0 : Blockchain dan Platform Global Value Chain,03/05/2024,13/05/2024,1,returned,10
+MAHASISWA,Nadi,A1462,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),03/05/2024,13/05/2024,1,returned,10
+MAHASISWA,Ange,A011921,Komunikasi Bisnis,03/05/2024,13/05/2024,1,returned,10
+MAHASISWA,Hand,A7606,Saddha,03/05/2024,13/05/2024,1,returned,10
+MAHASISWA,Nadi,A010979,"Seni berbicara : kepada siapa saja, kapan saja, di mana saja",06/05/2024,15/05/2024,1,returned,9
+MAHASISWA,Avri,A011581,Jangan Membuat Masalah Kecil Jadi Masalah Besar,06/05/2024,15/05/2024,1,returned,9
+MAHASISWA,FANI,A8970,Sebuah seni untuk bersikap bodo amat,06/05/2024,15/05/2024,1,returned,9
+MAHASISWA,FANI,A8747,21 Hari mengubah kebiasan buruk,06/05/2024,15/05/2024,1,returned,9
+MAHASISWA,FANI,A9492,Cara instan mengubah kebiasaan buruk : siapa bilang berubah itu susah?,06/05/2024,15/05/2024,1,returned,9
+MAHASISWA,FANI,A010082,111 kode HTML untuk belajar kilat,06/05/2024,15/05/2024,1,returned,9
+MAHASISWA,AYU,A9739,Pengantar Machine Learning: Konsep dan Praktikum Dengan Contoh Latihan Berbasis R dan Python,06/05/2024,15/05/2024,1,returned,9
+MAHASISWA,AYU,A011609,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,06/05/2024,15/05/2024,1,returned,9
+MAHASISWA,Novi,A7728,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,06/05/2024,15/05/2024,1,returned,9
+MAHASISWA,Amba,A013084,Kecerdasan Buatan dengan Deep Learning,06/05/2024,15/05/2024,1,returned,9
+MAHASISWA,Amba,A010978,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,06/05/2024,15/05/2024,1,returned,9
+MAHASISWA,Nurh,A011061,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,06/05/2024,15/05/2024,1,returned,9
+MAHASISWA,Nurh,A012003,Machine Learning Konsep dan Implementasi,06/05/2024,15/05/2024,1,returned,9
+MAHASISWA,Syar,A012358,Kalkulus : Edisi kesembilan Jilid 2,06/05/2024,15/05/2024,1,returned,9
+MAHASISWA,AMAN,A012554,Buku Referensi : Kuesioner dalam Pengukuran Usability,06/05/2024,15/05/2024,1,returned,9
+MAHASISWA,Popy,A011046,Data mining dan machine learning menggunakan matlab dan python,07/05/2024,16/05/2024,1,returned,9
+MAHASISWA,Popy,A1516,Data mining: teknik pemanfaatan data untuk keperluan bisnis,07/05/2024,16/05/2024,1,returned,9
+MAHASISWA,Ayni,A011379,Filosofi Hidup Bahagia,07/05/2024,16/05/2024,1,returned,9
+MAHASISWA,Soni,A8953,"Life plan : trik perencanaan matang untuk mewujudkan hidup yang aman, mapan dan terkendali",07/05/2024,16/05/2024,1,returned,9
+MAHASISWA,Ayni,A012447,Copy Writing : Melejitkan Jualan Online Dengan Kalimat Membujuk,07/05/2024,16/05/2024,1,returned,9
+MAHASISWA,Ayni,A011397,Personal Branding Code : Membangun Reputasi Positif Melalui Metode Circle-P,07/05/2024,16/05/2024,1,returned,9
+MAHASISWA,Ayni,A011485,Toko Online Keren Bermodal 300 Ribuan,07/05/2024,16/05/2024,1,returned,9
+MAHASISWA,Anni,A012562,Buku Referensi : Kuesioner dalam Pengukuran Usability,07/05/2024,16/05/2024,1,returned,9
+MAHASISWA,Ivan,A8861,Steve Jobs : kisah hidup seorang seniman komputer yang mengubah dunia,07/05/2024,16/05/2024,1,returned,9
+MAHASISWA,AVIE,A9735,"The Design Thinking Life Playbook: Empower Yourself, Embrace Change, and Visualize a Joyful Life",07/05/2024,16/05/2024,1,returned,9
+MAHASISWA,AVIE,A9836,Value proposition design : how to create products and services customers want,07/05/2024,16/05/2024,1,returned,9
+MAHASISWA,ELIS,A5893,"Come be my light: pergulatan batin ""orang suci dari kalkuta"" catatan harian yang selama ini disembunyikan dari publik",07/05/2024,16/05/2024,1,returned,9
+MAHASISWA,KRIS,A8738,Pengolahan citra digital : teori dan aplikasi nyata,07/05/2024,16/05/2024,1,returned,9
+MAHASISWA,KHUS,A012842,The Things You Can See Only When You Slow Down,07/05/2024,16/05/2024,1,returned,9
+MAHASISWA,Yuli,A012446,Test Of English As A Foreign Language Preparation,08/05/2024,17/05/2024,1,returned,9
+MAHASISWA,Sult,A011416,THE POWER OF OBSESSION : Cara Ampuh Memanfaatkan Obsesi Sebagai Formula Mencapai Kesuksesan,08/05/2024,17/05/2024,0,on_loan,9
+MAHASISWA,Adhi,A7204,Software engineering: a practitioner's approach,08/05/2024,17/05/2024,1,returned,9
+MAHASISWA,Marl,A011310,Mudah Menguasai Framework Laravel,08/05/2024,17/05/2024,1,returned,9
+MAHASISWA,Rodi,A010825,Mudah menguasai framework laravel,08/05/2024,17/05/2024,1,returned,9
+MAHASISWA,Muha,A011236,VLOOKUP & HLOOKUP MS EXCEL Untuk Pemula,08/05/2024,17/05/2024,1,returned,9
+MAHASISWA,Muha,A011302,Kupas Tuntas Kriteria dalam Formula Excel,08/05/2024,17/05/2024,1,returned,9
+MAHASISWA,Muha,A011697,143 Tip & Trik Excel 2019,08/05/2024,17/05/2024,1,returned,9
+MAHASISWA,MUHH,A012560,Buku Referensi : Kuesioner dalam Pengukuran Usability,08/05/2024,17/05/2024,1,returned,9
+MAHASISWA,ADNI,A0937,Tentang kamu,08/05/2024,17/05/2024,1,returned,9
+MAHASISWA,Kurn,A011689,A Family of Individuals,13/05/2024,22/05/2024,1,returned,9
+MAHASISWA,Yuli,A6791,Supply chain management edisi 3,13/05/2024,22/05/2024,1,returned,9
+MAHASISWA,Da'i,A011646,"Supply Chain Management : Perencanaan, Proses dan Kemitraan (Edisi Revisi)",13/05/2024,22/05/2024,1,returned,9
+MAHASISWA,Muha,A012982,Logo 2021 (Buku 1),13/05/2024,22/05/2024,1,returned,9
+MAHASISWA,Raya,A7394,"The Little Book of Cartooning & Illustration: More than 50 tips and techniques for drawing characters, animals, and expressions",13/05/2024,22/05/2024,1,returned,9
+MAHASISWA,Aman,A011131,The Adventures of Tom Sawyer,13/05/2024,22/05/2024,1,returned,9
+MAHASISWA,Ade,A011108,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,13/05/2024,22/05/2024,1,returned,9
+MAHASISWA,Ivan,A7763,Tan Malaka : biografi singkat 1897-1949,13/05/2024,22/05/2024,1,returned,9
+MAHASISWA,Muha,A011627,Pemrograman WEB edisi revisi,13/05/2024,22/05/2024,1,returned,9
+MAHASISWA,Alfa,A8019,Cisco CCNA-CCNP routing dan switching,13/05/2024,22/05/2024,1,returned,9
+MAHASISWA,ANNA,A011639,The Psychology Of Money,13/05/2024,22/05/2024,1,returned,9
+MAHASISWA,ANNA,A7785,Marxisme,13/05/2024,22/05/2024,1,returned,9
+MAHASISWA,EBEN,A9331,Personality theories : melacak kepribadian anda bersama psikologi dunia,13/05/2024,22/05/2024,1,returned,9
+MAHASISWA,EBEN,A7786,Marxisme,13/05/2024,22/05/2024,1,returned,9
+MAHASISWA,EBEN,A010615,A Philosophy of Walking,13/05/2024,22/05/2024,1,returned,9
+MAHASISWA,ADNI,A011576,The Tokyo Zodiac Murders,13/05/2024,22/05/2024,1,returned,9
+DOSEN,Ridw,A1513,Metoda metaheuristik: konsep dan implementasi,14/05/2024,11/11/2024,0,on_loan,181
+KARYAWAN,Pres,A4482,Rangkaian elektronik: prinsip dan aplikasi,14/05/2024,06/06/2024,0,on_loan,23
+KARYAWAN,Pres,A012506,"Prinsip Elektronika Dasar (Teori, Contoh Soal dan Evaluasi)",14/05/2024,06/06/2024,0,on_loan,23
+MAHASISWA,Avri,A011581,Jangan Membuat Masalah Kecil Jadi Masalah Besar,14/05/2024,27/05/2024,1,returned,13
+MAHASISWA,Farh,A010791,The Secret of Ikigai; Rahasia menemukan kebahagiaan dan umur panjang ala orang Jepang,14/05/2024,27/05/2024,1,returned,13
+MAHASISWA,LIZA,A4181,Sistem komunikasi satelit: teori dan praktik,14/05/2024,27/05/2024,1,returned,13
+MAHASISWA,RHEY,A7043,Jangan mudah mengeluh: Allah bersama kita,14/05/2024,27/05/2024,1,returned,13
+MAHASISWA,Dill,A012398,Pulang - Pergi,14/05/2024,27/05/2024,1,returned,13
+MAHASISWA,Muha,A5110,Wireless hacking: cari dan eksploitasi kelemahan jaringan wireless,14/05/2024,27/05/2024,1,returned,13
+MAHASISWA,ZUHD,A4144,Sistem komunikasi satelit: teori dan praktik,14/05/2024,27/05/2024,1,returned,13
+MAHASISWA,Ichs,A6792,Supply chain management edisi 3,14/05/2024,27/05/2024,1,returned,13
+MAHASISWA,FARR,A012559,Buku Referensi : Kuesioner dalam Pengukuran Usability,14/05/2024,27/05/2024,1,returned,13
+MAHASISWA,ARGI,A0923,Rahasia tergelap,15/05/2024,27/05/2024,1,returned,12
+MAHASISWA,ARGI,A3313,The devil's advocate: 100 aturan bisnis yang harus anda kuasai,15/05/2024,27/05/2024,1,returned,12
+MAHASISWA,ARGI,A010682,Pertolongan Pertama pada Emosi Anda,15/05/2024,27/05/2024,1,returned,12
+MAHASISWA,ARGI,A010124,Rich inc. setiap orang bisa jadi pengusaha,15/05/2024,27/05/2024,1,returned,12
+MAHASISWA,Dind,A8908,Cinta dalam ikhlas,15/05/2024,27/05/2024,1,returned,12
+MAHASISWA,Dind,A013049,Pejuang Hijrah,15/05/2024,27/05/2024,1,returned,12
+MAHASISWA,Irha,A8760,Berdamai dengan emosi,15/05/2024,27/05/2024,1,returned,12
+MAHASISWA,Irha,A7061,Teori kepribadian,15/05/2024,27/05/2024,1,returned,12
+MAHASISWA,Ther,A1152,I wuf u,15/05/2024,27/05/2024,1,returned,12
+MAHASISWA,Mira,A011588,Kisah yang Pilu untuk Kita yang Ragu,16/05/2024,27/05/2024,1,returned,11
+MAHASISWA,Kevi,A010813,Kemahiran Berbahasa Indonesia,16/05/2024,27/05/2024,1,returned,11
+MAHASISWA,RIFK,A9563,Pengantar ilmu hukum,16/05/2024,27/05/2024,1,returned,11
+MAHASISWA,RIFK,A012616,Bibi Gill,16/05/2024,27/05/2024,1,returned,11
+MAHASISWA,Muha,A0499,"Soal & penyelesaian C++ : membahas berbagai soal menyangkut pemrograman, algoritma, dan struktur data",16/05/2024,27/05/2024,1,returned,11
+MAHASISWA,TRI,A6767,Ketika Alkitab dipertanyakan,16/05/2024,27/05/2024,1,returned,11
+MAHASISWA,LIAN,A012560,Buku Referensi : Kuesioner dalam Pengukuran Usability,16/05/2024,27/05/2024,1,returned,11
+MAHASISWA,Meta,A010977,The Enlightened Human: Menjadi Pribadi yang Tercerahkan,16/05/2024,27/05/2024,1,returned,11
+MAHASISWA,ANGG,A011585,Metode Penelitian Kuantitatif dan Kualitatif,16/05/2024,27/05/2024,1,returned,11
+MAHASISWA,ANGG,A3794,Metodologi penelitian,16/05/2024,27/05/2024,1,returned,11
+MAHASISWA,ANGG,A1149,"Metode penelitian: kuantitatif, kualitatif & penelitian gabungan",16/05/2024,27/05/2024,1,returned,11
+MAHASISWA,ARIF,A9361,Selamat tinggal,16/05/2024,27/05/2024,1,returned,11
+MAHASISWA,Ni W,A012618,Laut bercerita,17/05/2024,27/05/2024,0,on_loan,10
+MAHASISWA,Adhi,A7581,Test-driven development with python,17/05/2024,27/05/2024,1,returned,10
+MAHASISWA,Lati,A8222,Teman berjuang,17/05/2024,27/05/2024,1,returned,10
+MAHASISWA,Rian,A012251,Change Now : Mengubah Kebiasaan Buruk Itu Ternyata Tak Pernah Semudah Ini,17/05/2024,27/05/2024,1,returned,10
+MAHASISWA,Rian,A010005,Persepsi,17/05/2024,27/05/2024,1,returned,10
+MAHASISWA,M Ma,A7041,Negeri di ujung tanduk,17/05/2024,27/05/2024,1,returned,10
+MAHASISWA,Muha,A012562,Buku Referensi : Kuesioner dalam Pengukuran Usability,17/05/2024,27/05/2024,1,returned,10
+MAHASISWA,Lulu,A012387,Data mining : untuk klasifikasi dan klasterisasi data,17/05/2024,27/05/2024,1,returned,10
+DOSEN,Sukm,A012645,Psikologi Konsumen,20/05/2024,18/11/2024,1,returned,182
+DOSEN,Lina,A011528,Insecurity is My Middle Name,20/05/2024,18/11/2024,1,returned,182
+DOSEN,Lina,A010513,Selamat tinggal,20/05/2024,18/11/2024,1,returned,182
+DOSEN,Lina,A8950,Tenyata bahasa inggris itu mudah : panduan cepat kuasai bahasa inggris,20/05/2024,18/11/2024,1,returned,182
+MAHASISWA,ESRA,A0317,Pemrograman Matlab dalam contoh dan penerapan,20/05/2024,29/05/2024,1,returned,9
+MAHASISWA,HAID,A012895,"Advanced Forecasting with Python: With State-of-the-Art-Models Including LSTMs, Facebookâ€™s Prophet, and Amazonâ€™s DeepAR",20/05/2024,29/05/2024,1,returned,9
+MAHASISWA,Yuli,A012446,Test Of English As A Foreign Language Preparation,21/05/2024,30/05/2024,1,returned,9
+MAHASISWA,Muha,a012135,Mastering Natural Language Processing with Python,21/05/2024,30/05/2024,1,returned,9
+MAHASISWA,ELSA,A8775,"Metode penelitian kualitatif: Untuk penelitian yang bersifat eksploratif, enterpretif, interaktif dan konstruktif",21/05/2024,30/05/2024,1,returned,9
+MAHASISWA,Novi,A011626,Berani Tidak Disukai,21/05/2024,30/05/2024,1,returned,9
+MAHASISWA,STAN,A012835,La Taias Syifauka Qarib,21/05/2024,30/05/2024,1,returned,9
+MAHASISWA,Raph,A011793,Machine learning & computational intelligence,21/05/2024,30/05/2024,1,returned,9
+MAHASISWA,Raph,A012907,Becoming a Data Head,21/05/2024,30/05/2024,1,returned,9
+MAHASISWA,Raph,A8778,Deep learning : modernisasi machine learning untuk big data,21/05/2024,30/05/2024,1,returned,9
+MAHASISWA,FATW,a010166,Mengukur usability perangkat lunak,21/05/2024,30/05/2024,1,returned,9
+MAHASISWA,FATW,a012558,Buku Referensi : Kuesioner dalam Pengukuran Usability,21/05/2024,30/05/2024,1,returned,9
+DOSEN,Mega,A012673,Matahari Minor,22/05/2024,18/11/2024,1,returned,180
+DOSEN,Mega,A011641,Rasa,22/05/2024,18/11/2024,1,returned,180
+DOSEN,Mega,A8780,Falsafah hidup,22/05/2024,18/11/2024,1,returned,180
+MAHASISWA,Rizk,A0664,Dunia sophie,22/05/2024,31/05/2024,1,returned,9
+MAHASISWA,Muha,A011472,Introver Novel Penggugat Jiwa,22/05/2024,31/05/2024,1,returned,9
+MAHASISWA,Nadi,A012044,Insecurity is My Middle Name,22/05/2024,31/05/2024,1,returned,9
+MAHASISWA,Muha,A010953,Hands-On Python Natural Language Processing,22/05/2024,31/05/2024,1,returned,9
+MAHASISWA,Dien,A6911,Some later reminiscences of Sherlock Holmes: his last bow,22/05/2024,31/05/2024,1,returned,9
+MAHASISWA,Kuku,A011567,Himpunan,22/05/2024,31/05/2024,1,returned,9
+MAHASISWA,Raya,A011027,Pulang,22/05/2024,31/05/2024,1,returned,9
+MAHASISWA,Anna,A012342,Kalkulus : Edisi kesembilan Jilid 2,22/05/2024,31/05/2024,1,returned,9
+MAHASISWA,Wafi,A012359,Kalkulus : Edisi kesembilan Jilid 2,22/05/2024,31/05/2024,1,returned,9
+MAHASISWA,Putr,A012569,Bumi,22/05/2024,31/05/2024,1,returned,9
+MAHASISWA,Nusa,A9104,#Berhentidikamu,22/05/2024,31/05/2024,1,returned,9
+MAHASISWA,Vani,A010403,Frankenstein,22/05/2024,31/05/2024,1,returned,9
+MAHASISWA,Vani,A7105,The magic library: perpustakaan ajaib Bibbi Bokken,22/05/2024,31/05/2024,1,returned,9
+MAHASISWA,DHAI,A8962,The shortcut of Matlab programming edisi revisi,22/05/2024,31/05/2024,1,returned,9
+MAHASISWA,LIND,A011339,Partial least square (PLS),22/05/2024,31/05/2024,1,returned,9
+MAHASISWA,Ichs,A6792,Supply chain management edisi 3,22/05/2024,31/05/2024,1,returned,9
+MAHASISWA,Malo,A0854,Rindu,27/05/2024,05/06/2024,1,returned,9
+MAHASISWA,Desi,A010921,"Acc, Pak!!",27/05/2024,05/06/2024,1,returned,9
+MAHASISWA,Dani,A7814,Ubur-ubur lembur,27/05/2024,05/06/2024,1,returned,9
+MAHASISWA,Nurh,A7468,Data mining : teori dan aplikasi rapidminer,27/05/2024,05/06/2024,1,returned,9
+MAHASISWA,Nurh,A012006,Machine Learning : Tingkat Dasar dan Lanjut,27/05/2024,05/06/2024,1,returned,9
+MAHASISWA,ARGI,A010682,Pertolongan Pertama pada Emosi Anda,27/05/2024,05/06/2024,1,returned,9
+MAHASISWA,Nadi,A7064,Sebuah usaha melupakan,27/05/2024,05/06/2024,1,returned,9
+MAHASISWA,Nurh,A9739,Pengantar Machine Learning: Konsep dan Praktikum Dengan Contoh Latihan Berbasis R dan Python,27/05/2024,05/06/2024,1,returned,9
+MAHASISWA,Mira,A011885,Ingkar,27/05/2024,05/06/2024,0,on_loan,9
+MAHASISWA,TECT,A9229,Statistika untuk penelitian,27/05/2024,05/06/2024,1,returned,9
+MAHASISWA,TECT,A010707,Metode Penelitian Kualitatif,27/05/2024,05/06/2024,1,returned,9
+MAHASISWA,TECT,A9047,"Metode penelitian kualitatif: Untuk penelitian yang bersifat eksploratif, enterpretif, interaktif dan konstruktif",27/05/2024,05/06/2024,1,returned,9
+MAHASISWA,TECT,A0984,Statistika untuk penelitian,27/05/2024,05/06/2024,1,returned,9
+MAHASISWA,ARIF,A012611,Lumpu,27/05/2024,05/06/2024,1,returned,9
+MAHASISWA,ARIF,A010179,Si putih,27/05/2024,05/06/2024,1,returned,9
+MAHASISWA,RAHM,A9697,Partial least square (PLS),27/05/2024,05/06/2024,1,returned,9
+MAHASISWA,SYIF,A1567,Pengantar teknik industri,27/05/2024,05/06/2024,1,returned,9
+MAHASISWA,SYIF,A1514,Tata letak pabrik,27/05/2024,05/06/2024,1,returned,9
+MAHASISWA,Dali,A9552,Kata : tentang senja yang kehilangan langitnya,28/05/2024,06/06/2024,0,on_loan,9
+MAHASISWA,Tri,A1104,4G Handbook : edisi bahasa Indonesia,28/05/2024,06/06/2024,1,returned,9
+MAHASISWA,Thor,A1482,Merancang aplikasi dengan metodologi Extreme Programmings,28/05/2024,06/06/2024,1,returned,9
+MAHASISWA,Thor,A011878,Analisis dan Desain Perangkat Lunak,28/05/2024,06/06/2024,1,returned,9
+MAHASISWA,Rr.A,A0842,Pemrograman android black box,28/05/2024,06/06/2024,1,returned,9
+MAHASISWA,Rr.A,A011542,Analisis Perancangan Sistem Berorientasi Objek dengan UML,28/05/2024,06/06/2024,1,returned,9
+MAHASISWA,Rafi,A010980,Analisis Perancangan Sistem Berorientasi Objek dengan UML,28/05/2024,06/06/2024,1,returned,9
+MAHASISWA,Rafi,A011627,Pemrograman WEB edisi revisi,28/05/2024,06/06/2024,1,returned,9
+MAHASISWA,Brem,A011639,The Psychology Of Money,29/05/2024,07/06/2024,1,returned,9
+MAHASISWA,ANAN,A3794,Metodologi penelitian,29/05/2024,07/06/2024,1,returned,9
+MAHASISWA,Putr,a9428,Langkah mudah pemrograman OpenCV & Python,29/05/2024,07/06/2024,1,returned,9
+MAHASISWA,Putr,a1907,Kecerdasan tiruan,29/05/2024,07/06/2024,1,returned,9
+MAHASISWA,Putr,a8655,Pengolahan citra digital : teori dan aplikasi nyata,29/05/2024,07/06/2024,1,returned,9
+MAHASISWA,Angg,a011630,"Sebuah sekuel dari 5 cm : Aku, Kamu, Samudera, dan Bintang-Bintang",29/05/2024,07/06/2024,1,returned,9
+MAHASISWA,Angg,a012837,Keselamatan dan Kesehatan Kerja,29/05/2024,07/06/2024,1,returned,9
+MAHASISWA,Angg,a1680,Teknik keselamatan dan kesehatan kerja di Industri,29/05/2024,07/06/2024,1,returned,9
+MAHASISWA,Angg,a012836,Kesehatan dan Keselamatan Lingkungan Kerja,29/05/2024,07/06/2024,1,returned,9
+MAHASISWA,Merl,a010663,Ergonomi Suatu Pengantar,29/05/2024,07/06/2024,1,returned,9
+MAHASISWA,Merl,a1527,Ergonomi: konsep dasar dan aplikasinya,29/05/2024,07/06/2024,1,returned,9
+MAHASISWA,Merl,a7616,Daun yang jatuh tak pernah membenci angin,29/05/2024,07/06/2024,1,returned,9
+MAHASISWA,Yuli,A2148,Pendidikan kewarganegaraan,29/05/2024,07/06/2024,1,returned,9
+MAHASISWA,Da'i,A1743,Etika berwarganegara: pendidikan kewarganegaraan di perguruan tinggi,29/05/2024,07/06/2024,1,returned,9
+MAHASISWA,Achm,A8746,Arduino: belajar cepat dan pemrograman,29/05/2024,07/06/2024,1,returned,9
+MAHASISWA,Yuli,A3633,Inggris Gaul : Lancar Ngobrol Sehari-hari dengan Bahasa Gaul,30/05/2024,10/06/2024,1,returned,11
+MAHASISWA,Yuli,A011246,Mindset (Edisi Revisi) : Mengubah Pola Berpikir untuk Perubahan Besar dalam Hidup Anda,30/05/2024,10/06/2024,1,returned,11
+MAHASISWA,Yuli,A010152,Statistika untuk Ekonomi dan Bisnis,30/05/2024,10/06/2024,1,returned,11
+MAHASISWA,Da'i,A7417,Official statistics : sosial - kependudukan dasar,30/05/2024,10/06/2024,1,returned,11
+MAHASISWA,Yuli,A1637,99% sukses TPA kerja & akademik,30/05/2024,10/06/2024,1,returned,11
+MAHASISWA,Muha,A012562,Buku Referensi : Kuesioner dalam Pengukuran Usability,30/05/2024,10/06/2024,1,returned,11
+MAHASISWA,SITI,A011654,Lose or Love Her Again,30/05/2024,10/06/2024,1,returned,11
+KARYAWAN,Hanu,A0438,Manajemen keuangan teori dan aplikasi edisi 4,31/05/2024,24/06/2024,1,returned,24
+KARYAWAN,Hanu,A012500,Power BI : Business Intelligence Clinic (New Version 2022),31/05/2024,24/06/2024,1,returned,24
+KARYAWAN,Inda,A8915,Your name,31/05/2024,24/06/2024,1,returned,24
+MAHASISWA,Dind,A010125,"Tenanglah, masih ada Allah",31/05/2024,10/06/2024,1,returned,10
+MAHASISWA,Dind,A3187,"Yuk, berhijab !",31/05/2024,10/06/2024,1,returned,10
+MAHASISWA,Muha,A8971,The railway children : anak-anak kereta api,31/05/2024,10/06/2024,1,returned,10
+MAHASISWA,Muha,A8797,Greyfriars Bobby,31/05/2024,10/06/2024,1,returned,10
+MAHASISWA,Dikr,A0968,Rangkaian listrik,31/05/2024,10/06/2024,1,returned,10
+MAHASISWA,Erna,A012003,Machine Learning Konsep dan Implementasi,31/05/2024,10/06/2024,1,returned,10
+MAHASISWA,Erna,A010134,Data mining dan machine learning menggunakan matlab dan python,31/05/2024,10/06/2024,1,returned,10
+MAHASISWA,Ivan,A5850,Para penjelajah dunia dari Vasco da Gama hingga Ibnu Battuta,31/05/2024,10/06/2024,1,returned,10
+MAHASISWA,Soni,A011497,Manusia dan Badainya,31/05/2024,10/06/2024,1,returned,10
+MAHASISWA,Akhm,A7903,Belajar Machine Learning Teori dan Praktik,31/05/2024,10/06/2024,1,returned,10
+MAHASISWA,Lulu,A8306,Rangkaian listrik,03/06/2024,12/06/2024,1,returned,9
+MAHASISWA,Puji,A0968,Rangkaian listrik,03/06/2024,12/06/2024,1,returned,9
+MAHASISWA,REST,A1657,Teknik-teknik statistika dalam bisnis dan ekonomi,03/06/2024,12/06/2024,0,on_loan,9
+MAHASISWA,Firm,A013084,Kecerdasan Buatan dengan Deep Learning,03/06/2024,12/06/2024,1,returned,9
+MAHASISWA,RIFK,A0502,"Soal & penyelesaian C++ : membahas berbagai soal menyangkut pemrograman, algoritma, dan struktur data",03/06/2024,12/06/2024,1,returned,9
+MAHASISWA,RIFK,A012341,Kalkulus : Edisi kesembilan Jilid 2,03/06/2024,12/06/2024,1,returned,9
+MAHASISWA,Real,A010419,"Supply chain : Manajemen, ilmu pengetahuan, strategi dan praktik",03/06/2024,12/06/2024,1,returned,9
+MAHASISWA,Real,A012487,Sejarah Dunia Yang Disembunyikan,03/06/2024,12/06/2024,1,returned,9
+MAHASISWA,EBEN,A8519,Security jaringan komputer berbasis CEH,03/06/2024,12/06/2024,1,returned,9
+MAHASISWA,Rian,A011881,Atomic Habits: Perubahan kecil yang memberikan hasil luar biasa,04/06/2024,13/06/2024,1,returned,9
+MAHASISWA,Ther,A1152,I wuf u,04/06/2024,13/06/2024,1,returned,9
+MAHASISWA,FEBI,A4151,Sistem komunikasi satelit: teori dan praktik,04/06/2024,13/06/2024,1,returned,9
+MAHASISWA,Adri,A9058,Baca buku ini saat engkau gagal,04/06/2024,13/06/2024,1,returned,9
+MAHASISWA,Hatt,A8834,The magic of leadership,04/06/2024,13/06/2024,1,returned,9
+MAHASISWA,Hatt,A8673,Bicara itu ada seninya : rahasia komunikasi yang efektif,04/06/2024,13/06/2024,1,returned,9
+MAHASISWA,Hatt,A2056,Pengantar teknik elektro,04/06/2024,13/06/2024,1,returned,9
+MAHASISWA,Hatt,A011902,Panduan praktis penulisan karya ilmiah,04/06/2024,13/06/2024,1,returned,9
+MAHASISWA,selv,A1469,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),04/06/2024,13/06/2024,1,returned,9
+MAHASISWA,Azza,A1465,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),04/06/2024,13/06/2024,1,returned,9
+MAHASISWA,Nadi,A1463,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),04/06/2024,13/06/2024,1,returned,9
+MAHASISWA,DWI,A9603,Bicara itu ada seninya,04/06/2024,13/06/2024,1,returned,9
+MAHASISWA,Muha,A010509,Berdamai dengan rasa malas,05/06/2024,14/06/2024,1,returned,9
+MAHASISWA,Muha,A9492,Cara instan mengubah kebiasaan buruk : siapa bilang berubah itu susah?,05/06/2024,14/06/2024,1,returned,9
+MAHASISWA,Rodi,A9620,Kami (bukan) generasi bac*t,05/06/2024,14/06/2024,1,returned,9
+MAHASISWA,Rr.A,A010162,Mengukur usability perangkat lunak,05/06/2024,14/06/2024,1,returned,9
+MAHASISWA,Dill,A9405,Tentang kamu,05/06/2024,14/06/2024,1,returned,9
+MAHASISWA,Hapo,A012044,Insecurity is My Middle Name,05/06/2024,14/06/2024,1,returned,9
+MAHASISWA,Dhea,A011027,Pulang,05/06/2024,14/06/2024,1,returned,9
+MAHASISWA,Elya,A011197,Sebuah Seni untuk Bersikap Bodo Amat,05/06/2024,14/06/2024,1,returned,9
+MAHASISWA,ALIY,a012901,Your mind kills,05/06/2024,14/06/2024,1,returned,9
+MAHASISWA,Hann,a010609,Seharusnya memang tidak begini begitu,05/06/2024,14/06/2024,1,returned,9
+MAHASISWA,ADIT,A012565,Buku Referensi : Kuesioner dalam Pengukuran Usability,05/06/2024,14/06/2024,1,returned,9
+MAHASISWA,Rizq,A6898,Pengantar sistem manufaktur,06/06/2024,17/06/2024,1,returned,11
+MAHASISWA,Muha,A8918,Semua bisa menjadi programmer laravel basic,06/06/2024,17/06/2024,1,returned,11
+MAHASISWA,Muha,A1491,Rekayasa perangkat lunak,06/06/2024,17/06/2024,1,returned,11
+MAHASISWA,Muha,A010256,Rekayasa Perangkat Lunak Terstruktur dan Berorientasi Objek,06/06/2024,17/06/2024,1,returned,11
+MAHASISWA,Muha,A011877,Analisis dan Desain Perangkat Lunak,06/06/2024,17/06/2024,1,returned,11
+MAHASISWA,Agne,A1462,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),06/06/2024,17/06/2024,1,returned,11
+MAHASISWA,Chik,A1466,Sukses mengelola layanan teknologi informasi & kiat lulus ujian sertifikasi ITIL Foundation (Information Technology Infrastructure Library),06/06/2024,17/06/2024,1,returned,11
+MAHASISWA,Eura,A8453,Metode penelitian kuantitatif,06/06/2024,17/06/2024,1,returned,11
+MAHASISWA,Eura,A9526,SPSS24 untuk penelitian dan skripsi,06/06/2024,17/06/2024,1,returned,11
+MAHASISWA,Muha,A7298,Perancangan tata letak pabrik,06/06/2024,17/06/2024,1,returned,11
+MAHASISWA,Muha,A012945,Warehouse Management: The Definitive Guide to Improving Efficiency and Minimizing Costs in the Modern Warehouse,06/06/2024,17/06/2024,1,returned,11
+MAHASISWA,Muha,A013056,Tata Letak Pabrik dan Pemindahan Bahan,06/06/2024,17/06/2024,1,returned,11
+MAHASISWA,Muha,A7444,Tata letak pabrik dan pemindahan bahan : edisi ketiga,06/06/2024,17/06/2024,1,returned,11
+MAHASISWA,TIAR,A011472,Introver Novel Penggugat Jiwa,07/06/2024,17/06/2024,1,returned,10
+MAHASISWA,Loly,a8867,Sapiens : riwayat singkat umat manusia,07/06/2024,17/06/2024,1,returned,10
+MAHASISWA,Edga,A5835,Teknik modern fotografi digital,07/06/2024,17/06/2024,1,returned,10
+MAHASISWA,Fadi,A011887,Membangun Jaringan Komputer,07/06/2024,19/06/2024,1,returned,12
+MAHASISWA,Fadi,A6677,"Router: teknologi, konsep, konfigurasi dan troubleshooting",07/06/2024,19/06/2024,1,returned,12
+MAHASISWA,Fadi,A6813,Membangun sistem jaringan komputer,07/06/2024,19/06/2024,1,returned,12
+MAHASISWA,Fadi,A011790,Komunikasi data & jaringan komputer,07/06/2024,19/06/2024,1,returned,12
+MAHASISWA,Akhm,A011615,PHP Edisi Lengkap,07/06/2024,19/06/2024,1,returned,12
+MAHASISWA,Malo,A8347,Negeri Para Bedebah,07/06/2024,19/06/2024,1,returned,12
+MAHASISWA,Malo,A0937,Tentang kamu,07/06/2024,19/06/2024,1,returned,12
+MAHASISWA,Muha,A010602,EX,07/06/2024,19/06/2024,1,returned,12
+MAHASISWA,Anis,A1400,Pulang,07/06/2024,19/06/2024,1,returned,12
+MAHASISWA,Anis,A7789,Pergi,07/06/2024,19/06/2024,1,returned,12
+MAHASISWA,EBEN,A012541,Small Stocks Big Profit,07/06/2024,19/06/2024,1,returned,12
+MAHASISWA,EBEN,A5588,Main saham untuk karyawan kecil,07/06/2024,19/06/2024,1,returned,12
+MAHASISWA,ULYA,A012550,Buku Referensi : Kuesioner dalam Pengukuran Usability,07/06/2024,19/06/2024,1,returned,12
+MAHASISWA,Rizq,A7970,Sebuah seni untuk bersikap bodo amat : pendekatan yang waras demi menjalani hidup yang baik,10/06/2024,19/06/2024,1,returned,9
+MAHASISWA,FELI,A9646,Selamat tinggal,10/06/2024,19/06/2024,1,returned,9
+MAHASISWA,Dikr,A0968,Rangkaian listrik,10/06/2024,19/06/2024,1,returned,9
+MAHASISWA,Braw,A9240,Rangkaian listrik,10/06/2024,19/06/2024,1,returned,9
+MAHASISWA,Afna,A0587,Rangkaian listrik,10/06/2024,19/06/2024,1,returned,9
+MAHASISWA,Agus,A4406,Rangkaian listrik,10/06/2024,19/06/2024,1,returned,9
+MAHASISWA,Muha,A010733,Berpura-pura Bahagia Itu Melelahkan,10/06/2024,19/06/2024,1,returned,9
+MAHASISWA,Rizq,A6929,Rekayasa sistem manufaktur,10/06/2024,19/06/2024,1,returned,9
+MAHASISWA,FATW,A010164,Mengukur usability perangkat lunak,10/06/2024,19/06/2024,1,returned,9
+MAHASISWA,FATW,A012553,Buku Referensi : Kuesioner dalam Pengukuran Usability,10/06/2024,19/06/2024,1,returned,9
+MAHASISWA,ADIT,A012549,Buku Referensi : Kuesioner dalam Pengukuran Usability,11/06/2024,20/06/2024,1,returned,9
+MAHASISWA,Berl,A9603,Bicara itu ada seninya,11/06/2024,20/06/2024,1,returned,9
+MAHASISWA,DWI,A010107,Cashflow quadrant panduan mencapai kebebasan keuangan,11/06/2024,20/06/2024,1,returned,9
+MAHASISWA,MUHA,A012006,Machine Learning : Tingkat Dasar dan Lanjut,12/06/2024,21/06/2024,1,returned,9
+MAHASISWA,Glad,A012988,Pengantar Sistem Logistik dan Rantai Pasok,12/06/2024,21/06/2024,1,returned,9
+MAHASISWA,Wafi,A010791,The Secret of Ikigai; Rahasia menemukan kebahagiaan dan umur panjang ala orang Jepang,12/06/2024,21/06/2024,1,returned,9
+MAHASISWA,Wafi,A3488,Perang Muhammad kisah perjuangan dan pertempuran Rasulullah,12/06/2024,21/06/2024,1,returned,9
+MAHASISWA,Kurn,A012510,Funiculi Funicula,12/06/2024,21/06/2024,1,returned,9
+MAHASISWA,Rest,A012831,"Sapiens: A Graphic History, Volume 2: The Pillars Of Civiliz",12/06/2024,21/06/2024,1,returned,9
+MAHASISWA,Ivan,A010174,Bertahan,12/06/2024,21/06/2024,1,returned,9
+MAHASISWA,Edga,a012766,Metode Penelitian Kuantitatif dan Kualitatif,12/06/2024,21/06/2024,1,returned,9
+MAHASISWA,Edga,a011129,Metodologi Penelitian Kualitatif,12/06/2024,21/06/2024,1,returned,9
+MAHASISWA,KHUS,A8261,Kala kita adalah sepasang luka yang saling melupa,12/06/2024,21/06/2024,1,returned,9
+KARYAWAN,Sofi,A3613,Sosiologi ekonomi: kapitalisme dan konsumsi di era masyarakat post-modernisme,13/06/2024,08/07/2024,0,on_loan,25
+KARYAWAN,Sofi,A8590,Mudahnya menghitung pajak umum,13/06/2024,08/07/2024,0,on_loan,25
+KARYAWAN,Sofi,A8313,Praktikum perpajakan Edisi 3,13/06/2024,08/07/2024,0,on_loan,25
+MAHASISWA,Zah',A010512,Tentang kamu,13/06/2024,24/06/2024,1,returned,11
+MAHASISWA,Zah',A011804,Tiongkok Wise Stories,13/06/2024,24/06/2024,1,returned,11
+MAHASISWA,TECT,A6464,Mengenal Pemrograman ReactJS,13/06/2024,24/06/2024,1,returned,11
+MAHASISWA,TECT,A012880,Creating Apps with React Native,13/06/2024,24/06/2024,1,returned,11
+MAHASISWA,FARR,A011076,7 in 1 pemrograman web tingkat lanjut,13/06/2024,24/06/2024,1,returned,11
+MAHASISWA,CYNT,A7251,They call me psychopath,13/06/2024,24/06/2024,1,returned,11
+MAHASISWA,EBEN,A9520,Network : Tweaking dan Hacking,13/06/2024,24/06/2024,1,returned,11
+MAHASISWA,EBEN,A1308,Computer security,13/06/2024,24/06/2024,1,returned,11
+MAHASISWA,EBEN,A011510,Switch & Multilayer Switch Cisco: Implementasi Jaringan Akses,13/06/2024,24/06/2024,1,returned,11
+MAHASISWA,Anun,A012398,Pulang - Pergi,14/06/2024,24/06/2024,1,returned,10
+MAHASISWA,JONA,A6379,"Learning agile: understanding scrum, XP, lean, and kanban",14/06/2024,24/06/2024,1,returned,10
+MAHASISWA,JONA,A1486,Manajemen modern dengan Scrum: sebuah petualangan baru di Abad 21 menjadi manajer software development modern,14/06/2024,24/06/2024,1,returned,10
+MAHASISWA,ELSA,A9047,"Metode penelitian kualitatif: Untuk penelitian yang bersifat eksploratif, enterpretif, interaktif dan konstruktif",19/06/2024,28/06/2024,1,returned,9
+MAHASISWA,Anni,A012558,Buku Referensi : Kuesioner dalam Pengukuran Usability,19/06/2024,28/06/2024,1,returned,9
+MAHASISWA,Fadi,A011615,PHP Edisi Lengkap,19/06/2024,28/06/2024,1,returned,9
+MAHASISWA,NAUF,A012552,Buku Referensi : Kuesioner dalam Pengukuran Usability,19/06/2024,28/06/2024,1,returned,9
+DOSEN,Sevi,A010951,Singular Spectrum Analysis of Biomedical Signals,20/06/2024,17/12/2024,0,on_loan,180
+DOSEN,Sevi,A011029,Biomedical signal processing and artificial intelligence in healthcare,20/06/2024,17/12/2024,0,on_loan,180
+DOSEN,Sevi,A010897,Medical devices and human engineering,20/06/2024,17/12/2024,0,on_loan,180
+DOSEN,Sevi,A011158,Biomedical Signal Processing and Signal Modeling,20/06/2024,17/12/2024,0,on_loan,180
+DOSEN,Sevi,A011025,Biomedical Signal Analysis,20/06/2024,17/12/2024,0,on_loan,180
+DOSEN,Sevi,A1897,Elektronika digital: konsep dasar & aplikasinya,20/06/2024,17/12/2024,0,on_loan,180
+DOSEN,Sevi,A1667,Ergonomi: konsep dasar dan aplikasinya,20/06/2024,17/12/2024,0,on_loan,180
+DOSEN,Sevi,A010481,Implementasi Algoritma dalam bahasa Python,20/06/2024,17/12/2024,0,on_loan,180
+MAHASISWA,Yuli,A012764,Pengantar Transportasi dan Logistik,20/06/2024,01/07/2024,1,returned,11
+MAHASISWA,FARK,A012557,Buku Referensi : Kuesioner dalam Pengukuran Usability,20/06/2024,01/07/2024,1,returned,11
+MAHASISWA,FARK,A5380,"Multimedia: making it work, ed. 5",20/06/2024,01/07/2024,1,returned,11
+MAHASISWA,SAFI,A012550,Buku Referensi : Kuesioner dalam Pengukuran Usability,20/06/2024,01/07/2024,1,returned,11
+DOSEN,Amin,A1400,Pulang,21/06/2024,18/12/2024,1,returned,180
+KARYAWAN,Inda,A012901,Your mind kills,21/06/2024,15/07/2024,0,on_loan,24
+KARYAWAN,Inda,A8261,Kala kita adalah sepasang luka yang saling melupa,21/06/2024,15/07/2024,0,on_loan,24
+KARYAWAN,Inda,A012840,The Star and I,21/06/2024,15/07/2024,0,on_loan,24
+MAHASISWA,Ivan,A1221,Mahasiswa-mahasiswa penghafal Quran,21/06/2024,01/07/2024,1,returned,10
+MAHASISWA,Lati,A1482,Merancang aplikasi dengan metodologi Extreme Programmings,24/06/2024,03/07/2024,1,returned,9
+MAHASISWA,Rizq,A012962,"Digital Branding a complete step-by-step guide to strategy, tactics, tools and measurement",24/06/2024,03/07/2024,1,returned,9
+MAHASISWA,Rizq,A1565,Perencanaan dan pengendalian produksi,24/06/2024,03/07/2024,1,returned,9
+MAHASISWA,Rizq,A1615,Instrumentasi industri dan kontrol proses,24/06/2024,03/07/2024,1,returned,9
+MAHASISWA,LOGI,A011387,Berdamai dengan Takdir,24/06/2024,03/07/2024,1,returned,9
+MAHASISWA,LOGI,A011246,Mindset (Edisi Revisi) : Mengubah Pola Berpikir untuk Perubahan Besar dalam Hidup Anda,24/06/2024,03/07/2024,1,returned,9
+MAHASISWA,NIA,A7812,Tanah Seberang,25/06/2024,04/07/2024,1,returned,9
+MAHASISWA,NIA,A011873,Gadis Kretek,25/06/2024,04/07/2024,1,returned,9
+MAHASISWA,Raph,A9864,Deep learning : modernisasi machine learning untuk big data,25/06/2024,04/07/2024,1,returned,9
+MAHASISWA,Putr,A9030,Deep learning : modernisasi machine learning untuk big data,25/06/2024,04/07/2024,1,returned,9
+MAHASISWA,Elsa,A010604,DRACULA,25/06/2024,04/07/2024,1,returned,9
+MAHASISWA,Elsa,A011631,KKN di Desa Penari,25/06/2024,04/07/2024,1,returned,9
+MAHASISWA,Hann,A010609,Seharusnya memang tidak begini begitu,26/06/2024,05/07/2024,1,returned,9
+MAHASISWA,OKTA,A6776,Konsep data mining vs sistem pendukung keputusan,26/06/2024,05/07/2024,1,returned,9
+MAHASISWA,OKTA,A012397,Data Mining Dengan R : Konsep Serta Implementasi,26/06/2024,05/07/2024,1,returned,9
+MAHASISWA,Rasy,A011513,La Tahzan Hadapi Masalah dengan Berserah,26/06/2024,05/07/2024,1,returned,9
+MAHASISWA,LUTV,A012559,Buku Referensi : Kuesioner dalam Pengukuran Usability,26/06/2024,05/07/2024,1,returned,9
+MAHASISWA,Mart,A011798,Kambing Jantan : Sebuah Catatan Harian Pelajaran Bodoh,27/06/2024,08/07/2024,1,returned,11
+MAHASISWA,Khol,A1842,Wayang,27/06/2024,08/07/2024,1,returned,11
+MAHASISWA,Khol,A7814,Ubur-ubur lembur,27/06/2024,08/07/2024,1,returned,11
+MAHASISWA,Khol,A011799,Kambing Jantan : Sebuah Catatan Harian Pelajaran Bodoh,27/06/2024,08/07/2024,1,returned,11
+MAHASISWA,SILV,A2908,Basis Data,27/06/2024,08/07/2024,1,returned,11
+MAHASISWA,SILV,A8480,Database design all in one,27/06/2024,08/07/2024,1,returned,11
+MAHASISWA,Lati,A012617,Laut bercerita,02/07/2024,11/07/2024,1,returned,9
+MAHASISWA,Dwi,A011553,Titik Lemah,03/07/2024,12/07/2024,1,returned,9
+MAHASISWA,DEA,A5061,Sinyal & Sistem Jilid 2,03/07/2024,12/07/2024,1,returned,9
+DOSEN,Wahy,A012006,Machine Learning : Tingkat Dasar dan Lanjut,04/07/2024,31/12/2024,0,on_loan,180
+DOSEN,Trih,A9102,#Berhentidikamu,05/07/2024,01/01/2025,0,on_loan,180
+DOSEN,Trih,A7989,Kala kita adalah sepasang luka yang saling melupa,05/07/2024,01/01/2025,0,on_loan,180
+DOSEN,Trih,A6814,CEH certified ethical hacker: 100% ilegal,05/07/2024,01/01/2025,0,on_loan,180
+DOSEN,Amin,A7789,Pergi,05/07/2024,01/01/2025,1,returned,180
+DOSEN,Amin,A9421,Rindu,05/07/2024,01/01/2025,1,returned,180
+DOSEN,Anni,A6915,Ubur-ubur lembur,05/07/2024,01/01/2025,0,on_loan,180
+DOSEN,Amin,A012398,Pulang - Pergi,05/07/2024,01/01/2025,1,returned,180
+MAHASISWA,Desw,A012599,Dasar Sistem Teknik Telekomunikasi,09/07/2024,18/07/2024,1,returned,9
+MAHASISWA,Elsa,A6123,"Kau, aku, dan sepucuk angpau merah",10/07/2024,19/07/2024,1,returned,9
+MAHASISWA,Elsa,A7808,Closed Casket,10/07/2024,19/07/2024,1,returned,9
+MAHASISWA,Oliv,A011144,Berdamai dengan Rasa Marah,10/07/2024,19/07/2024,1,returned,9
+MAHASISWA,Oliv,A011457,Bicara Itu Ada Seninya: Rahasia Komunikasi Yang Efektif,10/07/2024,19/07/2024,1,returned,9
+DOSEN,Lisd,A012277,Fish Quality Control by Computer Vision (Food Science and Technology),11/07/2024,07/01/2025,1,returned,180
+MAHASISWA,Raph,A011791,Machine learning & computational intelligence,11/07/2024,22/07/2024,1,returned,11
+MAHASISWA,Raph,A012907,Becoming a Data Head,11/07/2024,22/07/2024,1,returned,11
+MAHASISWA,DEST,A011890,Self Healing 30 Hari,12/07/2024,22/07/2024,1,returned,10
+MAHASISWA,WIWU,A012842,The Things You Can See Only When You Slow Down,12/07/2024,05/08/2024,1,returned,24
+DOSEN,Lisd,A7793,Agnes Grey,15/07/2024,13/01/2025,1,returned,182
+DOSEN,2294,A010179,Si putih,15/07/2024,13/01/2025,1,returned,182
+MAHASISWA,Afna,A7956,Teknik Hacking dengan Sql Injection,15/07/2024,24/07/2024,1,returned,9
+MAHASISWA,Afna,A0939,"Cloud computing teori dan praktik ( opennebula,vmware, dan amazon AWS )",15/07/2024,24/07/2024,1,returned,9
+MAHASISWA,Muha,A9361,Selamat tinggal,15/07/2024,24/07/2024,1,returned,9
+MAHASISWA,Muha,A011641,Rasa,15/07/2024,24/07/2024,1,returned,9
+MAHASISWA,Mart,A8055,Blak-blakan tentang tubuhmu : kupas tuntas fakta penting dari rambut hingga jempol kakimu!,19/07/2024,29/07/2024,1,returned,10
+MAHASISWA,Mart,A010608,Filosofi Hidup Bahagia,19/07/2024,29/07/2024,1,returned,10
+MAHASISWA,FARK,A7970,Sebuah seni untuk bersikap bodo amat : pendekatan yang waras demi menjalani hidup yang baik,19/07/2024,29/07/2024,1,returned,10
+MAHASISWA,FARK,A012548,Buku Referensi : Kuesioner dalam Pengukuran Usability,19/07/2024,29/07/2024,1,returned,10
+MAHASISWA,FARK,A011886,Life is Boring,19/07/2024,29/07/2024,1,returned,10
+MAHASISWA,FARK,A010127,The art of war,19/07/2024,29/07/2024,1,returned,10
+MAHASISWA,Lati,A011628,Pollyanna,22/07/2024,31/07/2024,1,returned,9
+MAHASISWA,Desw,A4772,Pengantar ilmu telekomunikasi,23/07/2024,01/08/2024,0,on_loan,9
+MAHASISWA,Muha,A010975,The Incredible Habits,23/07/2024,01/08/2024,1,returned,9
+MAHASISWA,Aman,A012617,Laut bercerita,24/07/2024,02/08/2024,1,returned,9
+MAHASISWA,YURI,A4181,Sistem komunikasi satelit: teori dan praktik,24/07/2024,02/08/2024,1,returned,9
+MAHASISWA,Rifa,a012907,Becoming a Data Head,26/07/2024,05/08/2024,1,returned,10
+MAHASISWA,Rifa,a011791,Machine learning & computational intelligence,26/07/2024,05/08/2024,1,returned,10
+MAHASISWA,Rifa,a010213,Swarm intelligence : komputasi modern untuk optimasi dan big data mining,26/07/2024,05/08/2024,1,returned,10
+MAHASISWA,Fadi,A8836,"Panduan kilat pemrograman PHP, langsung bisa",26/07/2024,05/08/2024,1,returned,10
+MAHASISWA,Fadi,A011460,PHP Edisi Lengkap,26/07/2024,05/08/2024,1,returned,10
+MAHASISWA,Fadi,A011627,Pemrograman WEB edisi revisi,26/07/2024,05/08/2024,1,returned,10
+MAHASISWA,ASYA,A8908,Cinta dalam ikhlas,29/07/2024,07/08/2024,1,returned,9
+MAHASISWA,ASYA,A011033,Waktu Helena,29/07/2024,07/08/2024,1,returned,9
+MAHASISWA,Elsa,A8412,The Night Eternal,30/07/2024,08/08/2024,1,returned,9
+MAHASISWA,Aman,A013109,Fix Your Bad Habits : Teknik Paling Serius Mengubah Kebiasaan Buruk,02/08/2024,12/08/2024,1,returned,10
+DOSEN,Yoha,A011182,Algoritma dan Pemrograman Menggunakan Python,05/08/2024,03/02/2025,0,on_loan,182
+MAHASISWA,Rifa,A9739,Pengantar Machine Learning: Konsep dan Praktikum Dengan Contoh Latihan Berbasis R dan Python,05/08/2024,14/08/2024,1,returned,9
+MAHASISWA,Arvi,A6844,Madilog,05/08/2024,14/08/2024,1,returned,9
+MAHASISWA,Lulu,A012387,Data mining : untuk klasifikasi dan klasterisasi data,06/08/2024,15/08/2024,1,returned,9
+MAHASISWA,Nazw,a6034,Cuma sama kamu,07/08/2024,16/08/2024,1,returned,9
+MAHASISWA,Aisy,a012915,Cantik itu Luka,07/08/2024,16/08/2024,1,returned,9
+MAHASISWA,Sukh,a7615,Falling,07/08/2024,16/08/2024,1,returned,9
+MAHASISWA,Tria,a5938,The book of codes,07/08/2024,16/08/2024,1,returned,9
+MAHASISWA,Aman,A7625,Ayah,08/08/2024,19/08/2024,1,returned,11
+KARYAWAN,Inda,A7615,Falling,09/08/2024,02/09/2024,0,on_loan,24
+KARYAWAN,Inda,A6034,Cuma sama kamu,09/08/2024,02/09/2024,0,on_loan,24
+MAHASISWA,Aisy,A010512,Tentang kamu,09/08/2024,19/08/2024,1,returned,10
+MAHASISWA,Sukh,a010303,Pernikahan wasiat,09/08/2024,19/08/2024,1,returned,10
+MAHASISWA,GALA,A7037,Sejarah psikologi modern: a history of modern psychology,12/08/2024,21/08/2024,1,returned,9
+MAHASISWA,Aisy,A011873,Gadis Kretek,13/08/2024,22/08/2024,1,returned,9
+MAHASISWA,Sukh,A011051,"Forever love: Aku, kamu, & cinta kita",13/08/2024,22/08/2024,1,returned,9
+MAHASISWA,Aman,A011457,Bicara Itu Ada Seninya: Rahasia Komunikasi Yang Efektif,13/08/2024,22/08/2024,1,returned,9
+MAHASISWA,FABI,A4348,Routing in communications networks,14/08/2024,23/08/2024,1,returned,9
+DOSEN,Rati,A012448,The Secret Garden,15/08/2024,11/02/2025,0,on_loan,180
+MAHASISWA,Dwi,A011551,Literasi Hati,15/08/2024,26/08/2024,1,returned,11
+MAHASISWA,Sukh,A8935,Ease,15/08/2024,26/08/2024,1,returned,11
+MAHASISWA,Sukh,A6564,Secangkir kopi dan pencakar langit,15/08/2024,26/08/2024,1,returned,11
+MAHASISWA,ASYA,A010543,Amor Fati: Cinta takdirmu,16/08/2024,26/08/2024,1,returned,10
+MAHASISWA,ASYA,A011588,Kisah yang Pilu untuk Kita yang Ragu,16/08/2024,26/08/2024,1,returned,10
+MAHASISWA,MUHA,A1171,Organisasi informasi perpustakaan: pendekatan teori dan praktik,18/08/2024,27/08/2024,1,returned,9
+DOSEN,Syar,A011734,Data mining : untuk klasifikasi dan klasterisasi data,19/08/2024,17/02/2025,0,on_loan,182
+DOSEN,Syar,A6774,Konsep data mining vs sistem pendukung keputusan,19/08/2024,17/02/2025,0,on_loan,182
+DOSEN,Syar,A9830,"Data science and big data analytics discovering analyzing, visualizing and presenting data",19/08/2024,17/02/2025,0,on_loan,182
+DOSEN,Yuli,A6996,"Data mining dan big data analytics, ed. 2",19/08/2024,17/02/2025,0,on_loan,182
+DOSEN,Yuli,A011152,"Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow",19/08/2024,17/02/2025,0,on_loan,182
+DOSEN,Yuli,A9304,Customer relationship management,19/08/2024,17/02/2025,0,on_loan,182
+DOSEN,Yuli,A012829,Customer Relationship Management: : Concepts and Technologies,19/08/2024,17/02/2025,0,on_loan,182
+MAHASISWA,DEST,A8275,"Database systems all in one theory, practice, and case study",19/08/2024,28/08/2024,1,returned,9
+DOSEN,Silv,A9526,SPSS24 untuk penelitian dan skripsi,20/08/2024,17/02/2025,0,on_loan,181
+DOSEN,Silv,A012353,"Metode Penelitian Bisnis : untuk Skripsi, Tesis, dan Disertasi",20/08/2024,17/02/2025,0,on_loan,181
+MAHASISWA,PUTR,A012616,Bibi Gill,20/08/2024,29/08/2024,1,returned,9
+MAHASISWA,PUTR,A012673,Matahari Minor,20/08/2024,29/08/2024,1,returned,9
+MAHASISWA,PUTR,A012609,Sagaras,20/08/2024,29/08/2024,1,returned,9
+MAHASISWA,Lati,A010340,The Story Girl,20/08/2024,29/08/2024,1,returned,9
+MAHASISWA,Safi,A010403,Frankenstein,20/08/2024,29/08/2024,1,returned,9
+DOSEN,Syar,A9314,"Data mining dan big data analytics, ed. 2",21/08/2024,17/02/2025,0,on_loan,180
+MAHASISWA,MUHA,A011399,Copy Writing : Melejitkan Jualan Online Dengan Kalimat Membujuk,21/08/2024,30/08/2024,1,returned,9
+MAHASISWA,ASYA,A7244,Treat you better,21/08/2024,30/08/2024,1,returned,9
+MAHASISWA,ASYA,A7801,Sebuah usaha melupakan,21/08/2024,30/08/2024,1,returned,9
+MAHASISWA,Nazw,A9405,Tentang kamu,22/08/2024,02/09/2024,1,returned,11
+MAHASISWA,Nazw,A9371,Hijab for sisters,22/08/2024,02/09/2024,1,returned,11
+MAHASISWA,Aisy,A011808,How To Respect MySelf; Seni Menghargai Diri Sendiri,22/08/2024,02/09/2024,1,returned,11
+MAHASISWA,Aisy,A5892,Cinta dan sungai-sungai kecil sepanjang usia,22/08/2024,02/09/2024,1,returned,11
+MAHASISWA,Juni,A010607,Filosofi teras,22/08/2024,02/09/2024,1,returned,11
+DOSEN,Yuli,A011115,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,23/08/2024,19/02/2025,0,on_loan,180
+DOSEN,Yuli,A9739,Pengantar Machine Learning: Konsep dan Praktikum Dengan Contoh Latihan Berbasis R dan Python,23/08/2024,19/02/2025,0,on_loan,180
+MAHASISWA,Hani,A012497,"Big Data: Concepts, Technology, and Architecture",23/08/2024,02/09/2024,1,returned,10
+MAHASISWA,Muha,A9237,Studi kelayakan bisnis,23/08/2024,02/09/2024,1,returned,10
+MAHASISWA,Muha,A9108,Studi kelayakan bisnis,23/08/2024,02/09/2024,1,returned,10
+MAHASISWA,Erwi,A013056,Tata Letak Pabrik dan Pemindahan Bahan,23/08/2024,02/09/2024,1,returned,10
+MAHASISWA,Erwi,A7298,Perancangan tata letak pabrik,23/08/2024,02/09/2024,1,returned,10
+MAHASISWA,Daru,A010978,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,23/08/2024,02/09/2024,1,returned,10
+MAHASISWA,Muha,A013030,Jakarta A Dining History,23/08/2024,02/09/2024,1,returned,10
+MAHASISWA,JANU,A011741,Aplikasi Arduino dan Sensor,26/08/2024,04/09/2024,1,returned,9
+MAHASISWA,Ivan,A7089,The Digital Photography Book: Panduan Lengkap dan Sistematis Agar Foto Anda Sekelas Karya Fotografer Profesional Jilid 3,28/08/2024,06/09/2024,1,returned,9
+DOSEN,Dany,A011878,Analisis dan Desain Perangkat Lunak,29/08/2024,25/02/2025,1,returned,180
+DOSEN,Maha,a010954,Hands-On Python Natural Language Processing,29/08/2024,25/02/2025,0,on_loan,180
+DOSEN,Maha,a011877,Analisis dan Desain Perangkat Lunak,29/08/2024,25/02/2025,0,on_loan,180
+DOSEN,Dina,A5749,TQM manajemen kualitas total dalam perspektif teknik industri,30/08/2024,26/02/2025,0,on_loan,180
+DOSEN,Dina,A1715,Metodologi six sigma,30/08/2024,26/02/2025,0,on_loan,180
+MAHASISWA,DEFH,A9405,Tentang kamu,30/08/2024,09/09/2024,1,returned,10
+DOSEN,Lina,A011243,Jadi Muslimah Jangan Cengeng,02/09/2024,03/03/2025,1,returned,182
+DOSEN,Lina,A010283,Kamu tak harus sempurna,02/09/2024,03/03/2025,1,returned,182
+DOSEN,Lina,A011767,"You Are Overthinking!: Pada Dasarnya, Semua Akan Baik-baik Saja",02/09/2024,03/03/2025,1,returned,182
+DOSEN,Lina,A010785,Setelah Dia pergi,02/09/2024,03/03/2025,1,returned,182
+DOSEN,Dasr,A012497,"Big Data: Concepts, Technology, and Architecture",03/09/2024,03/03/2025,1,returned,181
+DOSEN,Dasr,A8020,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,03/09/2024,03/03/2025,0,on_loan,181
+MAHASISWA,RANI,A012842,The Things You Can See Only When You Slow Down,03/09/2024,12/09/2024,1,returned,9
+MAHASISWA,RANI,A9603,Bicara itu ada seninya,03/09/2024,12/09/2024,1,returned,9
+MAHASISWA,RANI,A011622,Maya,03/09/2024,12/09/2024,1,returned,9
+MAHASISWA,Aisy,A0895,Daun yang jatuh tak pernah membenci angin,03/09/2024,12/09/2024,1,returned,9
+MAHASISWA,Sukh,A011567,Himpunan,03/09/2024,12/09/2024,1,returned,9
+DOSEN,Nico,A0828,Matematika diskrit: dan penerapannya dalam dunia informatika,04/09/2024,03/03/2025,0,on_loan,180
+DOSEN,Nico,A010842,"Kimia dasar: konsep-konsep inti, ed. 3, jil. 2",04/09/2024,03/03/2025,1,returned,180
+MAHASISWA,Riyo,A0482,Soe Hok Gie: catatan seorang demonstran,04/09/2024,13/09/2024,1,returned,9
+MAHASISWA,Lukv,a012122,Perancangan Pabrik untuk Industri Pangan,04/09/2024,13/09/2024,1,returned,9
+MAHASISWA,Lukv,a012785,Sistem Manajemen Mutu Industri Pangan Edisi Revisi,04/09/2024,13/09/2024,1,returned,9
+MAHASISWA,Cath,A011245,The Secret Garden,04/09/2024,13/09/2024,1,returned,9
+DOSEN,Shin,A2663,"Elektromagnetika, ed. 7",05/09/2024,04/03/2025,0,on_loan,180
+DOSEN,Petr,A0035,Aljabar linear,06/09/2024,05/03/2025,0,on_loan,180
+DOSEN,Petr,A0457,Matematika teknik,06/09/2024,05/03/2025,0,on_loan,180
+DOSEN,Petr,A1945,"A first course in differential equations with modeling applications, ed. 9",06/09/2024,05/03/2025,0,on_loan,180
+DOSEN,Petr,A012696,Advanced Engineering Mathematics,06/09/2024,05/03/2025,0,on_loan,180
+DOSEN,Petr,A6577,"Elektromagnetika, ed. 7",06/09/2024,05/03/2025,0,on_loan,180
+MAHASISWA,Diva,A012003,Machine Learning Konsep dan Implementasi,06/09/2024,17/09/2024,1,returned,11
+MAHASISWA,Diva,A011061,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,06/09/2024,17/09/2024,1,returned,11
+KARYAWAN,Hanu,A0438,Manajemen keuangan teori dan aplikasi edisi 4,09/09/2024,02/10/2024,1,returned,23
+KARYAWAN,Eriz,A7122,Negeri Para Bedebah,09/09/2024,02/10/2024,0,on_loan,23
+KARYAWAN,Eriz,A9458,66 hadis pilihan,09/09/2024,02/10/2024,0,on_loan,23
+KARYAWAN,Eriz,A9448,Jurus sehat Rasulullah : hidup sehat menebar manfaat,09/09/2024,02/10/2024,0,on_loan,23
+KARYAWAN,Hest,A8871,Khadijah : perempuan teladan sepanjang masa,09/09/2024,02/10/2024,0,on_loan,23
+MAHASISWA,LUTH,A012673,Matahari Minor,09/09/2024,18/09/2024,1,returned,9
+DOSEN,Nene,A8180,Probabilitas dan statistika,10/09/2024,10/03/2025,1,returned,181
+DOSEN,Nene,A011609,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,10/09/2024,10/03/2025,0,on_loan,181
+DOSEN,Nene,A012007,Machine Learning : Tingkat Dasar dan Lanjut,10/09/2024,10/03/2025,0,on_loan,181
+DOSEN,Angg,A4967,Saluran transmisi telekomunikasi,10/09/2024,10/03/2025,0,on_loan,181
+DOSEN,Lisd,A4586,Menguasai matriks dan vektor,11/09/2024,10/03/2025,0,on_loan,180
+DOSEN,Lisd,A2143,Sistem kendali dengan format vektor-matriks,11/09/2024,10/03/2025,0,on_loan,180
+DOSEN,2294,A012387,Data mining : untuk klasifikasi dan klasterisasi data,11/09/2024,10/03/2025,0,on_loan,180
+DOSEN,2294,A011126,Basis Data : revisi ketiga,11/09/2024,10/03/2025,0,on_loan,180
+DOSEN,2294,A6667,Machine learning & computational intelligence,11/09/2024,10/03/2025,0,on_loan,180
+DOSEN,Nico,A010883,"Kimia dasar: konsep-konsep inti, edisi ketiga jilid 1",11/09/2024,10/03/2025,0,on_loan,180
+DOSEN,Khoi,A010943,Fundamental teknologi seluler LTE,11/09/2024,10/03/2025,1,returned,180
+DOSEN,Khoi,A013057,Pengenalan Teknik Telekomunikasi,11/09/2024,10/03/2025,1,returned,180
+DOSEN,Khoi,A8949,Pengantar ilmu telekomunikasi,11/09/2024,10/03/2025,1,returned,180
+DOSEN,Khoi,A4703,Konsep teknologi seluler,11/09/2024,10/03/2025,1,returned,180
+DOSEN,Dian,A012690,Elementary Linear Algebra with Suplplemental Applications,11/09/2024,10/03/2025,0,on_loan,180
+DOSEN,Dany,A0694,Metode numerik: revisi keempat,11/09/2024,10/03/2025,0,on_loan,180
+MAHASISWA,Rizq,A012906,"Rich dad, poor dad",11/09/2024,20/09/2024,1,returned,9
+DOSEN,Eko,A6126,Dasar-dasar telekomunikasi,12/09/2024,11/03/2025,0,on_loan,180
+MAHASISWA,Arvi,A6844,Madilog,12/09/2024,23/09/2024,1,returned,11
+DOSEN,Laur,A013132,Dasar-Dasar Sketsa Produk,13/09/2024,12/03/2025,0,on_loan,180
+DOSEN,Dina,A010779,Alat Ukur dan Teknik Pengukuran,13/09/2024,15/10/2024,1,returned,32
+DOSEN,Inda,A6976,"Kimia dasar: konsep-konsep inti, ed. 3, jil. 2",13/09/2024,12/03/2025,0,on_loan,180
+DOSEN,Inda,A010884,"Kimia dasar: konsep-konsep inti, edisi ketiga jilid 1",13/09/2024,12/03/2025,0,on_loan,180
+DOSEN,Inda,A010856,"Fisika, Edisi Ketujuh Jilid 1",13/09/2024,12/03/2025,0,on_loan,180
+DOSEN,Andi,A8667,Swarm intelligence : komputasi modern untuk optimasi dan big data mining,17/09/2024,17/03/2025,0,on_loan,181
+DOSEN,Andi,A1986,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,17/09/2024,17/03/2025,0,on_loan,181
+DOSEN,Silv,A9260,Dasar-dasar manajemen keuangan,17/09/2024,17/03/2025,0,on_loan,181
+DOSEN,Pric,A1578,"Pengantar metodologi penelitian budaya rupa: desain, arsitektur, seni rupa dan kriya",17/09/2024,17/03/2025,0,on_loan,181
+DOSEN,Pric,A012111,Buku Ajar Metodologi Penelitian,17/09/2024,17/03/2025,0,on_loan,181
+DOSEN,Pric,A013094,Design For The Real World,17/09/2024,17/03/2025,0,on_loan,181
+DOSEN,Pric,A6919,Desain dan kebudayaan,17/09/2024,17/03/2025,0,on_loan,181
+DOSEN,Pric,A7212,Universal methods of design,17/09/2024,17/03/2025,0,on_loan,181
+DOSEN,Pric,A1540,"Makna desain modern: budaya material, konsumerisme, (peng)gaya(an)",17/09/2024,17/03/2025,0,on_loan,181
+DOSEN,Pric,A7233,"Filsafat umum: mengurai ontologi, espitemologi, dan aksiologi pengetahuan",17/09/2024,17/03/2025,0,on_loan,181
+KARYAWAN,UZLI,A6709,"Kalkulus dan geometri analitis, jilid 1",17/09/2024,10/10/2024,0,on_loan,23
+KARYAWAN,UZLI,A010844,"Kalkulus, ed. 9",17/09/2024,10/10/2024,0,on_loan,23
+KARYAWAN,Desi,A012118,IELTS Preparation,17/09/2024,10/10/2024,0,on_loan,23
+KARYAWAN,Desi,A1173,Succeed in IELTS,17/09/2024,10/10/2024,0,on_loan,23
+KARYAWAN,Desi,A011245,The Secret Garden,17/09/2024,10/10/2024,0,on_loan,23
+MAHASISWA,Citr,A9477,Pemrograman database komplet,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Citr,A2289,Konsep sistem basis data dan implementasinya,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Citr,A0284,Buku teks komputer sistem basis data,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Dien,A3285,The professor and the madman,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Adin,A0483,Soe Hok Gie: catatan seorang demonstran,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Ther,A010512,Tentang kamu,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Ther,A010432,Hujan,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,PINK,A6189,5 cm,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Husn,A012615,Bibi Gill,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Diva,A012003,Machine Learning Konsep dan Implementasi,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Diva,A011061,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Real,A8834,The magic of leadership,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Real,A011760,Buku Sakti Berbicara: Bagaimana Membangun Komunikasi yang Efektif Kepada Siapa Saja dalam Setiap Situasi,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Reni,A8748,Parker pyne investigates: Parker pyne menyelidiki,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Reni,A4029,Matematika diskrit edisi ketiga,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Reni,A6470,Kalkulus dan geometri analitis jilid 2,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Reni,A010843,"Kalkulus, ed. 9",17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Diva,A9489,Data mining dan machine learning menggunakan matlab dan python,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Aldi,A4601,Dasar-dasar telekomunikasi,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Nasy,A011857,Sangkakala Di Langit Andalusia,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Rekh,A011654,Lose or Love Her Again,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Adi,A012617,Laut bercerita,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Hafi,A010921,"Acc, Pak!!",17/09/2024,26/09/2024,0,on_loan,9
+MAHASISWA,Aliv,A012915,Cantik itu Luka,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,LAIL,A5887,Daun yang jatuh tak pernah membenci angin,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Lati,A012390,The memoirs of Sherlock Holmes,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Chri,A9162,"Network Security dan Cyber Security : Teori dan Praktik Cisco CCNA, Linux, Windowa, Amazon Aws, Android.",17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,MUHA,A011626,Berani Tidak Disukai,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Hani,A8073,"Creative writing menulis kreatif puisi, prosa fiksi, dan non-fiksi",17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Yoga,A011457,Bicara Itu Ada Seninya: Rahasia Komunikasi Yang Efektif,17/09/2024,24/09/2024,1,returned,7
+MAHASISWA,Yoga,A012913,Tan Malaka,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,RANI,A8959,How to win friends & influence people in the digital age,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,JOSI,A7029,There's no second chance: jadi pemain atau penonton?,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,JOSI,A7691,Menggali inspirasi dari bilioner Cina,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,JOSI,A013116,Ubah Hidup,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,JOSI,A9186,Discipline like Japanese,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,JOSI,A9345,The 5 second rule,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,LAWR,A011817,Pengantar Teknik Industri,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,LAWR,A0660,Fisika,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Raya,A6998,0,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Agus,A011623,Selangkah Darimu,17/09/2024,26/09/2024,1,returned,9
+MAHASISWA,Yusn,A010984,"Data and Cyber Security: Technology, Use Cases and Governance",17/09/2024,26/09/2024,1,returned,9
+DOSEN,Dima,A7199,Software engineering,18/09/2024,17/03/2025,0,on_loan,180
+DOSEN,Dima,A7202,Software engineering: a practitioner's approach,18/09/2024,17/03/2025,0,on_loan,180
+DOSEN,Agat,G0077,Catatan kuliah pengantar ergonomi desain 1 dan 2,18/09/2024,17/03/2025,0,on_loan,180
+MAHASISWA,Difa,A010950,"Thinking, Fast and Slow",18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,Okta,A011917,"Desain Produk : Desain, Desainer, dan Proyek Desain",18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,Muha,A1885,Persamaan diferensial,18/09/2024,19/09/2024,1,returned,1
+MAHASISWA,Putr,A012841,The Star and I,18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,Jenn,A013032,Konsep Data Mining dan Penerapan,18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,Ni P,A010851,"Kalkulus, ed. 8",18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,Selm,A011702,Kalkulus Dasar,18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,Grah,A010609,Seharusnya memang tidak begini begitu,18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,Nisy,A0669,"Kalkulus, ed. 9",18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,Fati,A012590,Satu Bulan Dua Purnama,18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,DWI,A8673,Bicara itu ada seninya : rahasia komunikasi yang efektif,18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,DWI,A010107,Cashflow quadrant panduan mencapai kebebasan keuangan,18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,Devr,A010772,A Wish for Love,18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,Roza,A011397,Personal Branding Code : Membangun Reputasi Positif Melalui Metode Circle-P,18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,Roza,A7791,Kami (bukan) sarjana kertas,18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,Roza,A7535,Silicon valley mindset : membangun ekosistem startup digital indonesia,18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,Roza,A4096,No excuse! orang sukses berhenti mencari-cari alasan,18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,Roza,A011026,Intelijen : teori intelijen dan pembangunan jaringan,18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,Java,A7238,Filsafat politik dan kontak pandora abad ke-21,18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,RIFK,A1047,Tentang kamu,18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,RIFK,A012426,Dear Nathan,18/09/2024,27/09/2024,1,returned,9
+MAHASISWA,Clea,A012528,SEO Pamungkas,18/09/2024,27/09/2024,0,on_loan,9
+MAHASISWA,sept,A7136,Konsep dasar riset pemasaran & prilaku konsumen,19/09/2024,30/09/2024,1,returned,11
+MAHASISWA,sept,A012646,Psikologi Konsumen,19/09/2024,30/09/2024,1,returned,11
+MAHASISWA,Nasy,A011534,Think and Grow Rich,19/09/2024,30/09/2024,1,returned,11
+MAHASISWA,Okta,A010955,Creative Confidence: Unleashing the Creative Potential Within Us All,19/09/2024,30/09/2024,1,returned,11
+MAHASISWA,Dind,A7807,Tinkerbell,19/09/2024,30/09/2024,1,returned,11
+MAHASISWA,VANI,A012923,Tren Bisnis Digital,19/09/2024,30/09/2024,1,returned,11
+MAHASISWA,Melv,A012740,Akuntansi Bisnis : Teori dan Praktik,19/09/2024,30/09/2024,1,returned,11
+MAHASISWA,Farh,A3248,KPK ( Komisi Pemberantasan Korupsi ) dari A sampai Z,19/09/2024,30/09/2024,1,returned,11
+MAHASISWA,M.AL,A012468,Kriptografi : edisi kedua,19/09/2024,30/09/2024,1,returned,11
+MAHASISWA,Alex,A1055,Barron's: essential words for the TOEFL 6th edition,19/09/2024,30/09/2024,1,returned,11
+MAHASISWA,Raph,A012907,Becoming a Data Head,19/09/2024,30/09/2024,1,returned,11
+MAHASISWA,Nadi,A012346,Jangan Jauh-Jauh Nanti Allah Kangen,19/09/2024,30/09/2024,1,returned,11
+MAHASISWA,Yose,A8981,Apakah seperti ini 'cinta' itu sendiri? : sebuah cerita pada sepotong kayu,19/09/2024,30/09/2024,1,returned,11
+MAHASISWA,Dwi,A011127,Kami (bukan) Generasi bac*t,19/09/2024,30/09/2024,1,returned,11
+MAHASISWA,Dien,A012569,Bumi,20/09/2024,30/09/2024,1,returned,10
+MAHASISWA,Fati,A011472,Introver Novel Penggugat Jiwa,20/09/2024,30/09/2024,1,returned,10
+MAHASISWA,Reni,A7065,"Kalkulus dan geometri analitis, jilid 1",20/09/2024,30/09/2024,1,returned,10
+MAHASISWA,Dill,A5931,Mimpi-mimpi lintang Maryamah Karpov,20/09/2024,30/09/2024,1,returned,10
+MAHASISWA,PAND,A011447,150 Brand Awareness Ideas: Metode Sukses dan Praktis Membangun Kesadaran Merek,20/09/2024,30/09/2024,1,returned,10
+MAHASISWA,PAND,A7275,"Pengantar akuntasi : sekilas pandang perbandingan dengan SAK yang mengadopsi IFRS, SAK ETAP, dan SAK EMKM",20/09/2024,30/09/2024,1,returned,10
+MAHASISWA,M HA,A010845,"Kalkulus, ed. 9",20/09/2024,30/09/2024,1,returned,10
+MAHASISWA,Widy,A010096,Magic by the mouthful,20/09/2024,30/09/2024,1,returned,10
+DOSEN,Emma,A1366,Iblis dan miss Prym = the devil and miss Prym,23/09/2024,24/03/2025,1,returned,182
+DOSEN,Emma,A6488,Beberapa asas merancang dwimatra,23/09/2024,24/03/2025,1,returned,182
+DOSEN,Emma,A010764,Nirmana: elemen-elemen seni dan desain,23/09/2024,24/03/2025,1,returned,182
+DOSEN,Emma,A8227,Pengantar Estetika,23/09/2024,24/03/2025,0,on_loan,182
+DOSEN,Emma,A010356,Rupa dasar nirmala : Asas dan prinsip dasar seni visual,23/09/2024,24/03/2025,0,on_loan,182
+DOSEN,Muha,a4039,Matematika diskrit edisi ketiga,23/09/2024,24/03/2025,0,on_loan,182
+DOSEN,Muha,A9503,Matematika diskrit dan aplikasinya pada ilmu komputer,23/09/2024,24/03/2025,0,on_loan,182
+MAHASISWA,Muha,A012921,Innovation! Praktik Terbaik Inovasi di Era Disrupsi,23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,Husn,A011873,Gadis Kretek,23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,Melv,A010513,Selamat tinggal,23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,sept,A011497,Manusia dan Badainya,23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,Saty,A010994,Six thingking hats,23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,Saty,A010273,David and goliath : ketika si lemah menang melawan raksasa,23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,Juni,A010724,Tak Masalah Jadi Orang Payah,23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,Juni,A9928,Pengantar filsafat dari masa klasik hingga postmodernisme,23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,Riza,A012246,Kapitalisme Yang Layak : Suatu Cetak Biru Reformasi Ekonomi Kita,23/09/2024,02/10/2024,0,on_loan,9
+MAHASISWA,Riza,A012836,Kesehatan dan Keselamatan Lingkungan Kerja,23/09/2024,02/10/2024,0,on_loan,9
+MAHASISWA,Muti,A010849,"Kalkulus, ed. 8",23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,Syif,A9457,Mengembangkan framework aplikasi database dengan Codeigniter 3,23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,Muha,A010892,Negeri Para Bedebah,23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,Arya,A010732,Berpura-pura Bahagia Itu Melelahkan,23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,Arya,A011918,"Desain Produk : Desain, Desainer, dan Proyek Desain",23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,Ther,A013137,Biomekanika,23/09/2024,02/10/2024,0,on_loan,9
+MAHASISWA,Fadi,A012756,"Pengantar Ilmu Ekonomi (Konsep, Teori dan Praktik)",23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,I Gu,A010673,Millenial Moeslems Kupas Tuntas Permasalahan Generasi Islam Zaman Now,23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,I Gu,A8780,Falsafah hidup,23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,Sri,A010340,The Story Girl,23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,Ivan,A7086,Lighting With One Light: Professional Lighting For Photographer,23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,Iin,A011657,Breathless,23/09/2024,02/10/2024,1,returned,9
+MAHASISWA,Angg,A9895,Ogah jadi orang gajian ah! : tips tokcer menjadi wirausaha sukses,23/09/2024,02/10/2024,1,returned,9
+DOSEN,Chus,A9848,Financial accounting,24/09/2024,24/03/2025,0,on_loan,181
+DOSEN,Chus,A7234,Pengantar akuntansi jasa,24/09/2024,24/03/2025,0,on_loan,181
+DOSEN,Chus,A012739,Akuntansi Bisnis : Teori dan Praktik,24/09/2024,24/03/2025,0,on_loan,181
+DOSEN,Chus,A7471,Pengantar akuntansi dasar 1 : siklus akuntansi (accounting cycle) untuk perusahaan jasa,24/09/2024,24/03/2025,0,on_loan,181
+DOSEN,Chus,A7485,Pengantar akuntansi : berdasarkan SAK ETAP dan IFRS,24/09/2024,24/03/2025,0,on_loan,181
+MAHASISWA,Yoga,A7356,Biografi singkat 1925-2006 Pramoedya Ananta Toer,24/09/2024,03/10/2024,1,returned,9
+MAHASISWA,Putr,A9428,Langkah mudah pemrograman OpenCV & Python,24/09/2024,03/10/2024,1,returned,9
+MAHASISWA,Tali,A010177,Langkah Mudah Pemrograman OpenCV & Python,24/09/2024,03/10/2024,1,returned,9
+MAHASISWA,LAIL,A012915,Cantik itu Luka,24/09/2024,03/10/2024,1,returned,9
+MAHASISWA,Muha,A5883,Sejarah Indonesia modern 1200-2008,24/09/2024,03/10/2024,1,returned,9
+MAHASISWA,LAIL,A010607,Filosofi teras,24/09/2024,03/10/2024,0,on_loan,9
+MAHASISWA,Aliv,A011881,Atomic Habits: Perubahan kecil yang memberikan hasil luar biasa,24/09/2024,03/10/2024,1,returned,9
+MAHASISWA,Rekh,A8344,Di sini cinta pertama kali bersemi,24/09/2024,03/10/2024,1,returned,9
+MAHASISWA,Kami,A8759,Implementasi Algoritma dalam bahasa Python,24/09/2024,03/10/2024,1,returned,9
+MAHASISWA,Desh,A011114,Implementasi Algoritma dalam bahasa Python,24/09/2024,03/10/2024,1,returned,9
+MAHASISWA,Da'i,A5891,Negeri 5 menara,24/09/2024,03/10/2024,1,returned,9
+MAHASISWA,Berl,A7800,Ayahku [Bukan] Pembohong,24/09/2024,03/10/2024,1,returned,9
+MAHASISWA,FANI,A010509,Berdamai dengan rasa malas,24/09/2024,03/10/2024,1,returned,9
+MAHASISWA,Aziz,A011188,Berdamai dengan Takdir,25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Adil,A0072,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Adil,A9700,Jurnalistik: Teori dan praktik,25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Denn,A2035,Persaudaraan agama-agama: Millah Ibrahim dalam tafsir Al-Mizan,25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Denn,A011772,Pendidikan Agama Islam di Perguruan Tinggi,25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Denn,A3229,Pemikiran Modern Dalam Islam,25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Lutf,A9443,Jaringan telekomunikasi dan teknologi informasi : konsep dan teknik jaringan telekomunikasi dan teknologi informasi,25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Ivan,A012523,The Hot Shoe Diaries,25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Wula,A2113,Fisika dasar,25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Wula,A010857,"Fisika, Edisi Ketujuh Jilid 1",25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Shof,A4008,Fisika modern,25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Shof,A4042,Fisika Jilid 1,25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,krez,A0666,Fisika,25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,krez,A4041,Fisika,25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Arya,A010725,Alat Ukur dan Teknik Pengukuran,25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Dima,A010846,"Fisika Dasar, Edisi 7 Jilid 1",25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Fari,A010848,"Fisika Dasar, Edisi 7 Jilid 1",25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Fari,A010855,"Fisika, Edisi Ketujuh Jilid 1",25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,AMEL,A6856,Matematika diskrit edisi ketiga,25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Cind,A9488,Never be alone,25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,I Gu,A013109,Fix Your Bad Habits : Teknik Paling Serius Mengubah Kebiasaan Buruk,25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Luth,A011337,Partial least square (PLS),25/09/2024,04/10/2024,1,returned,9
+MAHASISWA,Novi,A1625,"Knowledge management: konsep, arsitektur dan implementasi",26/09/2024,07/10/2024,1,returned,11
+MAHASISWA,Novi,A010832,"The Knowledge Management Toolkit: Orchestrating IT, Strategy, and Knowledge Platforms",26/09/2024,07/10/2024,1,returned,11
+MAHASISWA,Real,a8803,5 cm,26/09/2024,07/10/2024,1,returned,11
+MAHASISWA,Real,a7625,Ayah,26/09/2024,07/10/2024,0,on_loan,11
+MAHASISWA,ISWA,A012736,Analisis Data Penelitian Menggunakan Software Stata,26/09/2024,07/10/2024,1,returned,11
+MAHASISWA,ISWA,A7728,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,26/09/2024,07/10/2024,1,returned,11
+MAHASISWA,Loly,A7187,Complete french volume 1,26/09/2024,07/10/2024,1,returned,11
+MAHASISWA,Mari,A9470,Logika pemrograman python,26/09/2024,07/10/2024,1,returned,11
+MAHASISWA,Mari,A012487,Sejarah Dunia Yang Disembunyikan,26/09/2024,07/10/2024,1,returned,11
+MAHASISWA,Muha,A7580,Game design workshop : a playcentric to creating innovative games,26/09/2024,07/10/2024,1,returned,11
+MAHASISWA,Fare,A8267,Cara cepat membaca bahasa tubuh 2,26/09/2024,07/10/2024,1,returned,11
+MAHASISWA,Syaf,a011275,Aplikasi Arduino dan Sensor,26/09/2024,07/10/2024,1,returned,11
+MAHASISWA,Syaf,a0670,Sistem operasi: internal dan prinsip-prinsip perancangan,26/09/2024,07/10/2024,1,returned,11
+MAHASISWA,Sury,a9437,Mudah belajar C# (pemrograman c# dan visual c#),26/09/2024,07/10/2024,1,returned,11
+MAHASISWA,FELI,A010180,Blink: Kemampuan berpikir tanpa berpikir,27/09/2024,07/10/2024,1,returned,10
+MAHASISWA,FELI,A010336,Selamat tinggal,27/09/2024,07/10/2024,1,returned,10
+MAHASISWA,RIFK,A6123,"Kau, aku, dan sepucuk angpau merah",27/09/2024,07/10/2024,1,returned,10
+MAHASISWA,RIFK,A011062,"Indigo Stories : Pengalaman Nyata Aku berbeda, aku bisa melihat apa yang tidak kalian lihat.",27/09/2024,07/10/2024,1,returned,10
+MAHASISWA,Nasy,A8653,Akuntansi untuk pemula,27/09/2024,07/10/2024,1,returned,10
+MAHASISWA,Vita,A1779,Fisika dasar,27/09/2024,07/10/2024,1,returned,10
+MAHASISWA,Mari,A011128,Think and Grow Rich,27/09/2024,07/10/2024,1,returned,10
+MAHASISWA,Anis,A9421,Rindu,27/09/2024,07/10/2024,1,returned,10
+MAHASISWA,MUHA,A0660,Fisika,27/09/2024,07/10/2024,1,returned,10
+MAHASISWA,Muha,A9603,Bicara itu ada seninya,27/09/2024,07/10/2024,1,returned,10
+MAHASISWA,M Ma,A011639,The Psychology Of Money,30/09/2024,09/10/2024,1,returned,9
+MAHASISWA,FAKH,A010969,Python untuk programmer pemula: Buku bergizi untuk programmer pemula yang ingin mempelajari Python,30/09/2024,09/10/2024,1,returned,9
+MAHASISWA,JOSI,A010521,Python untuk Programmer Pemula: Buku bergizi untuk programmer pemula yang ingin mempelajari Python,30/09/2024,09/10/2024,0,on_loan,9
+MAHASISWA,Devr,A7038,Still into you,30/09/2024,09/10/2024,1,returned,9
+MAHASISWA,Nadi,A8008,Your next step,30/09/2024,09/10/2024,1,returned,9
+MAHASISWA,Nasy,a6189,5 cm,30/09/2024,09/10/2024,1,returned,9
+MAHASISWA,Daru,A010978,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,01/10/2024,10/10/2024,1,returned,9
+MAHASISWA,KHAR,A2121,Fisika dasar,01/10/2024,10/10/2024,1,returned,9
+MAHASISWA,Beta,A9055,All about teamwork : kesuksesan sebuah tim = gaya tarik - menarik antar individud di dalamnya,01/10/2024,10/10/2024,1,returned,9
+MAHASISWA,Hijr,A013005,Haga Ganteng & Pinter,01/10/2024,10/10/2024,1,returned,9
+MAHASISWA,Andi,A1199,Teori bahasa & otomata,01/10/2024,10/10/2024,1,returned,9
+MAHASISWA,Malo,A9361,Selamat tinggal,02/10/2024,11/10/2024,1,returned,9
+MAHASISWA,ARGI,A012447,Copy Writing : Melejitkan Jualan Online Dengan Kalimat Membujuk,02/10/2024,11/10/2024,1,returned,9
+MAHASISWA,Jenn,A011249,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,02/10/2024,11/10/2024,1,returned,9
+MAHASISWA,Aisy,A011567,Himpunan,03/10/2024,14/10/2024,1,returned,11
+MAHASISWA,ISWA,A012749,PAKAR Marketing Framework,03/10/2024,14/10/2024,1,returned,11
+MAHASISWA,Yogi,A011276,Tiga Mazhab Utama Filsafat Islam,03/10/2024,14/10/2024,1,returned,11
+MAHASISWA,Irfa,A010660,Kala kita adalah sepasang luka yang saling melupa,03/10/2024,14/10/2024,1,returned,11
+MAHASISWA,Anis,A013136,Biomekanika,03/10/2024,14/10/2024,0,on_loan,11
+MAHASISWA,Aliv,A011881,Atomic Habits: Perubahan kecil yang memberikan hasil luar biasa,03/10/2024,14/10/2024,0,on_loan,11
+MAHASISWA,Adi,A012915,Cantik itu Luka,03/10/2024,14/10/2024,1,returned,11
+MAHASISWA,Roha,a010885,"Fisika Dasar, Edisi 7 Jilid 3",03/10/2024,14/10/2024,1,returned,11
+MAHASISWA,Husn,A012073,Muhammad : Lelaki Penggenggam Hujan,03/10/2024,14/10/2024,1,returned,11
+MAHASISWA,DWI,A011626,Berani Tidak Disukai,03/10/2024,14/10/2024,1,returned,11
+MAHASISWA,DWI,A012617,Laut bercerita,03/10/2024,14/10/2024,1,returned,11
+MAHASISWA,Melv,A9818,Kreativitas & inovasi dalam bisnis : menggali potensi diri untuk berkreasi dan berinovasi,03/10/2024,14/10/2024,1,returned,11
+MAHASISWA,Melv,A9195,Enterpreneurship : from mindset to strategy,03/10/2024,14/10/2024,1,returned,11
+DOSEN,Amin,A012518,Essential Grammar and Reading Strategy For TOEFL Test,04/10/2024,02/04/2025,1,returned,180
+MAHASISWA,Elli,A011027,Pulang,04/10/2024,14/10/2024,1,returned,10
+MAHASISWA,NOVA,A010534,Pengawasan pelayanan publik,04/10/2024,14/10/2024,1,returned,10
+MAHASISWA,Java,A011064,Filosofi Hidup Bahagia,04/10/2024,14/10/2024,1,returned,10
+MAHASISWA,BHIM,A7290,Dialektika marxis : sejarah & kesadaran kelas,04/10/2024,14/10/2024,1,returned,10
+MAHASISWA,BHIM,A9312,Jangan lupa bahagia,04/10/2024,14/10/2024,1,returned,10
+MAHASISWA,Hijr,A8764,Ana Uhibbuka oppa,04/10/2024,14/10/2024,1,returned,10
+MAHASISWA,Yola,A011487,Berdamai Dengan Kehilangan,04/10/2024,14/10/2024,1,returned,10
+MAHASISWA,Nabi,A8673,Bicara itu ada seninya : rahasia komunikasi yang efektif,04/10/2024,14/10/2024,1,returned,10
+MAHASISWA,Nabi,A8970,Sebuah seni untuk bersikap bodo amat,04/10/2024,14/10/2024,1,returned,10
+MAHASISWA,Reza,A5893,"Come be my light: pergulatan batin ""orang suci dari kalkuta"" catatan harian yang selama ini disembunyikan dari publik",04/10/2024,14/10/2024,1,returned,10
+MAHASISWA,RIFK,A0982,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,04/10/2024,14/10/2024,1,returned,10
+MAHASISWA,AYU,A8915,Your name,04/10/2024,14/10/2024,1,returned,10
+MAHASISWA,AYU,A8658,Suwung : ajaran rahasia leluhur Jawa,04/10/2024,14/10/2024,1,returned,10
+MAHASISWA,Abis,A9769,The art of game design : a book of lenses third edition,04/10/2024,14/10/2024,1,returned,10
+MAHASISWA,I Gu,A3163,Rasul juga manusia,04/10/2024,14/10/2024,1,returned,10
+MAHASISWA,I Gu,A7632,Come to the secret garden,04/10/2024,14/10/2024,1,returned,10
+DOSEN,Wahy,A3629,Workbook of TOEFL,07/10/2024,07/04/2025,1,returned,182
+DOSEN,Wahy,A3592,Jalan pintas menguasai TOEFL,07/10/2024,07/04/2025,1,returned,182
+MAHASISWA,Beta,A010765,Knowing Your Personality,07/10/2024,16/10/2024,1,returned,9
+MAHASISWA,Beta,A011201,Baca Buku Ini Saat Engkau Ingin Berubah,07/10/2024,16/10/2024,1,returned,9
+MAHASISWA,Hani,A011061,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,07/10/2024,16/10/2024,1,returned,9
+MAHASISWA,Hani,A011061,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,07/10/2024,16/10/2024,0,on_loan,9
+MAHASISWA,M.FI,A7448,Kriptografi : edisi kedua,07/10/2024,16/10/2024,1,returned,9
+DOSEN,Dima,A7580,Game design workshop : a playcentric to creating innovative games,08/10/2024,07/04/2025,0,on_loan,181
+MAHASISWA,Celi,A1554,"Designing brand identity, ed. 3",08/10/2024,17/10/2024,1,returned,9
+MAHASISWA,Devr,A012839,Home Sweet Loan,08/10/2024,17/10/2024,1,returned,9
+MAHASISWA,RIFK,A0019,Aljabar linear,08/10/2024,17/10/2024,1,returned,9
+MAHASISWA,RIFK,A7270,Jago kuasai Bahasa Korea,08/10/2024,17/10/2024,1,returned,9
+MAHASISWA,RIFK,A6540,Mukidi: ruang tertawa bebas pajak,08/10/2024,17/10/2024,1,returned,9
+MAHASISWA,Tegu,A011412,Pengantar Anatomi Fisiologi Manusia,08/10/2024,17/10/2024,1,returned,9
+MAHASISWA,Ni P,A0937,Tentang kamu,08/10/2024,17/10/2024,1,returned,9
+MAHASISWA,ADIN,A013023,Raden,08/10/2024,17/10/2024,1,returned,9
+MAHASISWA,ADIN,A011258,My Ice Girl,08/10/2024,17/10/2024,1,returned,9
+MAHASISWA,Leon,A1362,Anatomi dan fisiologi untuk paramedis,08/10/2024,17/10/2024,1,returned,9
+MAHASISWA,Nasy,A011566,Pengantar Anatomi Fisiologi Manusia,08/10/2024,17/10/2024,1,returned,9
+MAHASISWA,Nasy,A8413,Anatomi dan fisiologi untuk paramedis,08/10/2024,17/10/2024,1,returned,9
+MAHASISWA,Nabi,A5944,Laskar pelangi,08/10/2024,17/10/2024,1,returned,9
+MAHASISWA,Akba,A8547,Ekonomi moneter & kebanksentralan,09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,Akba,A8535,Ekonomi rekayasa,09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,Akba,A8466,Pengantar ekonomi makro,09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,Akba,A1614,Teori ekonomi,09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,Akba,A1705,Ekonomi mikro dan implementasinya,09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,Ma'r,A013105,"Future Skills: Kecakapan-kecakapan yang harus dikembangkan untuk merespon, beradaptasi, dan berkembang pada masa depan",09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,Putr,A2103,Algoritma dan pemrograman,09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,Reni,A8864,Cards on the table : kartu-kartu di meja,09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,Dian,A012917,Introduction to logistics systems management : with Microsoft Excel and Python examples,09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,GUST,A4406,Rangkaian listrik,09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,GUST,A010188,Rangkaian Listriik,09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,GUST,A0660,Fisika,09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,Yola,A011551,Literasi Hati,09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,Cath,A7085,Antennas for all applications: third edition,09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,VANI,A8653,Akuntansi untuk pemula,09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,salw,A011422,Digital Marketing di Era 4.0 : strategi dan implementasi sederhana kegiatan marketing untuk bisnis dan usaha,09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,salw,A9139,Manajemen e-commerce,09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,salw,A8652,Akuntansi untuk pemula,09/10/2024,18/10/2024,1,returned,9
+MAHASISWA,Elsa,A010472,Dan hujan pun berhenti,10/10/2024,21/10/2024,1,returned,11
+MAHASISWA,Hijr,A7264,Humaira & Alfarisi,10/10/2024,21/10/2024,1,returned,11
+MAHASISWA,Lati,A012430,"Antenna Theory: Analysis and Design, 4th Edition",10/10/2024,17/10/2024,1,returned,7
+MAHASISWA,Nadi,A7266,Nelangsa,10/10/2024,21/10/2024,1,returned,11
+MAHASISWA,Yoga,A010419,"Supply chain : Manajemen, ilmu pengetahuan, strategi dan praktik",10/10/2024,21/10/2024,1,returned,11
+MAHASISWA,ZIGM,A8006,Yuk belajar otodidak bahasa korea,10/10/2024,21/10/2024,1,returned,11
+KARYAWAN,AMIL,A010085,Buat apa shalat?!,11/10/2024,04/11/2024,1,returned,24
+MAHASISWA,Dill,A7742,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,11/10/2024,21/10/2024,1,returned,10
+MAHASISWA,LAWR,A010509,Berdamai dengan rasa malas,11/10/2024,21/10/2024,1,returned,10
+MAHASISWA,PAND,A012044,Insecurity is My Middle Name,11/10/2024,21/10/2024,1,returned,10
+MAHASISWA,PAND,A011399,Copy Writing : Melejitkan Jualan Online Dengan Kalimat Membujuk,11/10/2024,21/10/2024,1,returned,10
+MAHASISWA,PAND,A7275,"Pengantar akuntasi : sekilas pandang perbandingan dengan SAK yang mengadopsi IFRS, SAK ETAP, dan SAK EMKM",11/10/2024,21/10/2024,1,returned,10
+MAHASISWA,FANI,A010810,"Bukannya Malas, Cuma Lagi Mager Aja",11/10/2024,21/10/2024,1,returned,10
+MAHASISWA,Aisy,A011567,Himpunan,14/10/2024,23/10/2024,1,returned,9
+MAHASISWA,Lutf,A010815,Sirah Nabawiyyah,14/10/2024,23/10/2024,1,returned,9
+MAHASISWA,Dien,A011472,Introver Novel Penggugat Jiwa,14/10/2024,23/10/2024,1,returned,9
+MAHASISWA,Mari,A7606,Saddha,14/10/2024,23/10/2024,1,returned,9
+MAHASISWA,RANI,A011295,Secret of Mental Magic,14/10/2024,23/10/2024,1,returned,9
+MAHASISWA,RANI,A010051,Personality theories : melacak kepribadian anda bersama psikologi dunia,14/10/2024,23/10/2024,1,returned,9
+MAHASISWA,RANI,A8959,How to win friends & influence people in the digital age,14/10/2024,23/10/2024,1,returned,9
+MAHASISWA,Firm,A013084,Kecerdasan Buatan dengan Deep Learning,14/10/2024,23/10/2024,1,returned,9
+MAHASISWA,Reni,A010513,Selamat tinggal,14/10/2024,23/10/2024,1,returned,9
+MAHASISWA,Reni,A011641,Rasa,14/10/2024,23/10/2024,1,returned,9
+MAHASISWA,Arby,A011081,7 in 1 Pemrograman Web untuk Pemula : Cara cepat dan efektif menjadi web programmer,14/10/2024,23/10/2024,1,returned,9
+MAHASISWA,Mari,A9345,The 5 second rule,14/10/2024,23/10/2024,1,returned,9
+DOSEN,Fami,A6830,Teori dan aplikasi statistika dan probabilitas,15/10/2024,14/04/2025,0,on_loan,181
+DOSEN,Fami,A1881,"Probability & statistics for engineers & scientists, ed. 9",15/10/2024,14/04/2025,0,on_loan,181
+DOSEN,Fami,A1122,Statistika deskriptif dan probabilitas,15/10/2024,14/04/2025,0,on_loan,181
+MAHASISWA,Kurn,A6382,Unforgettable sunset: love in Santorini,15/10/2024,24/10/2024,1,returned,9
+MAHASISWA,Ayni,A011808,How To Respect MySelf; Seni Menghargai Diri Sendiri,15/10/2024,24/10/2024,1,returned,9
+MAHASISWA,Izla,A012915,Cantik itu Luka,15/10/2024,24/10/2024,1,returned,9
+MAHASISWA,IKFI,A3542,Pendidikan agama Islam,15/10/2024,24/10/2024,1,returned,9
+MAHASISWA,Syif,A3745,Buku pintar agama Islam : edisi yang disempurnakan,15/10/2024,24/10/2024,1,returned,9
+MAHASISWA,Faiz,A2096,Membangun karakter dan kepribadian melalui pendidikan agama islam,15/10/2024,24/10/2024,1,returned,9
+MAHASISWA,AYU,A010791,The Secret of Ikigai; Rahasia menemukan kebahagiaan dan umur panjang ala orang Jepang,16/10/2024,25/10/2024,1,returned,9
+MAHASISWA,AYU,A1144,Lupa 3ndonesia,16/10/2024,25/10/2024,1,returned,9
+MAHASISWA,Novi,A9408,Mozachiko,16/10/2024,25/10/2024,1,returned,9
+MAHASISWA,LAWR,A8651,Sukses itu ... : 40 hal yang tidak dijelaskan untuk meraih kesuksesan,16/10/2024,25/10/2024,1,returned,9
+MAHASISWA,LAWR,A8255,Jangan membuat masalah kecil jadi masalah Besar,16/10/2024,25/10/2024,1,returned,9
+MAHASISWA,LAWR,A8992,Berpikir dan bertindak besar ala Mark Zuckerberg,16/10/2024,25/10/2024,1,returned,9
+MAHASISWA,LAWR,A9870,Orang hebat juga pernah gagal : kisah perjuangan 36 tokoh dunia sebelum sukses di bidangnya,16/10/2024,25/10/2024,1,returned,9
+MAHASISWA,PAND,A9171,"Supply Chain Management : Perencanaan, Proses dan Kemitraan (Edisi Revisi)",16/10/2024,25/10/2024,1,returned,9
+MAHASISWA,PAND,A7275,"Pengantar akuntasi : sekilas pandang perbandingan dengan SAK yang mengadopsi IFRS, SAK ETAP, dan SAK EMKM",16/10/2024,25/10/2024,1,returned,9
+MAHASISWA,Rahm,A011528,Insecurity is My Middle Name,16/10/2024,25/10/2024,1,returned,9
+MAHASISWA,Okta,A8813,Inspirasi & motivasi Bob Sadino,16/10/2024,25/10/2024,1,returned,9
+KARYAWAN,Amal,A011146,Control Your Emotion : Bagaimana Mengontrol Emosi Sebelum Emosi Mengontrol Anda,17/10/2024,11/11/2024,1,returned,25
+MAHASISWA,Cath,A5104,Antenna theory,17/10/2024,28/10/2024,1,returned,11
+MAHASISWA,Isyi,a7800,Ayahku [Bukan] Pembohong,17/10/2024,28/10/2024,1,returned,11
+MAHASISWA,RADE,A011763,Pengawasan pelayanan publik,17/10/2024,28/10/2024,1,returned,11
+MAHASISWA,RADE,A012906,"Rich dad, poor dad",17/10/2024,28/10/2024,1,returned,11
+MAHASISWA,Imel,A8970,Sebuah seni untuk bersikap bodo amat,17/10/2024,28/10/2024,1,returned,11
+MAHASISWA,Kuku,A1136,"Calm: rileks, fokus, dan ubahlah duniamu",17/10/2024,28/10/2024,1,returned,11
+MAHASISWA,Kurn,A011890,Self Healing 30 Hari,17/10/2024,28/10/2024,1,returned,11
+MAHASISWA,Lati,A012430,"Antenna Theory: Analysis and Design, 4th Edition",17/10/2024,28/10/2024,1,returned,11
+MAHASISWA,Muha,A011457,Bicara Itu Ada Seninya: Rahasia Komunikasi Yang Efektif,17/10/2024,28/10/2024,1,returned,11
+KARYAWAN,Amal,A013105,"Future Skills: Kecakapan-kecakapan yang harus dikembangkan untuk merespon, beradaptasi, dan berkembang pada masa depan",18/10/2024,11/11/2024,0,on_loan,24
+MAHASISWA,Daru,A012917,Introduction to logistics systems management : with Microsoft Excel and Python examples,18/10/2024,28/10/2024,1,returned,10
+MAHASISWA,Ragi,A011689,A Family of Individuals,18/10/2024,28/10/2024,1,returned,10
+MAHASISWA,M.AL,A010213,Swarm intelligence : komputasi modern untuk optimasi dan big data mining,18/10/2024,28/10/2024,1,returned,10
+MAHASISWA,Raph,A012907,Becoming a Data Head,18/10/2024,28/10/2024,1,returned,10
+MAHASISWA,Siti,a010303,Pernikahan wasiat,18/10/2024,28/10/2024,1,returned,10
+MAHASISWA,Berl,A012749,PAKAR Marketing Framework,18/10/2024,28/10/2024,1,returned,10
+MAHASISWA,Ivan,A010039,"Autobiografi Letkol TNI (Purn.) dr. Wiliater Hutagalung, putra Tapanuli berjuang di Pulau Jawa, penyusun ""grand design"" serangan spektakuler terhadap Yogyakarta 1 Maret 1949",18/10/2024,28/10/2024,1,returned,10
+MAHASISWA,IKA,A0072,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,18/10/2024,28/10/2024,1,returned,10
+MAHASISWA,Arde,A7869,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,18/10/2024,28/10/2024,1,returned,10
+MAHASISWA,OLIV,A7726,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,18/10/2024,28/10/2024,1,returned,10
+MAHASISWA,ROSA,A9483,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,18/10/2024,28/10/2024,1,returned,10
+MAHASISWA,ATHA,A010533,Pengawasan pelayanan publik,18/10/2024,28/10/2024,1,returned,10
+MAHASISWA,M.FI,A7448,Kriptografi : edisi kedua,21/10/2024,30/10/2024,1,returned,9
+MAHASISWA,Farh,A011056,Stay Positive With Marcus Aurelius,21/10/2024,30/10/2024,1,returned,9
+MAHASISWA,Zulf,A013110,Pengawasan pelayanan publik,21/10/2024,30/10/2024,0,on_loan,9
+MAHASISWA,Yoga,A9657,Epistemologi kiri,22/10/2024,31/10/2024,1,returned,9
+MAHASISWA,NAUF,a013138,DKV Creativepreneur,22/10/2024,31/10/2024,1,returned,9
+MAHASISWA,NAUF,A7395,The Fundamentals of Illustration,22/10/2024,31/10/2024,1,returned,9
+MAHASISWA,NAUF,A6963,"Writing for animation, comics, and games",22/10/2024,31/10/2024,1,returned,9
+MAHASISWA,Muha,a1891,Schaum's easy outlines: differential equations,23/10/2024,01/11/2024,1,returned,9
+MAHASISWA,Nabi,A1696,Simulasi sistem industri,23/10/2024,01/11/2024,1,returned,9
+MAHASISWA,Kurn,A012590,Satu Bulan Dua Purnama,23/10/2024,01/11/2024,1,returned,9
+MAHASISWA,GALA,A9760,Filsafat Yunani Klasik: Relevansi untuk Abad XXI,23/10/2024,01/11/2024,1,returned,9
+MAHASISWA,QIAR,A1400,Pulang,24/10/2024,04/11/2024,1,returned,11
+MAHASISWA,Muha,A013101,Jejak Hitler di Nusantara,24/10/2024,04/11/2024,1,returned,11
+MAHASISWA,Muha,A010728,Detektif Conan Premium Vol.5,24/10/2024,04/11/2024,1,returned,11
+MAHASISWA,Muha,A9630,Dari Kudus menuju prestasi dunia,24/10/2024,04/11/2024,1,returned,11
+MAHASISWA,Mart,A1498,Statistika probabilitas: teori & aplikasi,24/10/2024,04/11/2024,1,returned,11
+MAHASISWA,Okta,A7029,There's no second chance: jadi pemain atau penonton?,25/10/2024,04/11/2024,1,returned,10
+MAHASISWA,Aldi,A011639,The Psychology Of Money,25/10/2024,04/11/2024,1,returned,10
+MAHASISWA,Aldi,A8746,Arduino: belajar cepat dan pemrograman,25/10/2024,04/11/2024,1,returned,10
+MAHASISWA,Aldi,A0409,Model-based engineering of embedded systems,25/10/2024,04/11/2024,1,returned,10
+MAHASISWA,Muha,A012983,Logo 2021 (Buku 2),25/10/2024,04/11/2024,1,returned,10
+MAHASISWA,Daru,A010304,Pengenalan machine learning dengan python,25/10/2024,04/11/2024,1,returned,10
+MAHASISWA,Andr,A011915,Etika Biomedis,25/10/2024,04/11/2024,1,returned,10
+MAHASISWA,Mari,A011422,Digital Marketing di Era 4.0 : strategi dan implementasi sederhana kegiatan marketing untuk bisnis dan usaha,25/10/2024,04/11/2024,1,returned,10
+MAHASISWA,Berl,A011246,Mindset (Edisi Revisi) : Mengubah Pola Berpikir untuk Perubahan Besar dalam Hidup Anda,25/10/2024,04/11/2024,1,returned,10
+MAHASISWA,REGI,A010892,Negeri Para Bedebah,25/10/2024,04/11/2024,1,returned,10
+MAHASISWA,Siti,A012569,Bumi,25/10/2024,04/11/2024,1,returned,10
+MAHASISWA,Tsab,A012738,Program Loyalitas Pelanggan,28/10/2024,06/11/2024,1,returned,9
+MAHASISWA,Tsab,A9232,Manajemen pemasaran,28/10/2024,06/11/2024,1,returned,9
+MAHASISWA,Yoga,A010530,"Kalkulus 1A : Terapan, konsep, dan prinsip disertai visualisasi",28/10/2024,06/11/2024,1,returned,9
+MAHASISWA,Yuke,A9358,Manajemen e-commerce,28/10/2024,06/11/2024,1,returned,9
+MAHASISWA,Yuke,A5566,Manajemen pemasaran,28/10/2024,06/11/2024,1,returned,9
+MAHASISWA,M.FI,A011889,Kriptografi : edisi kedua,29/10/2024,07/11/2024,1,returned,9
+MAHASISWA,HIMA,A010211,"Artificial intelligence edisi 3 : searching, reasoning, planning, and learning",29/10/2024,07/11/2024,1,returned,9
+MAHASISWA,Hijr,A010303,Pernikahan wasiat,29/10/2024,07/11/2024,1,returned,9
+MAHASISWA,Hijr,A7259,Love me love me not,29/10/2024,07/11/2024,1,returned,9
+MAHASISWA,Muha,A9919,"Prinsip-prinsip pemasaran : plus tren terkini, pemasaran global,pemasaran jasa, green marketing, entrepreneurial marketing, e-marketing",30/10/2024,08/11/2024,1,returned,9
+MAHASISWA,Muha,A9196,Manajemen keuangan : berbasis balanced scorecard,30/10/2024,08/11/2024,1,returned,9
+MAHASISWA,Muha,A013098,Pemahaman manajemen sumber daya manusia,30/10/2024,08/11/2024,1,returned,9
+MAHASISWA,Raya,A5932,Laskar pelangi,30/10/2024,08/11/2024,1,returned,9
+MAHASISWA,Aman,A7980,Sang pemimpi,30/10/2024,08/11/2024,1,returned,9
+MAHASISWA,Amir,A7252,Saga : yang kembali bermimpi karena senyummu,30/10/2024,08/11/2024,1,returned,9
+MAHASISWA,Tsan,A1047,Tentang kamu,30/10/2024,08/11/2024,1,returned,9
+MAHASISWA,Tsan,A7041,Negeri di ujung tanduk,30/10/2024,08/11/2024,1,returned,9
+MAHASISWA,GALA,A9245,Kesadaran Plural: Sebuah sintesis rasionalitas dan kehendak bebas,30/10/2024,08/11/2024,1,returned,9
+MAHASISWA,GALA,A7768,Filsafat Umum : akal dan hati sejak Thales sampai Capra,30/10/2024,08/11/2024,1,returned,9
+MAHASISWA,Husn,A8834,The magic of leadership,30/10/2024,08/11/2024,1,returned,9
+MAHASISWA,Shev,A010950,"Thinking, Fast and Slow",30/10/2024,08/11/2024,1,returned,9
+MAHASISWA,Tsab,a012657,Perilaku Konsumen (Teori dan Implementasi),30/10/2024,08/11/2024,1,returned,9
+MAHASISWA,Tsab,a010001,Service quality dan satisfaction edisi 4,30/10/2024,08/11/2024,1,returned,9
+MAHASISWA,Reza,A7401,Layout for graphic designers,30/10/2024,08/11/2024,1,returned,9
+MAHASISWA,Muha,A8747,21 Hari mengubah kebiasan buruk,31/10/2024,11/11/2024,1,returned,11
+DOSEN,Alfi,a012656,Penelitian Kualitatif Studi Multi-Disiplin Keilmuan dengan NVivo 12 Plus,01/11/2024,30/04/2025,0,on_loan,180
+DOSEN,Amin,A6659,Understanding and using English grammar,01/11/2024,30/04/2025,0,on_loan,180
+MAHASISWA,Ragi,A9644,My lecturer my husband,01/11/2024,11/11/2024,1,returned,10
+MAHASISWA,Nata,A012673,Matahari Minor,01/11/2024,11/11/2024,0,on_loan,10
+MAHASISWA,Nata,A8268,"TOEFL, TOEIC, IELTS, GRE & daily conversation",01/11/2024,11/11/2024,0,on_loan,10
+MAHASISWA,Kurn,A010180,Blink: Kemampuan berpikir tanpa berpikir,01/11/2024,11/11/2024,1,returned,10
+MAHASISWA,Ayni,A9659,Seni hidup minimalis,01/11/2024,11/11/2024,1,returned,10
+MAHASISWA,Ivan,A5914,Cinta di ujung sajadah : pada sajadah yang terbuka kusempurnakan cinta,01/11/2024,11/11/2024,1,returned,10
+DOSEN,Lina,A012445,Test Of English As A Foreign Language Preparation,04/11/2024,05/05/2025,0,on_loan,182
+DOSEN,Lina,A1636,"Babon TPA-psikotes terlengkap : untuk keperluan TPA, TBS, Psikotes, CAT CPNS dll",04/11/2024,05/05/2025,0,on_loan,182
+MAHASISWA,Muha,A3282,Beribu alasan rakyat mencintai pak Harto,04/11/2024,13/11/2024,1,returned,9
+MAHASISWA,Muha,A6911,Some later reminiscences of Sherlock Holmes: his last bow,04/11/2024,13/11/2024,1,returned,9
+MAHASISWA,Muha,a010612,SEJARAH LENGKAP PERANG DUNIA I 1914-1918,04/11/2024,13/11/2024,1,returned,9
+MAHASISWA,Dill,A0982,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,04/11/2024,13/11/2024,1,returned,9
+MAHASISWA,Elsa,A010675,"Network Security dan Cyber Security : Teori dan Praktik Cisco CCNA, Linux, Windowa, Amazon Aws, Android.",04/11/2024,13/11/2024,1,returned,9
+MAHASISWA,Yoga,A9657,Epistemologi kiri,04/11/2024,13/11/2024,1,returned,9
+MAHASISWA,Irfa,A7016,Strategi pemasaran,04/11/2024,13/11/2024,1,returned,9
+KARYAWAN,JASM,A7597,The daily stoic,05/11/2024,28/11/2024,1,returned,23
+MAHASISWA,Soni,A012839,Home Sweet Loan,05/11/2024,14/11/2024,1,returned,9
+MAHASISWA,DENI,A9243,4G handbook edisi bahasa Indonesia (black/white),05/11/2024,14/11/2024,1,returned,9
+MAHASISWA,Rina,A010944,Fundamental teknologi seluler LTE,05/11/2024,14/11/2024,1,returned,9
+MAHASISWA,Geor,A6792,Supply chain management edisi 3,05/11/2024,14/11/2024,1,returned,9
+MAHASISWA,Vick,A011646,"Supply Chain Management : Perencanaan, Proses dan Kemitraan (Edisi Revisi)",05/11/2024,14/11/2024,1,returned,9
+MAHASISWA,Wild,A9163,Supply chain management,05/11/2024,14/11/2024,1,returned,9
+MAHASISWA,Eric,A010419,"Supply chain : Manajemen, ilmu pengetahuan, strategi dan praktik",05/11/2024,14/11/2024,1,returned,9
+KARYAWAN,AMIL,A7692,Calon jenazah,06/11/2024,29/11/2024,1,returned,23
+MAHASISWA,ANGG,A9040,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,06/11/2024,15/11/2024,1,returned,9
+MAHASISWA,Jeti,A7742,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,06/11/2024,15/11/2024,1,returned,9
+MAHASISWA,RANI,A0072,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,06/11/2024,15/11/2024,1,returned,9
+MAHASISWA,Zara,A010432,Hujan,06/11/2024,15/11/2024,1,returned,9
+MAHASISWA,Isyi,A9421,Rindu,06/11/2024,15/11/2024,1,returned,9
+MAHASISWA,Apri,A7728,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,06/11/2024,15/11/2024,1,returned,9
+MAHASISWA,KHAI,A8341,Pollyanna,06/11/2024,15/11/2024,1,returned,9
+MAHASISWA,Davi,A6715,Mr. A vs Miss A: Gravitasia,06/11/2024,15/11/2024,0,on_loan,9
+MAHASISWA,BHIM,A6228,Sang pemimpi,07/11/2024,18/11/2024,1,returned,11
+MAHASISWA,BHIM,A010672,Dari Penjara ke Penjara,07/11/2024,18/11/2024,1,returned,11
+MAHASISWA,Nazl,A8867,Sapiens : riwayat singkat umat manusia,07/11/2024,18/11/2024,0,on_loan,11
+MAHASISWA,Guru,A5949,Partikel,07/11/2024,18/11/2024,1,returned,11
+MAHASISWA,Rest,A3332,Beyond the inspiration,07/11/2024,18/11/2024,1,returned,11
+MAHASISWA,Rest,A010126,Sebelum ayah tiada,07/11/2024,18/11/2024,1,returned,11
+MAHASISWA,Ayni,A013113,Your Job is Not Your Carrer 2: Life Crisis - How To Deal With Meaninglessness,07/11/2024,18/11/2024,1,returned,11
+MAHASISWA,Maul,A6844,Madilog,08/11/2024,18/11/2024,1,returned,10
+MAHASISWA,Andi,A1197,Teori bahasa & otomata,08/11/2024,18/11/2024,1,returned,10
+MAHASISWA,Andi,A1195,Pengantar teori bahasa dan automata: merancang automation dengan JFLAP,08/11/2024,18/11/2024,1,returned,10
+MAHASISWA,Marl,A010161,Mengukur usability perangkat lunak,08/11/2024,18/11/2024,1,returned,10
+MAHASISWA,Arya,A9444,Psikologi pendidikan,08/11/2024,18/11/2024,1,returned,10
+MAHASISWA,Elgi,A6829,Terapi positive thingking: mengontrol otak untuk sehat jiwa raga,08/11/2024,18/11/2024,1,returned,10
+MAHASISWA,Elgi,A011246,Mindset (Edisi Revisi) : Mengubah Pola Berpikir untuk Perubahan Besar dalam Hidup Anda,08/11/2024,18/11/2024,1,returned,10
+MAHASISWA,Mari,A8893,Segala-galanya ambyar : sebuah buku tentang harapan,08/11/2024,18/11/2024,1,returned,10
+MAHASISWA,Iin,A012446,Test Of English As A Foreign Language Preparation,08/11/2024,18/11/2024,1,returned,10
+MAHASISWA,Ivan,A7971,The photographer cahaya untuk hati yang berani tertatih,08/11/2024,18/11/2024,1,returned,10
+MAHASISWA,Yoga,A8411,"Creative writing menulis kreatif puisi, prosa fiksi, dan non-fiksi",08/11/2024,18/11/2024,1,returned,10
+MAHASISWA,Nadi,A7266,Nelangsa,08/11/2024,18/11/2024,1,returned,10
+MAHASISWA,Anni,A012842,The Things You Can See Only When You Slow Down,08/11/2024,18/11/2024,1,returned,10
+MAHASISWA,ABDU,A9104,#Berhentidikamu,08/11/2024,18/11/2024,1,returned,10
+MAHASISWA,Elsa,A1366,Iblis dan miss Prym = the devil and miss Prym,08/11/2024,18/11/2024,1,returned,10
+DOSEN,Sukm,A012536,Transformasi Digital Demi Kelincahan Bisnis,11/11/2024,12/05/2025,0,on_loan,182
+DOSEN,Sukm,A012863,Lean Supply Chain Management : A Handbook for Strategic Procurement,11/11/2024,12/05/2025,0,on_loan,182
+DOSEN,Sukm,A010001,Service quality dan satisfaction edisi 4,11/11/2024,12/05/2025,0,on_loan,182
+MAHASISWA,Ivan,A010390,Happiness,11/11/2024,20/11/2024,1,returned,9
+MAHASISWA,Ivan,A012404,Don't Follow Your Passion,11/11/2024,20/11/2024,1,returned,9
+MAHASISWA,MUHA,A011639,The Psychology Of Money,11/11/2024,20/11/2024,1,returned,9
+MAHASISWA,I Gu,A010983,Shalawatin Aja,11/11/2024,20/11/2024,1,returned,9
+MAHASISWA,I Gu,A3363,Rabiah Al-Adawiyah dan mabuk cintanya pada sang khalik,11/11/2024,20/11/2024,1,returned,9
+MAHASISWA,REVI,A013118,Akhir Sang Gajah di Bukit Kupu-Kupu,11/11/2024,20/11/2024,1,returned,9
+MAHASISWA,Chri,A011497,Manusia dan Badainya,11/11/2024,20/11/2024,1,returned,9
+MAHASISWA,IKA,A0070,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,11/11/2024,20/11/2024,1,returned,9
+MAHASISWA,Feli,A1115,Mudah membuat Game 3 dimensi menggunakan Unity 3D,11/11/2024,20/11/2024,1,returned,9
+MAHASISWA,Feli,A9583,Unity tutorial game engine : revisi kedua,11/11/2024,20/11/2024,1,returned,9
+MAHASISWA,DWI,A010791,The Secret of Ikigai; Rahasia menemukan kebahagiaan dan umur panjang ala orang Jepang,12/11/2024,21/11/2024,1,returned,9
+MAHASISWA,PINK,A010309,Marrying mr. perfect : karena cinta terindah bukan hanya untuk hari ini,12/11/2024,21/11/2024,1,returned,9
+MAHASISWA,Dien,A9484,Jung's map of the soul : an introduction,12/11/2024,21/11/2024,1,returned,9
+MAHASISWA,Ayni,A8212,Pendidikan bermutu dan berdaya saing,12/11/2024,21/11/2024,1,returned,9
+MAHASISWA,Ayni,A9913,Penelitian pendidikan : metode dan paradigma baru,12/11/2024,21/11/2024,1,returned,9
+MAHASISWA,Rest,A6256,ERP Enterprise Resource Planning: menyelaraskan teknologi informasi dengan strategi bisnis,12/11/2024,21/11/2024,1,returned,9
+MAHASISWA,Rest,A1964,Metodologi pengembangan sistem informasi,12/11/2024,21/11/2024,1,returned,9
+MAHASISWA,Romi,A8852,Samurai pengasih : prinsip-prinsip samurai untuk mencapai kesuksesan di masa kini,12/11/2024,21/11/2024,1,returned,9
+MAHASISWA,Dest,A9766,The art of creative thinking,12/11/2024,21/11/2024,1,returned,9
+MAHASISWA,Ribk,a011692,Berdamai dengan Hidup Pas-pasan,12/11/2024,21/11/2024,1,returned,9
+MAHASISWA,Icha,A1618,Metode penelitian kuantitatif & kualitatif,12/11/2024,21/11/2024,1,returned,9
+MAHASISWA,Icha,A6432,Metode penelitian kuantitatif: pengembangan Hipotesis dan pengujiannya menggunakan SmartPLS,12/11/2024,21/11/2024,1,returned,9
+DOSEN,Khoi,A9264,Perilaku organisasi,13/11/2024,12/05/2025,0,on_loan,180
+KARYAWAN,AMIL,a8005,Ubah masalah jadi berkah,13/11/2024,06/12/2024,0,on_loan,23
+MAHASISWA,Alya,A012917,Introduction to logistics systems management : with Microsoft Excel and Python examples,13/11/2024,22/11/2024,1,returned,9
+MAHASISWA,LAWR,A8673,Bicara itu ada seninya : rahasia komunikasi yang efektif,13/11/2024,22/11/2024,1,returned,9
+MAHASISWA,Loly,A010460,Dasar-dasar Statistika,14/11/2024,25/11/2024,1,returned,11
+MAHASISWA,Ivan,A8908,Cinta dalam ikhlas,14/11/2024,25/11/2024,1,returned,11
+MAHASISWA,KHAI,A8258,Kami (bukan) sarjana kertas,14/11/2024,25/11/2024,1,returned,11
+MAHASISWA,KHAI,A012518,Essential Grammar and Reading Strategy For TOEFL Test,14/11/2024,25/11/2024,1,returned,11
+MAHASISWA,ADIN,A8758,Malik & Elsa,14/11/2024,25/11/2024,1,returned,11
+MAHASISWA,ADIN,A6099,Lost in love,14/11/2024,25/11/2024,1,returned,11
+MAHASISWA,Frad,A8959,How to win friends & influence people in the digital age,14/11/2024,25/11/2024,1,returned,11
+MAHASISWA,Ilha,A010981,Kamu gak sendiri,14/11/2024,25/11/2024,0,on_loan,11
+MAHASISWA,Muha,A012356,Kitab Hacker,14/11/2024,25/11/2024,1,returned,11
+MAHASISWA,Muha,A011112,Teknik Hacking Android,14/11/2024,25/11/2024,1,returned,11
+DOSEN,Guna,A0232,Sistem Operasi,15/11/2024,14/05/2025,0,on_loan,180
+DOSEN,Guna,A0367,Sistem operasi,15/11/2024,14/05/2025,0,on_loan,180
+MAHASISWA,Jenn,A6994,"Data mining dan big data analytics, ed. 2",15/11/2024,25/11/2024,1,returned,10
+MAHASISWA,Jenn,A013032,Konsep Data Mining dan Penerapan,15/11/2024,25/11/2024,0,on_loan,10
+MAHASISWA,ARDI,A012969,Methods of IT Project Management,15/11/2024,25/11/2024,1,returned,10
+MAHASISWA,FITR,A1104,4G Handbook : edisi bahasa Indonesia,15/11/2024,25/11/2024,1,returned,10
+MAHASISWA,Masy,A013057,Pengenalan Teknik Telekomunikasi,15/11/2024,25/11/2024,1,returned,10
+MAHASISWA,FELI,A0664,Dunia sophie,15/11/2024,25/11/2024,1,returned,10
+MAHASISWA,Eka,A011675,Metode Komunikasi Visual,15/11/2024,25/11/2024,1,returned,10
+MAHASISWA,Eka,A9047,"Metode penelitian kualitatif: Untuk penelitian yang bersifat eksploratif, enterpretif, interaktif dan konstruktif",15/11/2024,25/11/2024,0,on_loan,10
+MAHASISWA,Eka,A010768,Metodologi Penelitian Desain Komunikasi Visual Edisi Revisi,15/11/2024,25/11/2024,0,on_loan,10
+MAHASISWA,Yesi,a8911,"Metode penelitian kuantitatif, kualitatif, dan R&D",15/11/2024,25/11/2024,1,returned,10
+KARYAWAN,Wend,a1162,Best score TOEFL,18/11/2024,11/12/2024,0,on_loan,23
+KARYAWAN,Wend,A1637,99% sukses TPA kerja & akademik,18/11/2024,11/12/2024,0,on_loan,23
+KARYAWAN,Wend,A1947,"Babon TPA-psikotes terlengkap : untuk keperluan TPA, TBS, Psikotes, CAT CPNS dll",18/11/2024,11/12/2024,0,on_loan,23
+KARYAWAN,Wend,A3599,Cara gampang belajar TOEFL,18/11/2024,11/12/2024,0,on_loan,23
+MAHASISWA,Ghin,A6889,Tiny acts of love,18/11/2024,27/11/2024,1,returned,9
+MAHASISWA,Novi,A010660,Kala kita adalah sepasang luka yang saling melupa,18/11/2024,27/11/2024,1,returned,9
+MAHASISWA,Dell,A011751,Perilaku organisasi,18/11/2024,27/11/2024,1,returned,9
+MAHASISWA,Fikr,A9470,Logika pemrograman python,18/11/2024,27/11/2024,1,returned,9
+MAHASISWA,Fikr,A010429,HTML 5 : Dasar - Dasar untuk pengembangan aplikasi berbasis Web,18/11/2024,27/11/2024,1,returned,9
+MAHASISWA,Kuku,A012398,Pulang - Pergi,18/11/2024,27/11/2024,1,returned,9
+MAHASISWA,Adin,A011127,Kami (bukan) Generasi bac*t,18/11/2024,27/11/2024,1,returned,9
+MAHASISWA,RANI,A012384,Ketika Aku Tak Tahu Apa yang Aku Inginkan,18/11/2024,27/11/2024,1,returned,9
+MAHASISWA,RANI,A012856,"Di Ujung Bahasa: Antologi Puisi, 1961 - 2022",18/11/2024,27/11/2024,1,returned,9
+DOSEN,Dany,A6811,Jago membuat grafik menggunakan excel,19/11/2024,19/05/2025,1,returned,181
+KARYAWAN,Dina,A011076,7 in 1 pemrograman web tingkat lanjut,19/11/2024,12/12/2024,1,returned,23
+KARYAWAN,Dina,A9027,"Buku sakti HTML, CSS, dan Javascript",19/11/2024,12/12/2024,1,returned,23
+KARYAWAN,Dina,A0317,Pemrograman Matlab dalam contoh dan penerapan,19/11/2024,12/12/2024,0,on_loan,23
+KARYAWAN,Dina,A5981,Diatas waktu aku menemukanmu,19/11/2024,12/12/2024,1,returned,23
+MAHASISWA,Elsa,A010675,"Network Security dan Cyber Security : Teori dan Praktik Cisco CCNA, Linux, Windowa, Amazon Aws, Android.",19/11/2024,28/11/2024,1,returned,9
+MAHASISWA,Nail,A011572,Happiness in Blue : Karena biru tak selamanya pilu,19/11/2024,28/11/2024,1,returned,9
+MAHASISWA,Call,A6091,Akar,19/11/2024,28/11/2024,1,returned,9
+MAHASISWA,Fati,A011497,Manusia dan Badainya,19/11/2024,28/11/2024,1,returned,9
+MAHASISWA,Ribk,A012447,Copy Writing : Melejitkan Jualan Online Dengan Kalimat Membujuk,19/11/2024,28/11/2024,1,returned,9
+MAHASISWA,Daru,A011084,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,20/11/2024,29/11/2024,0,on_loan,9
+MAHASISWA,YESS,A7064,Sebuah usaha melupakan,20/11/2024,29/11/2024,1,returned,9
+MAHASISWA,Mari,A012517,Essential Grammar and Reading Strategy For TOEFL Test,20/11/2024,29/11/2024,1,returned,9
+MAHASISWA,Mari,A3152,Buku pintar mind map,20/11/2024,29/11/2024,1,returned,9
+MAHASISWA,Ziqr,A012648,The great shifting,20/11/2024,29/11/2024,1,returned,9
+MAHASISWA,Maul,A6844,Madilog,20/11/2024,29/11/2024,1,returned,9
+MAHASISWA,I Gu,A011311,La Tahzan Hadapi Masalah dengan Berserah,20/11/2024,29/11/2024,1,returned,9
+MAHASISWA,Kurn,A7735,Di's way: pribadi-pribadi yang menginspirasi,20/11/2024,29/11/2024,1,returned,9
+MAHASISWA,BHIM,A011639,The Psychology Of Money,20/11/2024,29/11/2024,1,returned,9
+MAHASISWA,BHIM,A8663,Ampuhnya bahasa tubuh :untuk memengaruhi orang lain,20/11/2024,29/11/2024,1,returned,9
+MAHASISWA,Dikr,A9032,Stand and deliver,20/11/2024,29/11/2024,1,returned,9
+MAHASISWA,Deta,A8349,Mr. A vs Miss A: Gravitasia,20/11/2024,29/11/2024,1,returned,9
+MAHASISWA,Yoga,A7047,Ingin lolos wawancara kerja? Baca buku ini!,20/11/2024,29/11/2024,1,returned,9
+DOSEN,Didi,A3262,Hafalan shalat Delisa,21/11/2024,20/05/2025,0,on_loan,180
+MAHASISWA,Nayl,A012615,Bibi Gill,21/11/2024,02/12/2024,1,returned,11
+MAHASISWA,Yoga,A010851,"Kalkulus, ed. 8",21/11/2024,02/12/2024,1,returned,11
+MAHASISWA,Erna,A9474,Data mining dan machine learning menggunakan matlab dan python,21/11/2024,02/12/2024,1,returned,11
+MAHASISWA,Erna,A7903,Belajar Machine Learning Teori dan Praktik,21/11/2024,02/12/2024,1,returned,11
+MAHASISWA,Juni,A6060,The other 8 hours,21/11/2024,02/12/2024,1,returned,11
+MAHASISWA,Nasy,A1152,I wuf u,22/11/2024,02/12/2024,1,returned,10
+MAHASISWA,Ayni,A8923,Lets change your bad habits,22/11/2024,02/12/2024,1,returned,10
+MAHASISWA,Ayni,A010823,This is Me! Whatever You Say,22/11/2024,02/12/2024,1,returned,10
+MAHASISWA,RIFK,A5887,Daun yang jatuh tak pernah membenci angin,25/11/2024,04/12/2024,1,returned,9
+MAHASISWA,Kurn,A7821,The DDC game,25/11/2024,04/12/2024,1,returned,9
+MAHASISWA,Virg,A011046,Data mining dan machine learning menggunakan matlab dan python,25/11/2024,04/12/2024,1,returned,9
+MAHASISWA,Virg,A010213,Swarm intelligence : komputasi modern untuk optimasi dan big data mining,25/11/2024,04/12/2024,1,returned,9
+MAHASISWA,Nabi,A011249,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,25/11/2024,04/12/2024,1,returned,9
+MAHASISWA,Zara,A8347,Negeri Para Bedebah,25/11/2024,04/12/2024,1,returned,9
+MAHASISWA,Adri,A012527,Super Trader : Seni Trading Saham untuk Profit Maksimal,25/11/2024,04/12/2024,1,returned,9
+MAHASISWA,Adri,A6023,Super power memory cara jitu meningkatkan daya ingat,25/11/2024,04/12/2024,1,returned,9
+MAHASISWA,Joha,A013114,Coba Tes Kepribadian Kamu! : : Sebuah Cara Untuk Mengenal Dirimu Sendiri atau Orang Lain,25/11/2024,04/12/2024,1,returned,9
+MAHASISWA,LAWR,A013103,Komunikasi Bisnis,26/11/2024,05/12/2024,1,returned,9
+MAHASISWA,Athi,A6112,Taiko,26/11/2024,05/12/2024,1,returned,9
+MAHASISWA,Ivan,A3612,Basic english grammar: with answer key,26/11/2024,05/12/2024,1,returned,9
+MAHASISWA,Ivan,A1920,Refining sentence writing skills for profesional and academic purposes: a practical application of modern rhetoric,26/11/2024,05/12/2024,1,returned,9
+MAHASISWA,Yoga,A011335,Skills and Strategies for Academic Writing,26/11/2024,05/12/2024,1,returned,9
+MAHASISWA,Yoga,A8451,"Creative writing menulis kreatif puisi, prosa fiksi, dan non-fiksi",26/11/2024,05/12/2024,1,returned,9
+MAHASISWA,Grah,A3455,Udah putusin aja,26/11/2024,05/12/2024,1,returned,9
+MAHASISWA,Dill,A012839,Home Sweet Loan,26/11/2024,05/12/2024,1,returned,9
+MAHASISWA,Nadi,A9646,Selamat tinggal,28/11/2024,09/12/2024,0,on_loan,11
+MAHASISWA,Rifa,A8902,Vocabulary skills booster,28/11/2024,09/12/2024,1,returned,11
+MAHASISWA,Rifa,A3592,Jalan pintas menguasai TOEFL,28/11/2024,09/12/2024,1,returned,11
+MAHASISWA,Rifa,A7726,Artificial intelligence revisi kedua : searching-reasoning-planning-learning,28/11/2024,09/12/2024,1,returned,11
+MAHASISWA,AZFA,A010012,JavaScript The Definitive Guide: Master the Worldâ€™s Most-Used Programming Language,28/11/2024,09/12/2024,1,returned,11
+MAHASISWA,Tsab,A7016,Strategi pemasaran,28/11/2024,09/12/2024,1,returned,11
+MAHASISWA,Tsab,A012657,Perilaku Konsumen (Teori dan Implementasi),28/11/2024,09/12/2024,1,returned,11
+MAHASISWA,Tsab,A3348,Customer loyalty = menumbuhkan & mempertahankan kesetiaan pelanggan,28/11/2024,09/12/2024,1,returned,11
+MAHASISWA,Tsab,A012737,Program Loyalitas Pelanggan,28/11/2024,09/12/2024,1,returned,11
+MAHASISWA,Tsab,A9919,"Prinsip-prinsip pemasaran : plus tren terkini, pemasaran global,pemasaran jasa, green marketing, entrepreneurial marketing, e-marketing",28/11/2024,09/12/2024,1,returned,11
+MAHASISWA,Anis,A011808,How To Respect MySelf; Seni Menghargai Diri Sendiri,29/11/2024,09/12/2024,0,on_loan,10
+MAHASISWA,Anis,A012447,Copy Writing : Melejitkan Jualan Online Dengan Kalimat Membujuk,29/11/2024,09/12/2024,0,on_loan,10
+MAHASISWA,Lutv,A011914,Etika Biomedis,29/11/2024,09/12/2024,1,returned,10
+MAHASISWA,Lutv,A012501,Instrumentasi Biomedis berbasis PC,29/11/2024,09/12/2024,1,returned,10
+MAHASISWA,Nadi,A9620,Kami (bukan) generasi bac*t,29/11/2024,09/12/2024,1,returned,10
+MAHASISWA,Ivan,A7018,Cinta dalam 99 nama-Mu,29/11/2024,09/12/2024,1,returned,10
+DOSEN,Dany,A7741,Database design all in one,02/12/2024,02/06/2025,1,returned,182
+MAHASISWA,Nayl,A012674,Matahari Minor,02/12/2024,11/12/2024,0,on_loan,9
+MAHASISWA,Loly,A012685,"Instagram Marketing 2023: How to Find Your Dream Clients, Build a Community of Raving Fans, and Catapult Your Business in Just 7 Steps",02/12/2024,11/12/2024,1,returned,9
+MAHASISWA,Chri,A1048,Dilan : dia adalah Dilanku tahun 1990,02/12/2024,11/12/2024,1,returned,9
+MAHASISWA,LAWR,A3449,Harus bisa!,02/12/2024,11/12/2024,1,returned,9
+MAHASISWA,YESS,A011470,Introver Novel Penggugat Jiwa,02/12/2024,11/12/2024,1,returned,9
+MAHASISWA,Avri,A010892,Negeri Para Bedebah,02/12/2024,11/12/2024,1,returned,9
+MAHASISWA,KHAI,A010336,Selamat tinggal,02/12/2024,11/12/2024,1,returned,9
+MAHASISWA,Adin,A010432,Hujan,02/12/2024,11/12/2024,1,returned,9
+MAHASISWA,Dien,A011689,A Family of Individuals,02/12/2024,11/12/2024,0,on_loan,9
+MAHASISWA,Sefr,A1524,Manajemen logistik terintegrasi,02/12/2024,11/12/2024,0,on_loan,9
+MAHASISWA,Dzak,A8893,Segala-galanya ambyar : sebuah buku tentang harapan,02/12/2024,11/12/2024,1,returned,9
+MAHASISWA,M.FI,A011889,Kriptografi : edisi kedua,03/12/2024,12/12/2024,0,on_loan,9
+MAHASISWA,EKA,A011873,Gadis Kretek,03/12/2024,12/12/2024,1,returned,9
+MAHASISWA,Nuru,a011725,"SELF LOVE : Cintailah dirimu, maka kehidupan akan mencintaimu",03/12/2024,12/12/2024,0,on_loan,9
+MAHASISWA,Elgi,A011246,Mindset (Edisi Revisi) : Mengubah Pola Berpikir untuk Perubahan Besar dalam Hidup Anda,03/12/2024,12/12/2024,1,returned,9
+MAHASISWA,Elgi,A8266,101 cara mengobati kebiasaan buruk,03/12/2024,12/12/2024,1,returned,9
+MAHASISWA,Adin,A011641,Rasa,03/12/2024,12/12/2024,1,returned,9
+MAHASISWA,Adin,A010513,Selamat tinggal,03/12/2024,12/12/2024,1,returned,9
+MAHASISWA,Diva,A010978,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,04/12/2024,13/12/2024,1,returned,9
+MAHASISWA,Ivan,A6036,Ya Allah aku jatuh cinta,04/12/2024,13/12/2024,1,returned,9
+MAHASISWA,Ivan,A7796,Orang-Orang Proyek,04/12/2024,13/12/2024,0,on_loan,9
+MAHASISWA,Da'i,A013109,Fix Your Bad Habits : Teknik Paling Serius Mengubah Kebiasaan Buruk,04/12/2024,13/12/2024,1,returned,9
+MAHASISWA,Da'i,A9963,Filsafat komunikasi : tradisi dan metode fenomenologi,04/12/2024,13/12/2024,1,returned,9
+MAHASISWA,EKA,A012487,Sejarah Dunia Yang Disembunyikan,04/12/2024,13/12/2024,0,on_loan,9
+MAHASISWA,dhea,A012695,Patofisiologi untuk Profesi Kesehatan,04/12/2024,13/12/2024,1,returned,9
+MAHASISWA,Rafi,A7069,4G Handbook : edisi bahasa Indonesia,04/12/2024,13/12/2024,1,returned,9
+MAHASISWA,Rafi,A6310,4G handbook edisi bahasa Indonesia jilid 2 (black&white),04/12/2024,13/12/2024,1,returned,9
+MAHASISWA,Stev,A4913,Saluran transmisi telekomunikasi,04/12/2024,13/12/2024,0,on_loan,9
+MAHASISWA,Kurn,A011244,Mata di Tanah Melus,04/12/2024,13/12/2024,1,returned,9
+MAHASISWA,Sri,A012398,Pulang - Pergi,04/12/2024,13/12/2024,1,returned,9
+MAHASISWA,Sri,A010340,The Story Girl,04/12/2024,13/12/2024,1,returned,9
+MAHASISWA,RIFK,A1400,Pulang,04/12/2024,13/12/2024,0,on_loan,9
+MAHASISWA,RIFK,A7789,Pergi,04/12/2024,13/12/2024,0,on_loan,9
+MAHASISWA,REGI,A012915,Cantik itu Luka,04/12/2024,13/12/2024,1,returned,9
+DOSEN,Siti,A9396,Analisis Perancangan Sistem Berorientasi Objek dengan UML,05/12/2024,03/06/2025,0,on_loan,180
+MAHASISWA,Nabi,A8512,Sebuah seni untuk bersikap bodo amat : pendekatan yang waras demi menjalani hidup yang baik,05/12/2024,16/12/2024,0,on_loan,11
+MAHASISWA,Muha,A8334,Bintang,05/12/2024,16/12/2024,1,returned,11
+MAHASISWA,Raph,A012949,Optimization and Machine Learning: Optimization for Machine Learning and Machine Learning for Optimization,05/12/2024,16/12/2024,1,returned,11
+MAHASISWA,Raph,A9510,Deep learning : modernisasi machine learning untuk big data,05/12/2024,16/12/2024,1,returned,11
+MAHASISWA,Grah,A010526,Otewe berbenah,05/12/2024,16/12/2024,1,returned,11
+MAHASISWA,RANI,a010211,"Artificial intelligence edisi 3 : searching, reasoning, planning, and learning",06/12/2024,16/12/2024,1,returned,10
+MAHASISWA,Citr,A011497,Manusia dan Badainya,06/12/2024,16/12/2024,1,returned,10
+MAHASISWA,Citr,A8844,The perfect istri salehah,06/12/2024,16/12/2024,1,returned,10
+MAHASISWA,SHOP,A4680,"Beyond 3G: bringing networks, terminals, and the web together",06/12/2024,16/12/2024,1,returned,10
+MAHASISWA,SHOP,A4546,4G Handbook : edisi bahasa Indonesia,06/12/2024,16/12/2024,0,on_loan,10
+MAHASISWA,SHOP,A6118,4G handbook edisi bahasa Indonesia jilid 2 (black&white),06/12/2024,16/12/2024,0,on_loan,10
+MAHASISWA,Imma,A011108,Pengenalan Machine Learning dengan Python: Solusi untuk Permasalahan Big Data,06/12/2024,16/12/2024,1,returned,10
+MAHASISWA,Erna,A8428,Analisis Perancangan Sistem Berorientasi Objek dengan UML,09/12/2024,18/12/2024,0,on_loan,9
+MAHASISWA,Akba,A7999,Buku sakti kuasai excel,09/12/2024,18/12/2024,0,on_loan,9
+MAHASISWA,Akba,A011141,Mengolah Data Statistik dengan MS Excel,09/12/2024,18/12/2024,0,on_loan,9
+MAHASISWA,Maul,A6844,Madilog,09/12/2024,18/12/2024,1,returned,9
+MAHASISWA,LAWR,A7025,Jatuh-bangun Steve Jobs,09/12/2024,18/12/2024,0,on_loan,9
+MAHASISWA,LAWR,A9326,Cerdas berbicara di depan publik,09/12/2024,18/12/2024,0,on_loan,9
+MAHASISWA,Dwi,A7606,Saddha,09/12/2024,18/12/2024,0,on_loan,9
+MAHASISWA,Dwi,A012044,Insecurity is My Middle Name,09/12/2024,18/12/2024,0,on_loan,9
+MAHASISWA,Ayni,A9135,Sakura dalam pelukan,09/12/2024,18/12/2024,1,returned,9
+MAHASISWA,Ayni,A8764,Ana Uhibbuka oppa,09/12/2024,18/12/2024,1,returned,9
+MAHASISWA,Rifa,A012920,Convex Optimization for Machine Learning,10/12/2024,19/12/2024,0,on_loan,9
+MAHASISWA,Rifa,A3614,Prepare your TOEFL test to get high point,10/12/2024,19/12/2024,0,on_loan,9
+MAHASISWA,RANI,A9484,Jung's map of the soul : an introduction,10/12/2024,19/12/2024,0,on_loan,9
+MAHASISWA,BHIM,A9722,Teori-teori psikologi,10/12/2024,19/12/2024,0,on_loan,9
+MAHASISWA,Anni,A1965,Usability engineering,10/12/2024,19/12/2024,0,on_loan,9
+MAHASISWA,DWI,A9274,Manajemen basis data menggunakan mysql,10/12/2024,19/12/2024,1,returned,9
+MAHASISWA,Rest,A7105,The magic library: perpustakaan ajaib Bibbi Bokken,10/12/2024,19/12/2024,0,on_loan,9
+MAHASISWA,Yoga,A010120,Enaknya berdebat dengan orang goblok,10/12/2024,19/12/2024,1,returned,9
+MAHASISWA,Elgi,A011246,Mindset (Edisi Revisi) : Mengubah Pola Berpikir untuk Perubahan Besar dalam Hidup Anda,11/12/2024,20/12/2024,0,on_loan,9
+MAHASISWA,Muha,A7962,Mudah belajar python untuk aplikasi desktop dan web edisi revisi,11/12/2024,20/12/2024,0,on_loan,9
+MAHASISWA,Muha,A8969,Sejarah dunia lengkap : dari manusia,11/12/2024,20/12/2024,0,on_loan,9
+MAHASISWA,Muha,A6231,Jokowi : memimpin kota menyentuh Jakarta,11/12/2024,20/12/2024,0,on_loan,9
+MAHASISWA,Fati,A013098,Pemahaman manajemen sumber daya manusia,11/12/2024,20/12/2024,0,on_loan,9
+MAHASISWA,Kuku,A8347,Negeri Para Bedebah,11/12/2024,20/12/2024,0,on_loan,9
+MAHASISWA,LAWR,A9334,Lancar berdebat : bagaimana menaklukan orang lain secara cerdas,11/12/2024,20/12/2024,0,on_loan,9
+MAHASISWA,Dian,A012988,Pengantar Sistem Logistik dan Rantai Pasok,12/12/2024,23/12/2024,0,on_loan,11
+MAHASISWA,PAND,A011760,Buku Sakti Berbicara: Bagaimana Membangun Komunikasi yang Efektif Kepada Siapa Saja dalam Setiap Situasi,12/12/2024,23/12/2024,0,on_loan,11
+MAHASISWA,PAND,A010051,Personality theories : melacak kepribadian anda bersama psikologi dunia,12/12/2024,23/12/2024,0,on_loan,11
+MAHASISWA,PAND,A011639,The Psychology Of Money,12/12/2024,23/12/2024,0,on_loan,11
+MAHASISWA,Arde,A8834,The magic of leadership,12/12/2024,23/12/2024,0,on_loan,11
+MAHASISWA,Husn,A011641,Rasa,13/12/2024,23/12/2024,0,on_loan,10
+DOSEN,Nova,A8625,"Banyumas : Sejarah, budaya, bahasa, dan watak",16/12/2024,16/06/2025,0,on_loan,182
+MAHASISWA,Grah,A7620,Tuhan Maha Asyik,16/12/2024,27/12/2024,0,on_loan,11
+MAHASISWA,Bula,A010851,"Kalkulus, ed. 8",16/12/2024,27/12/2024,0,on_loan,11
+MAHASISWA,Nadi,A011201,Baca Buku Ini Saat Engkau Ingin Berubah,17/12/2024,27/12/2024,0,on_loan,10
+MAHASISWA,Malo,A012569,Bumi,17/12/2024,27/12/2024,0,on_loan,10
+MAHASISWA,Malo,A1289,Rindu,17/12/2024,27/12/2024,0,on_loan,10
+MAHASISWA,Marl,A010162,Mengukur usability perangkat lunak,17/12/2024,27/12/2024,0,on_loan,10
+MAHASISWA,Fadi,A9030,Deep learning : modernisasi machine learning untuk big data,17/12/2024,27/12/2024,1,returned,10
+MAHASISWA,Kurn,A8906,"Kerja produktif, pikiran aktif : karena asal sibuk saja tidak cukup",17/12/2024,27/12/2024,0,on_loan,10
+MAHASISWA,Ayni,A8857,"Metode penelitian kuantitatif, kualitatif, dan R&D",17/12/2024,27/12/2024,0,on_loan,10
